@@ -26,14 +26,14 @@
     - noninvasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
-  images: images/papers/View.jpg
+  images: images/Papers/View.jpg
   authors: Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
     - transmission Raman spectroscopy
     - Depth estimation
     
 - id: doi:10.1016/j.saa.2022.122163
-  images: images/papers/SAPA-2023.jpg
+  images: images/Papers/SAPA-2023.jpg
   authors: Wenfang Wang, Bowen Shi, Chang He, Siyi Wu, Lan Zhu, Jiang Jiang, Lingyun Wang, Li Lin*, Jian Ye*, Huan Zhang*
   tags:
     - Euclidean distance
@@ -42,7 +42,7 @@
     - Stomach cancer prognosis
 
 - id: doi:10.1002/smtd.202201334 
-  images: images/papers/Smallmethods-2023.jpg
+  images: images/Papers/Smallmethods-2023.jpg
   authors:
    - Zongyu Wu
    - Binge Deng*
@@ -56,7 +56,7 @@
     - Ultrahigh detection depth in biological tissues
 
 - id: doi:10.1021/acs.jpcc.2c02512
-  images: images/papers/JPCC-2022.jpg
+  images: images/Papers/JPCC-2022.jpg
   authors:
    - Haoqi He
    - Shuo Zhu
@@ -71,6 +71,7 @@
 
 - id: doi:10.3390/photonics9060429
   authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie, Jian Ye, Li Lin
+  images: images/Papers/JPCC-2022.jpg
   tags:
     - Bronchoscopy
     - Lung Tissue
