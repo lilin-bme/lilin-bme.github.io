@@ -25,7 +25,8 @@
     - noninvasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
-  images: https://onlinelibrary.wiley.com/cms/asset/0ac685d6-b3a9-4c96-a7c7-79edb28e4114/viw2284-fig-0001-m.jpg
+  images: images/papers/View.jpg
+  authors: Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
     - transmission Raman spectroscopy
     - Depth estimation
