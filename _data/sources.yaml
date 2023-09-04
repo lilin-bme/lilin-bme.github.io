@@ -16,6 +16,7 @@
     - SERS
     - Detection depth assessment
     - Second near-infrared window
+    - NIR-II
 
 - id: doi:10.1002/advs.202301721
   image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
@@ -37,17 +38,32 @@
     - EDRS
     - Stomach cancer prognosis
 
-- id: doi:10.1021/acs.jpcc.2c02512
+- id: doi:10.1002/smtd.202201334 
   images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/24/20230424135217_950.jpg
   authors:
-  - Zongyu Wu
-  - Binge Deng*
-  - Yutong Zhou
-  - Haoqiang Xie
-  - Yumin Zhang
-  - Li Lin*
-  - Jian Ye*
+   - Zongyu Wu
+   - Binge Deng*
+   - Yutong Zhou
+   - Haoqiang Xie
+   - Yumin Zhang
+   - Li Lin*
+   - Jian Ye*
   tags: 
     - transmission Raman spectroscopy
     - Ultrahigh detection depth in biological tissues
+
+- id: doi:10.1021/acs.jpcc.2c02512
+  authors:
+   - Haoqi He
+   - Shuo Zhu
+   - Yumin Zhang
+   - Jian Ye*
+   - Li Lin*
+  tags:
+   - Second near-infrared window
+   - NIR-II
+   - SERS tag
+   - Au nanorod
+  
+  
     
