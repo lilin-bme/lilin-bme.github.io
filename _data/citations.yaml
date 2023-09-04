@@ -110,11 +110,13 @@
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
   authors:
-  - Haoqi He
+  - Zongyu Wu
+  - Binge Deng*
+  - Yutong Zhou
+  - Haoqiang Xie
   - Yumin Zhang
-  - Shuo Zhu
-  - Jian Ye
-  - Li Lin
+  - Li Lin*
+  - Jian Ye*
   publisher: The Journal of Physical Chemistry C
   date: '2022-07-22'
   link: https://doi.org/gsn3qw
