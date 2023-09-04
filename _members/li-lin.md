@@ -1,6 +1,6 @@
 ---
 name: Li Lin
-image: images/photo.jpg
+image: images/members/lilin.jpg
 description: Assistant Professor
 role: pi     
 links:
