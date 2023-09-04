@@ -3,20 +3,14 @@
 
 # LIN LAB AT SJTU
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+An engaging 1-3 sentence description of your lab.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="projects"
+  text="See our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
