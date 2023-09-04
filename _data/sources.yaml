@@ -4,9 +4,6 @@
   description: We report the use of surface-enhanced Raman scattering nanotags embedded in ex-vivo animal tissues for direct and quantitative measurements of light attenuation and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
   date: '2023-09-01'
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44258-023-00010-2/MediaObjects/44258_2023_10_Figa_HTML.png?as=webp
-  buttons:
-    - type: website
-      link: https://link.springer.com/article/10.1007/s44258-023-00010-2
   tags:
     - SERS
     - Detection depth assessment
@@ -14,18 +11,12 @@
 
 - id: doi:10.1002/advs.202301721
   image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
-  buttons:
-    - type: website
-      link: https://onlinelibrary.wiley.com/doi/10.1002/advs.202301721
   tags: 
    - transmission Raman spectroscopy
    - non-invasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
   images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/23/20230423134000_290.jpg
-  buttons:
-   - type: website
-      link: https://onlinelibrary.wiley.com/doi/10.1002/VIW.20230022
   tags: 
    - transmission Raman spectroscopy
    - Depth estimation
@@ -33,7 +24,8 @@
 - id: doi:10.1016/j.saa.2022.122163
   images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/19/20230419135403_322.jpg
   tags:
-    - Euclidean distance-based Raman spectroscopy
+    - Euclidean distance
+    - Raman spectroscopy
     - EDRS
     - Stomach cancer prognosis
 
