@@ -68,6 +68,26 @@
    - NIR-II
    - SERS tag
    - Au nanorod
-  
-  
+
+ - id: doi:10.3390/photonics9060429
+  tags:
+   - Bronchoscopy
+   - Lung Tissue
+   - SERS Nanoparticle
+   - GERTs
+  authors:
+   - Zongyu Wu
+   - Ziwen Wang
+   - Haoqiang Xie
+   - Yiming Wang
+   - Haoqi He
+   - Shuming Nie
+   - Jian Ye
+   - Li Lin*
+   
+ - id: doi:10.1021/acsami.2c01063
+   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
+
+ - id: doi:10.1016/j.mtbio.2022.100205
+   authors: Yao Lu, Li Lin*, Jian Ye*
     
