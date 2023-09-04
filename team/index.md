@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 6
+  order: 4
   tooltip: About our team
 ---
 
@@ -47,6 +47,6 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 
 # <i class="fas fa-user-graduate"></i>Alumni
 
-- Hao-qi He, Shanghai Jiao Tong University, Master Student, 2020-2023
+- Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
 
 - Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
