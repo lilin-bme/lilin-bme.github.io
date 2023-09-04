@@ -1,82 +1,368 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/s44258-023-00010-2
+  title: "Direct and quantitative assessments of near-infrared light attenuation and\
+    \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
+    \ Raman scattering"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Li Lin
+  - Haoqi He
+  - Ruiyang Xue
+  - Yumin Zhang
+  - Ziwen Wang
+  - Shuming Nie
+  - Jian Ye
+  publisher: Med-X
+  date: '2023-08-24'
+  link: https://doi.org/gsn3qs
+  orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1002/advs.202301721
+  title: "Non\u2010Invasive Detection, Precise Localization, and Perioperative Navigation\
+    \ of In Vivo Deep Lesions Using Transmission Raman Spectroscopy"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Zongyu Wu
+  - Binge Deng
+  - Yutong Zhou
+  - Haoqiang Xie
+  - Yumin Zhang
+  - Li Lin
+  - Jian Ye
+  publisher: Advanced Science
+  date: '2023-06-20'
+  link: https://doi.org/gsn3qt
+  orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1002/viw.20230022
+  title: A rapid and universal method for depth estimation of lesions in heterogeneous
+    tissues via photosafe ratiometric transmission Raman spectroscopy
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Yumin Zhang
+  - Li Lin
+  - Jian Ye
+  publisher: VIEW
+  date: '2023-04-20'
+  link: https://doi.org/gsd9r3
+  orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.saa.2022.122163
+  title: 'Euclidean distance-based Raman spectroscopy (EDRS) for the prognosis analysis
+    of gastric cancer: A solution to tumor heterogeneity'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Wenfang Wang
+  - Bowen Shi
+  - Chang He
+  - Siyi Wu
+  - Lan Zhu
+  - Jiang Jiang
+  - Lingyun Wang
+  - Li Lin
+  - Jian Ye
+  - Huan Zhang
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2023-03-01'
+  link: https://doi.org/grwfk3
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smtd.202201334
+  title: "In\_Vivo Surface\u2010Enhanced Transmission Raman Spectroscopy under Maximum\
+    \ Permissible Exposure: Toward Photosafe Detection of Deep\u2010Seated Tumors"
+  authors:
+  - Yumin Zhang
+  - Ruoyu Chen
+  - Fugang Liu
+  - Peng Miao
+  - Li Lin
+  - Jian Ye
+  publisher: Small Methods
+  date: '2022-12-26'
+  link: https://doi.org/gsn3qv
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.2c02512
+  title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
+  authors:
+  - Haoqi He
+  - Yumin Zhang
+  - Shuo Zhu
+  - Jian Ye
+  - Li Lin
+  publisher: The Journal of Physical Chemistry C
+  date: '2022-07-22'
+  link: https://doi.org/gsn3qw
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/photonics9060429
+  title: 'Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using
+    Ex Vivo Lung Tissues and SERS Nanoparticle Tags'
+  authors:
+  - Zongyu Wu
+  - Ziwen Wang
+  - Haoqiang Xie
+  - Yiming Wang
+  - Haoqi He
+  - Shuming Nie
+  - Jian Ye
+  - Li Lin
+  publisher: Photonics
+  date: '2022-06-17'
+  link: https://doi.org/gsn3qx
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.2c01063
+  title: Surface-Enhanced Raman Scattering Bioimaging with an Ultrahigh Signal-to-Background
+    Ratio under Ambient Light
+  authors:
+  - Shuo Zhu
+  - Binge Deng
+  - Fugang Liu
+  - Jin Li
+  - Li Lin
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2022-02-14'
+  link: https://doi.org/gsn3qz
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mtbio.2022.100205
+  title: Human metabolite detection by surface-enhanced Raman spectroscopy
+  authors:
+  - Yao Lu
+  - Li Lin
+  - Jian Ye
+  publisher: Materials Today Bio
+  date: '2022-01-01'
+  link: https://doi.org/gsn3q2
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/3m-nano49087.2021.9599773
+  title: Silver nanocubes-based bimetallic core-shell surface-enhanced Raman scattering
+    nanoprobes for cell imaging
+  authors:
+  - Jiao Peng
+  - Li Lin
+  - Jian Ye
+  publisher: 2021 IEEE International Conference on Manipulation, Manufacturing and
+    Measurement on the Nanoscale (3M-NANO)
+  date: '2021-08-02'
+  link: https://doi.org/gsn3q3
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S1793545821410017
+  title: Optical penetration of surface-enhanced micro-scale spatial offset Raman
+    spectroscopy in turbid gel and biological tissue
+  authors:
+  - Yumin Zhang
+  - Li Lin
+  - Jing He
+  - Jian Ye
+  publisher: Journal of Innovative Optical Health Sciences
+  date: '2021-02-22'
+  link: https://doi.org/gsn3q4
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/nanoph-2021-0116
+  title: Probing electron transport in plasmonic molecular junctions with two-photon
+    luminescence spectroscopy
+  authors:
+  - Qiang Zhang
+  - Danjun Liu
+  - Qun Ren
+  - Nicolae C. Panoiu
+  - Li Lin
+  - Jian Ye
+  - Yang Huang
+  - Shao-Ding Liu
+  - Chi Wah Leung
+  - Dangyuan Lei
+  publisher: Nanophotonics
+  date: '2021-06-09'
+  link: https://doi.org/gkhk87
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0047578
+  title: Surface-enhanced Raman scattering nanotags for bioimaging
+  authors:
+  - Li Lin
+  - Xinyuan Bi
+  - Yuqing Gu
+  - Fu Wang
+  - Jian Ye
+  publisher: Journal of Applied Physics
+  date: '2021-05-17'
+  link: https://doi.org/gj3g28
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.0c09552
+  title: "Atomic Insights into the Evolution of Three-Dimensional Molecular Junctions\
+    \ in Plasmonic Core\u2013Shell Nanoparticles"
+  authors:
+  - Li Lin
+  - Weiming Ji
+  - Lu-Wen Zhang
+  - Jian Ye
+  publisher: The Journal of Physical Chemistry C
+  date: '2021-01-15'
+  link: https://doi.org/gsn3q5
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-15-7627-0_9
+  title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
+  authors:
+  - Li Lin
+  - Jian Ye
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2021-01-01'
+  link: https://doi.org/gsn3q6
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-14070-9
+  title: Gap-enhanced Raman tags for physically unclonable anticounterfeiting labels
+  authors:
+  - Yuqing Gu
+  - Chang He
+  - Yuqing Zhang
+  - Li Lin
+  - Benjamin David Thackray
+  - Jian Ye
+  publisher: Nature Communications
+  date: '2020-01-24'
+  link: https://doi.org/gn2w7s
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7150/thno.39968
+  title: 'Gap-enhanced Raman tags: fabrication, optical properties, and theranostic
+    applications'
+  authors:
+  - Nikolai G. Khlebtsov
+  - Li Lin
+  - Boris N. Khlebtsov
+  - Jian Ye
+  publisher: Theranostics
+  date: '2020-01-01'
+  link: https://doi.org/gqxn2c
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apsusc.2019.05.200
+  title: "Sub-100\u202Fnm multi-shell bimetallic gap-enhanced Raman tags"
+  authors:
+  - Zhixiang Ye
+  - Li Lin
+  - Ziyang Tan
+  - Yu-Jia Zeng
+  - Shuangchen Ruan
+  - Jian Ye
+  publisher: Applied Surface Science
+  date: '2019-09-01'
+  link: https://doi.org/gsn3q7
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smtd.201800182
+  title: Surface-Enhanced Raman Nanoprobes with Embedded Standards for Quantitative
+    Cholesterol Detection
+  authors:
+  - Xin Jiang
+  - Ziyang Tan
+  - Li Lin
+  - Jing He
+  - Chang He
+  - Benjamin D. Thackray
+  - Yuqing Zhang
+  - Jian Ye
+  publisher: Small Methods
+  date: '2018-08-23'
+  link: https://doi.org/gsn3q8
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.7b08224
+  title: Electron Transport Across Plasmonic Molecular Nanogaps Interrogated with
+    Surface-Enhanced Raman Scattering
+  authors:
+  - Li Lin
+  - Qiang Zhang
+  - Xiyao Li
+  - Meng Qiu
+  - Xin Jiang
+  - Wei Jin
+  - Hongchen Gu
+  - Dang Yuan Lei
+  - Jian Ye
+  publisher: ACS Nano
+  date: '2018-06-20'
+  link: https://doi.org/gdrzr8
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.6b15170
+  title: Ultraphotostable Mesoporous Silica-Coated Gap-Enhanced Raman Tags (GERTs)
+    for High-Speed Bioimaging
+  authors:
+  - Yuqing Zhang
+  - Yuanyuan Qiu
+  - Li Lin
+  - Hongchen Gu
+  - Zeyu Xiao
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2017-01-24'
+  link: https://doi.org/f9qs7z
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6nr08501f
+  title: Quantifying the reflective index of nanometer-thick thiolated molecular layers
+    on nanoparticles
+  authors:
+  - Li Lin
+  - Zhonghui Liu
+  - Xiyao Li
+  - Hongchen Gu
+  - Jian Ye
+  publisher: Nanoscale
+  date: '2017-01-01'
+  link: https://doi.org/gsn3q9
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: "Nanooptics of plasmonic nanomatryoshkas: shrinking the size of a core\u2013\
+    shell junction to subnanometer"
+  publisher: Nano Letters
+  date: '2018-08-29'
+  link: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02931
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c5cc06599b
+  title: Plasmonic multi-shell nanomatryoshka particles as highly tunable SERS tags
+    with built-in reporters
+  authors:
+  - Li Lin
+  - Hongchen Gu
+  - Jian Ye
+  publisher: Chemical Communications
+  date: '2015-01-01'
+  link: https://doi.org/gsn3rb
+  orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +378,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +394,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
