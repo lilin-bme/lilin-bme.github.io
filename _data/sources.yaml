@@ -63,9 +63,10 @@
     - NIR-II
     - SERS tag
     - Au nanorod
+    
 - id: doi:10.3390/photonics9060429
   authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie, Jian Ye, Li Lin
-  image: images/Papers/JPCC-2022.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
   tags:
     - Bronchoscopy
     - Lung Tissue
@@ -75,10 +76,11 @@
 - id: doi:10.1021/acsami.2c01063
   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
   tags:
-     - Au nanorod
+    - Au nanorod
      
 - id: doi:10.1016/j.mtbio.2022.100205
   authors: Yao Lu, Li Lin*, Jian Ye*
+  image: images/Papers/mtb-2022.jpg
   tags:
     - SERS
 
