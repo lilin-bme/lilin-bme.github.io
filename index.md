@@ -24,15 +24,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% endcapture %}
 
-
 {%
   include feature.html
   image="images/photo.jpg"
-  link="Contact"
   title="Our Research"
   text=text
 %}
 
+{% capture text %}
+
+ We are hiring a Postdoc (join any time) and a master student (join 2024 fall). 
+
+{%
+  include button.html
+  link="Contact"
+  text="Contact us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Contact us"
+  text=text
+%}
 
 {% include section.html %}
 
