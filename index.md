@@ -31,9 +31,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-## OPEN POSITIONS
+{% include section.html %}
 
-{% capture text %}
+## OPEN POSITIONS
 
  We are hiring a Postdoc (join any time) and a master student (join 2024 fall). 
 
@@ -45,9 +45,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
-
 
 {% include section.html %}
 
