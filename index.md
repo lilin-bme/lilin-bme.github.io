@@ -33,7 +33,7 @@ An engaging 1-3 sentence description of your lab.
 
 {%
   include button.html
-  link="Contact"
+  link="https://lilin-bme.github.io/Lin-lab-website/Contact"
   text="Contact us"
   icon="fa-solid fa-arrow-right"
   flip=true
