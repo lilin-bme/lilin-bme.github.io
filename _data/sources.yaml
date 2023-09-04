@@ -65,8 +65,8 @@
     - Au nanorod
     
 - id: doi:10.3390/photonics9060429
-  authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie, Jian Ye, Li Lin
-  image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
+  authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie, Jian Ye, Li Lin*
+  image: images/Papers/Photonics-2022.jpg
   tags:
     - Bronchoscopy
     - Lung Tissue
@@ -83,5 +83,28 @@
   image: images/Papers/mtb-2022.jpg
   tags:
     - SERS
+    - Metabolite detection
 
+- id: doi:10.1063/5.0047578 
+  authors: Li Lin, Xinyuan Bi, Yuqing Gu, Fu Wang, Jian Ye*
+  image: images/Papers/JAP-2021.jpg
+  tags:
+    - review
+    - SERS
+
+- id: doi:10.1142/S1793545821410017
+  authors: Yumin Zhang#, Li Lin#, Jing He, Jian Ye*
+  image: images/Papers/JAP-2021.jpg
+  tags:
+    - Au nanorod
+    - SERS
+
+- id: doi:10.1021/acs.jpcc.0c09552
+  authors: Li Lin, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
+  image: images/Papers/JPCC-2021.jpg
+  tags:
+    - Molecular dynamics
+    - GERTs
+    - Plasmonic junction
     
+
