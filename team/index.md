@@ -33,6 +33,20 @@ nav:
 %}
 {:.center}
 
+{% include section.html %}
+
+## Undergraduates
+
+Zongyu Wu, Shanghai Jiao Tong University, 2021-now
+
+Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
+
+Han Gu, Shanghai Jiao Tong University, 2023-now
+
+{% include section.html %}
+
 # <i class="fas fa-user-graduate"></i>Alumni
 
-- Chengkun Yang (Emory U. undergraduate), summer intern, 2023.7-2023.8
+- Hao-qi He, Shanghai Jiao Tong University, Master Student, 2020-2023
+
+- Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
