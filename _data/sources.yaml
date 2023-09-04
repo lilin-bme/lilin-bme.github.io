@@ -22,14 +22,14 @@
   image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
   authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
-    - transmission Raman spectroscopy
+    - Transmission Raman spectroscopy
     - noninvasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
   image: images/Papers/View.jpg
   authors: Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
-    - transmission Raman spectroscopy
+    - Transmission Raman spectroscopy
     - Depth estimation
     
 - id: doi:10.1016/j.saa.2022.122163
@@ -94,7 +94,6 @@
 
 - id: doi:10.1142/S1793545821410017
   authors: Yumin Zhang#, Li Lin#, Jing He, Jian Ye*
-  image: images/Papers/JAP-2021.jpg
   tags:
     - Au nanorod
     - SERS
@@ -107,4 +106,10 @@
     - GERTs
     - Plasmonic junction
     
-
+- id: doi:10.1007/978-981-15-7627-0_9
+  authors: Li Lin, Jian Ye
+  image: images/Papers/Bookchapter-2021.jpg
+  tags:
+    - Book chapter
+    - Spontaneous Raman spectroscopy 
+   
