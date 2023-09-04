@@ -1,35 +1,4 @@
-- id: doi:10.1007/s44258-023-00010-2
-  type: paper
-  description: We report the use of surface-enhanced Raman scattering nanotags embedded in ex-vivo animal tissues for direct and quantitative measurements of light attenuation and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
-  date: '2023-08-14'
-  authors:
-  - Li Lin*
-  - Haoqi He
-  - Ruiyang Xue
-  - Yumin Zhang
-  - Ziwen Wang
-  - Shuming Nie*
-  - Jian Ye*
-  image: images/Papers/MEDX2023.jpg
-  tags:
-    - SERS
-    - Detection depth assessment
-    - Second near-infrared window
-    - NIR-II
 
-- id: doi:10.1002/advs.202301721
-  image: images/Papers/AS2023.jpg
-  authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, Jian Ye*
-  tags: 
-    - Transmission Raman spectroscopy
-    - noninvasive in vivo detection
-      
-- id: doi:10.1002/viw.20230022
-  image: images/Papers/View.jpg
-  authors: Yumin Zhang, Li Lin*, Jian Ye*
-  tags: 
-    - Transmission Raman spectroscopy
-    - Depth estimation
     
 
 
