@@ -1,6 +1,6 @@
 ---
 name: Shiyan Fang
-image: images/photo.jpg
+image: images/members/shiyan-fang.jpg
 description: PhD student
 role: phd
 links:
