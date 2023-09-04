@@ -114,14 +114,14 @@
   title: 'Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using
     Ex Vivo Lung Tissues and SERS Nanoparticle Tags'
   authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie,
-    Jian Ye, Li Lin
+    Jian Ye, Li Lin*
   publisher: Photonics
   date: '2022-06-17'
   link: https://doi.org/gsn3qx
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
+  image: images/Papers/Photonics-2022.jpg
   tags:
   - Bronchoscopy
   - Lung Tissue
@@ -151,6 +151,7 @@
   image: images/Papers/mtb-2022.jpg
   tags:
   - SERS
+  - Metabolite detection
 - id: doi:10.1109/3m-nano49087.2021.9599773
   title: Silver nanocubes-based bimetallic core-shell surface-enhanced Raman scattering
     nanoprobes for cell imaging
@@ -168,17 +169,17 @@
 - id: doi:10.1142/S1793545821410017
   title: Optical penetration of surface-enhanced micro-scale spatial offset Raman
     spectroscopy in turbid gel and biological tissue
-  authors:
-  - Yumin Zhang
-  - Li Lin
-  - Jing He
-  - Jian Ye
+  authors: Yumin Zhang#, Li Lin#, Jing He, Jian Ye*
   publisher: Journal of Innovative Optical Health Sciences
   date: '2021-02-22'
   link: https://doi.org/gsn3q4
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/JAP-2021.jpg
+  tags:
+  - Au nanorod
+  - SERS
 - id: doi:10.1515/nanoph-2021-0116
   title: Probing electron transport in plasmonic molecular junctions with two-photon
     luminescence spectroscopy
@@ -201,32 +202,32 @@
   file: orcid.yaml
 - id: doi:10.1063/5.0047578
   title: Surface-enhanced Raman scattering nanotags for bioimaging
-  authors:
-  - Li Lin
-  - Xinyuan Bi
-  - Yuqing Gu
-  - Fu Wang
-  - Jian Ye
+  authors: Li Lin, Xinyuan Bi, Yuqing Gu, Fu Wang, Jian Ye*
   publisher: Journal of Applied Physics
   date: '2021-05-17'
   link: https://doi.org/gj3g28
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/JAP-2021.jpg
+  tags:
+  - review
+  - SERS
 - id: doi:10.1021/acs.jpcc.0c09552
   title: "Atomic Insights into the Evolution of Three-Dimensional Molecular Junctions\
     \ in Plasmonic Core\u2013Shell Nanoparticles"
-  authors:
-  - Li Lin
-  - Weiming Ji
-  - Lu-Wen Zhang
-  - Jian Ye
+  authors: Li Lin, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
   publisher: The Journal of Physical Chemistry C
   date: '2021-01-15'
   link: https://doi.org/gsn3q5
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/JPCC-2021.jpg
+  tags:
+  - Molecular dynamics
+  - GERTs
+  - Plasmonic junction
 - id: doi:10.1007/978-981-15-7627-0_9
   title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
   authors:
