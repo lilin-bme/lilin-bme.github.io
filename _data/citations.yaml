@@ -169,16 +169,17 @@
 - id: doi:10.1142/S1793545821410017
   title: Optical penetration of surface-enhanced micro-scale spatial offset Raman
     spectroscopy in turbid gel and biological tissue
-  authors: Yumin Zhang#, Li Lin#, Jing He, Jian Ye*
+  authors:
+  - Yumin Zhang
+  - Li Lin
+  - Jing He
+  - Jian Ye
   publisher: Journal of Innovative Optical Health Sciences
   date: '2021-02-22'
   link: https://doi.org/gsn3q4
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - Au nanorod
-  - SERS
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1515/nanoph-2021-0116
   title: Probing electron transport in plasmonic molecular junctions with two-photon
     luminescence spectroscopy
@@ -201,45 +202,43 @@
   file: orcid.yaml
 - id: doi:10.1063/5.0047578
   title: Surface-enhanced Raman scattering nanotags for bioimaging
-  authors: Li Lin, Xinyuan Bi, Yuqing Gu, Fu Wang, Jian Ye*
+  authors:
+  - Li Lin
+  - Xinyuan Bi
+  - Yuqing Gu
+  - Fu Wang
+  - Jian Ye
   publisher: Journal of Applied Physics
   date: '2021-05-17'
   link: https://doi.org/gj3g28
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/JAP-2021.jpg
-  tags:
-  - review
-  - SERS
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcc.0c09552
   title: "Atomic Insights into the Evolution of Three-Dimensional Molecular Junctions\
     \ in Plasmonic Core\u2013Shell Nanoparticles"
-  authors: Li Lin, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
+  authors:
+  - Li Lin
+  - Weiming Ji
+  - Lu-Wen Zhang
+  - Jian Ye
   publisher: The Journal of Physical Chemistry C
   date: '2021-01-15'
   link: https://doi.org/gsn3q5
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/JPCC-2021.jpg
-  tags:
-  - Molecular dynamics
-  - GERTs
-  - Plasmonic junction
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-981-15-7627-0_9
   title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
-  authors: Li Lin, Jian Ye
+  authors:
+  - Li Lin
+  - Jian Ye
   publisher: Advances in Experimental Medicine and Biology
   date: '2021-01-01'
   link: https://doi.org/gsn3q6
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/Bookchapter-2021.jpg
-  tags:
-  - Book chapter
-  - Spontaneous Raman spectroscopy
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-019-14070-9
   title: Gap-enhanced Raman tags for physically unclonable anticounterfeiting labels
   authors:
