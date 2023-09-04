@@ -67,5 +67,3 @@ Biosensors.
 Journal of Innovative Optical Health Sciences.
 IEEE Transactions on Biomedical Engineering.
 
-
-{% include list.html data="posts" component="post-excerpt" %}
