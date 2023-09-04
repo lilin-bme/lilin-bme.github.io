@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-
+- (*) indicates corresponding authors.
+  
 {% include section.html %}
 
 ## Highlighted
