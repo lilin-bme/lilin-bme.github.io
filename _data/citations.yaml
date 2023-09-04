@@ -13,7 +13,7 @@
   - Shuming Nie
   - Jian Ye
   publisher: Med-X
-  date: '2023-09-01'
+  date: '2023-08-14'
   link: https://doi.org/gsn3qs
   orcid: 0000-0002-8079-5768
   plugin: sources.py
@@ -23,14 +23,6 @@
     in ex-vivo animal tissues for direct and quantitative measurements of light attenuation
     and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44258-023-00010-2/MediaObjects/44258_2023_10_Figa_HTML.png?as=webp
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: https://link.springer.com/article/10.1007/s44258-023-00010-2
   tags:
   - SERS
   - Detection depth assessment
@@ -53,6 +45,9 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
+  tags:
+  - transmission Raman spectroscopy
+  - noninvasive in vivo detection
 - id: doi:10.1002/viw.20230022
   title: A rapid and universal method for depth estimation of lesions in heterogeneous
     tissues via photosafe ratiometric transmission Raman spectroscopy
@@ -64,8 +59,12 @@
   date: '2023-04-20'
   link: https://doi.org/gsd9r3
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/23/20230423134000_290.jpg
+  tags:
+  - transmission Raman spectroscopy
+  - Depth estimation
 - id: doi:10.1016/j.saa.2022.122163
   title: 'Euclidean distance-based Raman spectroscopy (EDRS) for the prognosis analysis
     of gastric cancer: A solution to tumor heterogeneity'
@@ -84,8 +83,14 @@
   date: '2023-03-01'
   link: https://doi.org/grwfk3
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/19/20230419135403_322.jpg
+  tags:
+  - Euclidean distance
+  - Raman spectroscopy
+  - EDRS
+  - Stomach cancer prognosis
 - id: doi:10.1002/smtd.202201334
   title: "In\_Vivo Surface\u2010Enhanced Transmission Raman Spectroscopy under Maximum\
     \ Permissible Exposure: Toward Photosafe Detection of Deep\u2010Seated Tumors"
@@ -383,34 +388,3 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
