@@ -64,25 +64,6 @@
     - SERS tag
     - Au nanorod
     
-- id: doi:10.3390/photonics9060429
-  authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie, Jian Ye, Li Lin*
-  image: images/Papers/Photonics-2022.jpg
-  tags:
-    - Bronchoscopy
-    - Lung Tissue
-    - SERS Nanoparticle
-    - GERTs
-   
-- id: doi:10.1021/acsami.2c01063
-  authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
-  tags:
-    - Au nanorod
-     
-- id: doi:10.1016/j.mtbio.2022.100205
-  authors: Yao Lu, Li Lin*, Jian Ye*
-  image: images/Papers/mtb-2022.jpg
-  tags:
-    - SERS
-    - Metabolite detection
+
 
    
