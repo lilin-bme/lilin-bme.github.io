@@ -16,7 +16,7 @@
     - noninvasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
-  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/23/20230423134000_290.jpg
+  images: https://onlinelibrary.wiley.com/cms/asset/0ac685d6-b3a9-4c96-a7c7-79edb28e4114/viw2284-fig-0001-m.jpg
   tags: 
     - transmission Raman spectroscopy
     - Depth estimation
@@ -29,3 +29,9 @@
     - EDRS
     - Stomach cancer prognosis
 
+ - id: doi:10.1002/smtd.202201334
+  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/24/20230424135217_950.jpg
+  tags: 
+    - transmission Raman spectroscopy
+    - Ultrahigh detection depth in biological tissues
+    
