@@ -27,6 +27,7 @@
   - SERS
   - Detection depth assessment
   - Second near-infrared window
+  - NIR-II
 - id: doi:10.1002/advs.202301721
   title: "Non\u2010Invasive Detection, Precise Localization, and Perioperative Navigation\
     \ of In Vivo Deep Lesions Using Transmission Raman Spectroscopy"
@@ -95,21 +96,6 @@
   title: "In\_Vivo Surface\u2010Enhanced Transmission Raman Spectroscopy under Maximum\
     \ Permissible Exposure: Toward Photosafe Detection of Deep\u2010Seated Tumors"
   authors:
-  - Yumin Zhang
-  - Ruoyu Chen
-  - Fugang Liu
-  - Peng Miao
-  - Li Lin
-  - Jian Ye
-  publisher: Small Methods
-  date: '2022-12-26'
-  link: https://doi.org/gsn3qv
-  orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1021/acs.jpcc.2c02512
-  title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
-  authors:
   - Zongyu Wu
   - Binge Deng*
   - Yutong Zhou
@@ -117,9 +103,9 @@
   - Yumin Zhang
   - Li Lin*
   - Jian Ye*
-  publisher: The Journal of Physical Chemistry C
-  date: '2022-07-22'
-  link: https://doi.org/gsn3qw
+  publisher: Small Methods
+  date: '2022-12-26'
+  link: https://doi.org/gsn3qv
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
@@ -127,6 +113,25 @@
   tags:
   - transmission Raman spectroscopy
   - Ultrahigh detection depth in biological tissues
+- id: doi:10.1021/acs.jpcc.2c02512
+  title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
+  authors:
+  - Haoqi He
+  - Shuo Zhu
+  - Yumin Zhang
+  - Jian Ye*
+  - Li Lin*
+  publisher: The Journal of Physical Chemistry C
+  date: '2022-07-22'
+  link: https://doi.org/gsn3qw
+  orcid: 0000-0002-8079-5768
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - Second near-infrared window
+  - NIR-II
+  - SERS tag
+  - Au nanorod
 - id: doi:10.3390/photonics9060429
   title: 'Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using
     Ex Vivo Lung Tissues and SERS Nanoparticle Tags'
