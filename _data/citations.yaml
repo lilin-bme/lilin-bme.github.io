@@ -113,45 +113,49 @@
 - id: doi:10.3390/photonics9060429
   title: 'Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using
     Ex Vivo Lung Tissues and SERS Nanoparticle Tags'
-  authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie,
-    Jian Ye, Li Lin*
+  authors:
+  - Zongyu Wu
+  - Ziwen Wang
+  - Haoqiang Xie
+  - Yiming Wang
+  - Haoqi He
+  - Shuming Nie
+  - Jian Ye
+  - Li Lin
   publisher: Photonics
   date: '2022-06-17'
   link: https://doi.org/gsn3qx
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/Photonics-2022.jpg
-  tags:
-  - Bronchoscopy
-  - Lung Tissue
-  - SERS Nanoparticle
-  - GERTs
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.2c01063
   title: Surface-Enhanced Raman Scattering Bioimaging with an Ultrahigh Signal-to-Background
     Ratio under Ambient Light
-  authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
+  authors:
+  - Shuo Zhu
+  - Binge Deng
+  - Fugang Liu
+  - Jin Li
+  - Li Lin
+  - Jian Ye
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2022-02-14'
   link: https://doi.org/gsn3qz
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - Au nanorod
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.mtbio.2022.100205
   title: Human metabolite detection by surface-enhanced Raman spectroscopy
-  authors: Yao Lu, Li Lin*, Jian Ye*
+  authors:
+  - Yao Lu
+  - Li Lin
+  - Jian Ye
   publisher: Materials Today Bio
   date: '2022-01-01'
   link: https://doi.org/gsn3q2
   orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/mtb-2022.jpg
-  tags:
-  - SERS
-  - Metabolite detection
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/3m-nano49087.2021.9599773
   title: Silver nanocubes-based bimetallic core-shell surface-enhanced Raman scattering
     nanoprobes for cell imaging
