@@ -24,19 +24,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% endcapture %}
 
+
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="Contact"
   title="Our Research"
   text=text
 %}
 
+
+{% include section.html %}
+
 ## Recent News
 
 Last updated Sept 3, 2023
-
-- We are hiring a Postdoc (join any time) and a master student (join 2024 fall).
 
 - Aug 3, 2023: An academic paper entitled "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 - May 25, 2023: The Undergraduate Program by Xie Haoqiang was awarded as "National Student Innovation and Entrepreneurship Training Program". Congrats.
@@ -45,21 +47,4 @@ Last updated Sept 3, 2023
 - Mar 05, 2023: Haoqi HE has passed through the master defense.
 - July 22, 2022: Academic research entitled “Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study” was accepted by the Journal of Physical Chemistry C.
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
