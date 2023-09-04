@@ -9,10 +9,7 @@ footer: images/SJTU.jpg
 links:
   email: linli92@sjtu.edu.cn
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: lilin-bme
-  twitter: lilin-bme
-  youtube: lilin-bme
+  google-scholar: https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN
 
 ### jekyll settings
 
