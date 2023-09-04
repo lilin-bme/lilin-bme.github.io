@@ -11,27 +11,35 @@ Contact Prof. Li Lin
 
 - Address: Room 207 MED-X Research Institute, Shanghai Jiao Tong University, 1954 Huashan Road, Shanghai, P.R. China, 200030.
 - Email: linli92@sjtu.edu.cn
+- 
 {%
   include button.html
   type="email"
   text="linli92@sjtu.edu.cn"
   link="linli92@sjtu.edu.cn"
 %}
-- Department homepage
+
 {%
   include button.html
   type="website"
-  text="Homepage (Chinese)"
+  text="Google Scholar"
   link="https://bme.sjtu.edu.cn/Web/FacultyDetail/917"
 %}
 
-Our team is in deep cooperation with Professor Jian Ye's group at SJTU. See their website for more details!
+{%
+  include button.html
+  type="website"
+  text="Researchgate"
+  link="https://www.researchgate.net/profile/Li-Lin-71"
+%}
+
+Our team is in deep cooperation with Professor Jian Ye's group at SJTU. We jointly train graduate students and share cooperated projects. See their website for more details!
 {%
   include button.html
   type="website"
   tooltip="Ye lab at SJTU"
-   text="Ye lab website"
-   link="http://www.yelab.sjtu.edu.cn/index.php"
+  text="Ye lab website"
+  link="http://www.yelab.sjtu.edu.cn/index.php"
 %}
 
 {% include section.html %}
