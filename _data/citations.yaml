@@ -121,7 +121,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  image: images/Papers/JPCC-2022.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
   tags:
   - Bronchoscopy
   - Lung Tissue
@@ -148,6 +148,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
+  image: images/Papers/mtb-2022.jpg
   tags:
   - SERS
 - id: doi:10.1109/3m-nano49087.2021.9599773
