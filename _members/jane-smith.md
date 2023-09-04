@@ -1,13 +1,11 @@
 ---
-name: Jane Smith
+name: Li Lin
 image: images/photo.jpg
-role: pi
-aliases:
-  - J. Smith
-  - J Smith
+description: Assistant Professor
+role: pi     
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://bme.sjtu.edu.cn/Web/FacultyDetail/917
+  orcid: 0000-0002-8079-5768
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
