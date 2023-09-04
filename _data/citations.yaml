@@ -31,14 +31,8 @@
 - id: doi:10.1002/advs.202301721
   title: "Non\u2010Invasive Detection, Precise Localization, and Perioperative Navigation\
     \ of In Vivo Deep Lesions Using Transmission Raman Spectroscopy"
-  authors:
-  - Zongyu Wu
-  - Binge Deng
-  - Yutong Zhou
-  - Haoqiang Xie
-  - Yumin Zhang
-  - Li Lin
-  - Jian Ye
+  authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*,
+    Jian Ye*
   publisher: Advanced Science
   date: '2023-06-20'
   link: https://doi.org/gsn3qt
@@ -66,24 +60,15 @@
 - id: doi:10.1016/j.saa.2022.122163
   title: 'Euclidean distance-based Raman spectroscopy (EDRS) for the prognosis analysis
     of gastric cancer: A solution to tumor heterogeneity'
-  authors:
-  - Wenfang Wang
-  - Bowen Shi
-  - Chang He
-  - Siyi Wu
-  - Lan Zhu
-  - Jiang Jiang
-  - Lingyun Wang
-  - Li Lin
-  - Jian Ye
-  - Huan Zhang
+  authors: Wenfang Wang, Bowen Shi, Chang He, Siyi Wu, Lan Zhu, Jiang Jiang, Lingyun
+    Wang, Li Lin*, Jian Ye*, Huan Zhang*
   publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
   date: '2023-03-01'
   link: https://doi.org/grwfk3
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/19/20230419135403_322.jpg
+  images: images/papers/SAPA-2023.jpg
   tags:
   - Euclidean distance
   - Raman spectroscopy
@@ -106,7 +91,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/24/20230424135217_950.jpg
+  images: images/papers/Smallmethods-2023.jpg
   tags:
   - transmission Raman spectroscopy
   - Ultrahigh detection depth in biological tissues
@@ -124,6 +109,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
+  images: images/papers/JPCC-2022.jpg
   tags:
   - Second near-infrared window
   - NIR-II
