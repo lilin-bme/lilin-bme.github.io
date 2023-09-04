@@ -53,7 +53,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: images/papers/View.jpg
+  image: images/Papers/View.jpg
   tags:
   - transmission Raman spectroscopy
   - Depth estimation
@@ -68,7 +68,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: images/papers/SAPA-2023.jpg
+  image: images/Papers/SAPA-2023.jpg
   tags:
   - Euclidean distance
   - Raman spectroscopy
@@ -91,7 +91,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: images/papers/Smallmethods-2023.jpg
+  image: images/Papers/Smallmethods-2023.jpg
   tags:
   - transmission Raman spectroscopy
   - Ultrahigh detection depth in biological tissues
@@ -109,7 +109,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: images/papers/JPCC-2022.jpg
+  image: images/Papers/JPCC-2022.jpg
   tags:
   - Second near-infrared window
   - NIR-II
