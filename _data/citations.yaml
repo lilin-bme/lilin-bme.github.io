@@ -355,11 +355,11 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
+- id: doi.org/10.1021/acs.nanolett.5b02931
   title: "Nanooptics of plasmonic nanomatryoshkas: shrinking the size of a core\u2013\
     shell junction to subnanometer"
   publisher: Nano Letters
-  date: '2018-08-29'
+  date: '2015-08-29'
   link: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02931
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
