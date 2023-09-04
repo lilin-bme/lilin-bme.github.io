@@ -52,17 +52,14 @@
 - id: doi:10.1002/viw.20230022
   title: A rapid and universal method for depth estimation of lesions in heterogeneous
     tissues via photosafe ratiometric transmission Raman spectroscopy
-  authors:
-  - Yumin Zhang
-  - Li Lin
-  - Jian Ye
+  authors: Yumin Zhang, Li Lin*, Jian Ye*
   publisher: VIEW
   date: '2023-04-20'
   link: https://doi.org/gsd9r3
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
-  images: https://onlinelibrary.wiley.com/cms/asset/0ac685d6-b3a9-4c96-a7c7-79edb28e4114/viw2284-fig-0001-m.jpg
+  images: images/papers/View.jpg
   tags:
   - transmission Raman spectroscopy
   - Depth estimation
