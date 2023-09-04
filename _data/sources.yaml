@@ -20,6 +20,7 @@
 
 - id: doi:10.1002/advs.202301721
   image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
+  authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
     - transmission Raman spectroscopy
     - noninvasive in vivo detection
@@ -32,7 +33,8 @@
     - Depth estimation
     
 - id: doi:10.1016/j.saa.2022.122163
-  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/19/20230419135403_322.jpg
+  images: images/papers/SAPA-2023.jpg
+  authors: Wenfang Wang, Bowen Shi, Chang He, Siyi Wu, Lan Zhu, Jiang Jiang, Lingyun Wang, Li Lin*, Jian Ye*, Huan Zhang*
   tags:
     - Euclidean distance
     - Raman spectroscopy
@@ -40,7 +42,7 @@
     - Stomach cancer prognosis
 
 - id: doi:10.1002/smtd.202201334 
-  images: http://www.yelab.sjtu.edu.cn/upfile/2023/04/24/20230424135217_950.jpg
+  images: images/papers/Smallmethods-2023.jpg
   authors:
    - Zongyu Wu
    - Binge Deng*
@@ -54,6 +56,7 @@
     - Ultrahigh detection depth in biological tissues
 
 - id: doi:10.1021/acs.jpcc.2c02512
+  images: images/papers/JPCC-2022.jpg
   authors:
    - Haoqi He
    - Shuo Zhu
