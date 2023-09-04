@@ -21,7 +21,7 @@ Email: linli92@sjtu.edu.cn
 
 {% include section.html %}
 
-### Education                                                                
+### EDUCATION                                                                
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, China, 2013-2018
 Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)
 Advisor: Prof. Hongchen Gu, Prof. Jian Ye
@@ -33,9 +33,7 @@ Advisor: Prof. Hongchen Gu, Prof. Jian Ye
 - Visiting Postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
 
-{% include section.html %}
-
-### Honors and awards                                                                  
+### HONORS AND AWARDS                                                                  
 Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
 Best Paper Award Nomination, IEEE 3M-Nano Conference (2021)
 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics (2019)
@@ -44,23 +42,18 @@ Shanghai Excellent Graduates City (2018)
 Academic Rising Star in Shanghai Jiao Tong University (2017) (Top 10 students per year)
 Best Poster Award, 2017 International Conference on SERS (2017)
 
-{% include section.html %}
-
-### Publications
-Journal papers
+### PUBLICATIONS
 Over 20 journal papers, with an impact factor of over 200 and citations of more than 800. 
 
-### Manuscript Peer Reviewer
+### JOURNAL PEER REVIEWER
 - Analytical Chemistry
 - Environmental Science & Technology
 - Nature Communications
 - Biosensors
 - Journal of Innovative Optical Health Sciences
 - IEEE Transactions on Biomedical Engineering
-  
-{% include section.html %}
 
-### Invited talks 
+### INVITED TALKS
 - Li Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions, SciX, October 2023, Sparks, Nevada, US.
 - Li Lin, Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis, Photonix Conference, May 2023, Hangzhou, China.
 - Li Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis, Instrumental Website Online Webinar, June 2023.
@@ -69,7 +62,7 @@ Over 20 journal papers, with an impact factor of over 200 and citations of more 
 - Li Lin, “Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
 
 ### TEACHING
-BME9001, Frontiers of Biomedical Engineering, Fall semester, From 2023
-GE7002, Ethics and Academic Norms of Medical Engineering, Fall semester, From 2023
-BME7006, Scientific Writing, Integrity and Ethics (English Class), Fall semester, From 2022
-BME8201, Spectroscopic Nanomaterials in Biomedical Application, Spring semester, From 2022
+- BME9001, Frontiers of Biomedical Engineering, Fall semester, From 2023
+- GE7002, Ethics and Academic Norms of Medical Engineering, Fall semester, From 2023
+- BME7006, Scientific Writing, Integrity and Ethics (English Class), Fall semester, From 2022
+- BME8201, Spectroscopic Nanomaterials in Biomedical Application, Spring semester, From 2022
