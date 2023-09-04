@@ -1,4 +1,3 @@
- 
 - id: doi:10.1007/s44258-023-00010-2
   type: paper
   description: We report the use of surface-enhanced Raman scattering nanotags embedded in ex-vivo animal tissues for direct and quantitative measurements of light attenuation and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
@@ -11,7 +10,7 @@
   - Ziwen Wang
   - Shuming Nie*
   - Jian Ye*
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs44258-023-00010-2/MediaObjects/44258_2023_10_Figa_HTML.png?as=webp
+  image: images/Papers/MEDX2023.jpg
   tags:
     - SERS
     - Detection depth assessment
@@ -19,7 +18,7 @@
     - NIR-II
 
 - id: doi:10.1002/advs.202301721
-  image: https://onlinelibrary.wiley.com/cms/asset/f03586ad-3259-4e29-9a08-d40c39e5449c/advs5948-fig-0001-m.jpg
+  image: images/Papers/AS2023.jpg
   authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, Jian Ye*
   tags: 
     - Transmission Raman spectroscopy
@@ -41,28 +40,6 @@
     - EDRS
     - Stomach cancer prognosis
 
-- id: doi:10.1002/smtd.202201334 
-  image: images/Papers/Smallmethods-2023.jpg
-  authors:
-   - Zongyu Wu
-   - Binge Deng*
-   - Yutong Zhou
-   - Haoqiang Xie
-   - Yumin Zhang
-   - Li Lin*
-   - Jian Ye*
-  tags: 
-    - transmission Raman spectroscopy
-    - Ultrahigh detection depth in biological tissues
-
-- id: doi:10.1021/acs.jpcc.2c02512
-  image: images/Papers/JPCC-2022.jpg
-  authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
-  tags:
-    - Second near-infrared window
-    - NIR-II
-    - SERS tag
-    - Au nanorod
     
 
 
