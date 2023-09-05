@@ -13,7 +13,7 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 
 We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome! 
 
-## More Information about 'Raman Medicine and Nanooptics Lab'
+## We collaborate with 'Raman Medicine and Nanooptics Lab'
 Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine and Nanooptics Lab) at SJTU. We jointly train graduate students and share cooperated projects. 
 {%
   include button.html
