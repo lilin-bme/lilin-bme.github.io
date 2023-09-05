@@ -22,21 +22,12 @@ Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
 
 Email: linli92@sjtu.edu.cn
 
-{%
-  include button.html
-  link="projects"
-  text="See our research projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
 {% endcapture %}
 
 {%
-  include feature.html
+  include portrait.html
   image="images/members/lilin.jpg"
-  title="Lin, Li"
+  title="Prof. Dr. Li LIN"
   text=text
 %}
 
