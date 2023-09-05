@@ -34,10 +34,10 @@ defaults:
 collections:
   # generate page for each member
   members:
-    output: true
+    output: false
   # generate page for each post
   posts:
-    output: true
+    output: false
 
 # jekyll plugins
 plugins:
