@@ -7,42 +7,21 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: ra"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: master"
-%}
+**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin.** 
 
-{:.center}
+We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
 
-{% include section.html %}
+## Team
+- Prof. Dr. Li Lin, Principal Investigator, Assistant Professor
+- Shiyan Fang, PhD student
+- Zehou Su, PhD student
+- Rongrong Guo, Master student
 
 ## Undergraduates
 
-Zongyu Wu, Shanghai Jiao Tong University, 2021-now
-
-Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
-
-Han Gu, Shanghai Jiao Tong University, 2023-now
+- Zongyu Wu, Shanghai Jiao Tong University, 2021-now
+- Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
+- Han Gu, Shanghai Jiao Tong University, 2023-now
 
 {% include section.html %}
 
