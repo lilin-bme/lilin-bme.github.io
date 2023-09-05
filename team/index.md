@@ -5,9 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Join us
 
-**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin.** 
+**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin (linli92 AT sjtu.edu.cn)** 
 
 We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
 
@@ -16,6 +16,7 @@ We welcome individuals with backgrounds in materials science, biomedical enginee
 - Shiyan Fang, PhD student
 - Zehou Su, PhD student
 - Rongrong Guo, Master student
+{% include button.html link="http://www.yelab.sjtu.edu.cn/index.php?ac=article&at=list&tid=17" text="More members can be found in YE LAB website" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
 ## Undergraduates
 
