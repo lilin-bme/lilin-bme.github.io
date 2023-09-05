@@ -20,8 +20,8 @@ An engaging 1-3 sentence description of your lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  title="Our Research"
+  image="images/cell1-01.jpg"
+  title="Nanooptics and Raman Sensing Lab"
   text=text
 %}
 
