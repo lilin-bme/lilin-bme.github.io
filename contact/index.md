@@ -13,13 +13,6 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 
 We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome! 
 
-## Contact Professor Li Lin
-
-- Address: Room 207 MED-X Research Institute, Shanghai Jiao Tong University, 1954 Huashan Road, Shanghai, P.R. China, 200030.
-- Email: linli92@sjtu.edu.cn
-  
-{% include section.html %}
-
 ## More Information about 'Raman Medicine and Nanooptics Lab'
 Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine and Nanooptics Lab) at SJTU. We jointly train graduate students and share cooperated projects. 
 {%
@@ -30,6 +23,13 @@ Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine a
   flip=true
   style="bare"
 %}
+
+{% include section.html %}
+
+## Contact Professor Li Lin
+
+- Address: Room 207 MED-X Research Institute, Shanghai Jiao Tong University, 1954 Huashan Road, Shanghai, P.R. China, 200030.
+- Email: linli92@sjtu.edu.cn
 
 {% include section.html %}
 
