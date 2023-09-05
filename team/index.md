@@ -65,6 +65,8 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 
 {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 %}
+
 {% include section.html %}
 
 # <i class="fas fa-user-graduate"></i>Alumni
