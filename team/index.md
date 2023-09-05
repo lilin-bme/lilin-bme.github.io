@@ -33,8 +33,6 @@ nav:
 %}
 {:.center}
 
-{% include section.html %}
-
 ## Undergraduates
 
 Zongyu Wu, Shanghai Jiao Tong University, 2021-now
