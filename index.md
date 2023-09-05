@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-An engaging 1-3 sentence description of your lab.
+We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. We use state-of-the-art nanofabrication and simulation technologies to design and fabricate ultrasensitive nanosensors for trace analyte sensing. We collaborate closely with other groups to study fundamental questions in biological metabolism and phenotype development using advanced optical techniques.
 
 {%
   include button.html
