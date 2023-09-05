@@ -89,6 +89,19 @@
   tags:
   - transmission Raman spectroscopy
   - Ultrahigh detection depth in biological tissues
+- id: doi:10.1016/b978-0-12-822425-0.00111-1
+  title: Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics,
+    bioimaging, and spectroscopy-guided cancer surgery
+  authors:
+  - Li Lin
+  - Ruiyang Xue
+  - Shuming Nie
+  publisher: Encyclopedia of Nanomaterials
+  date: '2023-01-01'
+  link: https://doi.org/gsn7w3
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
@@ -221,17 +234,6 @@
   - Molecular dynamics
   - GERTs
   - Plasmonic junction
-- id: doi:10.1007/978-981-15-7627-0_9
-  title: Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging
-  authors:
-  - Li Lin
-  - Jian Ye
-  publisher: Advances in Experimental Medicine and Biology
-  date: '2021-01-01'
-  link: https://doi.org/gsn3q6
-  orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-019-14070-9
   title: Gap-enhanced Raman tags for physically unclonable anticounterfeiting labels
   authors:
@@ -344,12 +346,24 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
-  title: "Nanooptics of plasmonic nanomatryoshkas: shrinking the size of a core\u2013\
-    shell junction to subnanometer"
+- id: doi:10.1021/acs.nanolett.5b02931
+  title: "Nanooptics of Plasmonic Nanomatryoshkas: Shrinking the Size of a Core\u2013\
+    Shell Junction to Subnanometer"
+  authors:
+  - Li Lin
+  - Mario Zapata
+  - Min Xiong
+  - Zhonghui Liu
+  - Shanshan Wang
+  - Hong Xu
+  - Andrei G. Borisov
+  - Hongchen Gu
+  - Peter Nordlander
+  - Javier Aizpurua
+  - Jian Ye
   publisher: Nano Letters
-  date: '2018-08-29'
-  link: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02931
+  date: '2015-09-21'
+  link: https://doi.org/f7t63p
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
