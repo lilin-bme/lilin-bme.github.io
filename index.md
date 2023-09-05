@@ -1,7 +1,7 @@
 ---
 ---
 
-# Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
+## Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
 
 {% capture text %}
 
@@ -21,7 +21,7 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 {%
   include feature.html
   image="images/cell1-01.jpg"
-  title="Nanooptics and Raman Sensing Lab"
+  title="What we do"
   text=text
 %}
 
@@ -40,7 +40,7 @@ We are a multidisciplinary group with members from various backgrounds in materi
 
 {% endcapture %}
 
-{% include feature.html image="images/memebers/lilin1.jpg" title="Join us" flip=true style="bare" text=text %}
+{% include feature.html image="images/memebers/lilin2.jpg" title="Who we are" flip=true style="bare" text=text %}
 
 ## Recent News
 
