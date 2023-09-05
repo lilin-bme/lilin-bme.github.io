@@ -31,6 +31,7 @@ nav:
   component="portrait"
   filters="role: master"
 %}
+
 {:.center}
 
 {% include section.html %}
