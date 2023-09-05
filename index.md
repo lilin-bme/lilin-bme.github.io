@@ -64,4 +64,21 @@ Last updated Sept 3, 2023
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
 - Feb 14, 2022: Prof. Li LIN was selected by Shanghai Chen-Guang (Excellent Young Scholar) Program.
 
+{% include section.html %}
+
+{% capture col1 %}
+
+{% include figure.html image="images/Contact/sjtu1.jpg" caption="Campus" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/Contact/sjtu2.jpg" caption="Campus" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
 
