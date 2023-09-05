@@ -26,7 +26,7 @@ Email: linli92@sjtu.edu.cn
 
 {%
   include feature.html
-  image="images/members/lilin.jpg"
+  image="images/members/lilin2.jpg"
   title="Prof. Dr. Li LIN"
   text=text
 %}
@@ -53,34 +53,33 @@ Email: linli92@sjtu.edu.cn
 
 {% include section.html %}
 ### EDUCATION    
--- OK
-- Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, China, (Advisor: Prof. Hongchen Gu, Prof. Jian Ye), 2012-2018, Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)
-- B.S.	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
+- Ph.D., Biomedical Engineering, Shanghai Jiao Tong University (Advisor: Prof. Hongchen Gu and Prof. Jian Ye), 2012-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
+- B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
 - Visiting Student, Department of Biomedical Engineering, University of Minnesota, U.S., 2012 Summer
 ### PROFESSIONAL EMPLOYMENT 
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-now
 - Visiting Postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
 ### HONORS AND AWARDS                                                                  
-Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
-Best Paper Award Nomination, IEEE 3M-Nano Conference (2021)
-Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics (2019)
-Shanghai Super Postdoctoral Fellowship (2018)
-Shanghai Excellent Graduates City (2018)
-Academic Rising Star in Shanghai Jiao Tong University (2017) (Top 10 students per year)
-Best Poster Award, 2017 International Conference on SERS (2017)
+- Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
+- Best Paper Award Nomination, IEEE 3M-Nano Conference (2021)
+- Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics (2019)
+- Shanghai Super Postdoctoral Fellowship (2018)
+- Shanghai Excellent Graduates City (2018)
+- Academic Rising Star in Shanghai Jiao Tong University (2017) (Top 10 students per year)
+- Best Poster Award, 2017 International Conference on SERS (2017)
 ### PUBLICATIONS
 #### Journal papers
 - Over 20 journal papers, with an impact factor of over 200 and citations of more than 800. 
 #### Reviews and Perspectives
-- Yao Lu, Li Lin*, Jian Ye*, “Human metabolite detection by surface-enhanced Raman spectroscopy”, Materials Today Bio, 2022, 13, 100205. (IF=10.5)
-- Nikolai G. Khlebtsov*, Li Lin, Boris N. Khlebtsov, Jian Ye*, “Gap-enhanced Raman tags: fabrication, optical properties, and theranostic applications”, Theranostics, 2020, 10, 2067. 
+- Yao Lu, *Li Lin*, Jian Ye, “Human metabolite detection by surface-enhanced Raman spectroscopy”, Materials Today Bio, 2022, 13, 100205. 
+- Nikolai G. Khlebtsov, *Li Lin*, Boris N. Khlebtsov, Jian Ye, “Gap-enhanced Raman tags: fabrication, optical properties, and theranostic applications”, Theranostics, 2020, 10, 2067. 
 #### Book Chapters
-- Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022. (Invited Book Chapter)
-- Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195. 
+- *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022.
+- *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195. 
 #### Approved patents (to be updated)
--	Jian Ye, Li Lin, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
-- Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
+-	Jian Ye, Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
+- Jian Ye, Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
 ### JOURNAL REVIEWER
 - Analytical Chemistry
 - Environmental Science & Technology
