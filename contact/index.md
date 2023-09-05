@@ -28,31 +28,3 @@ Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine a
   flip=true
   style="bare"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/Contact/sjtu1.jpg"
-  caption="Group"
-%}
-
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/Contact/sjtu2.jpg"
-  caption="Group"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
