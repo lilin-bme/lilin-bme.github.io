@@ -90,7 +90,7 @@ Email: linli92@sjtu.edu.cn
 - IEEE Transactions on Biomedical Engineering
 ### GRANTS
 - National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, "Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions"
-- Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1000k, 2021-2023, "Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy"
+- Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1M, 2021-2023, "Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy"
 - Shanghai Municipal Chen-guang Program, PI, 2022-2023,"Transmission Raman spectroscopy for the non-invasive  detection of in vivo lesions"
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 250k, 2022-2024, "Rapid diagnosis of gastric cancer based on Raman fiber-optics system and machine learning algorithms"
 - National Science Foundation of China (NSFC), PI, RMB 200k, 2019-2022, "Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study"
