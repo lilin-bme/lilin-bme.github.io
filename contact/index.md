@@ -24,7 +24,7 @@ We welcome individuals with backgrounds in materials science, biomedical enginee
 Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine and Nanooptics Lab) at SJTU. We jointly train graduate students and share cooperated projects. 
 {%
   include button.html
-  link="contact"
+  link="http://www.yelab.sjtu.edu.cn/index.php?ac=article&at=list&tid=17"
   text="See YE LAB website for more details!"
   icon="fa-solid fa-arrow-right"
   flip=true
