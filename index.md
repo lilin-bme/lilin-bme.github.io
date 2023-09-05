@@ -27,29 +27,13 @@ An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
-## OPEN POSITIONS
-
- We are hiring a Postdoc (join any time) and a master student (join 2024 fall). 
-
-{%
-  include button.html
-  link="https://lilin-bme.github.io/Lin-lab-website/Contact"
-  text="Contact us"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% include section.html %}
-
 ## Recent News
 
 Last updated Sept 3, 2023
--  We are hiring a Postdoc (join any time) and a master student (join 2024 fall). 
 {%
   include button.html
-  link="linli92@sjtu.edu.cn"
-  text="Contact Now"
+  link="contact"
+  text="We are hiring a Postdoc (join any time) and a master student (join 2024 fall). Contact NOW!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
