@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. We use state-of-the-art nanofabrication and simulation technologies to design and fabricate ultrasensitive nanosensors for trace analyte sensing. We collaborate closely with other groups to study fundamental questions in biological metabolism and phenotype development using advanced optical techniques.
+We use state-of-the-art nanofabrication and simulation technologies to design and fabricate ultrasensitive nanosensors for trace analyte sensing. We collaborate closely with other groups to study fundamental questions in biological metabolism and phenotype development using advanced optical techniques.
 
 {%
   include button.html
@@ -27,7 +27,7 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 
 {% capture text %}
 
-We are a multidisciplinary group with members from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. 
+We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We are a tiny and compact group led by Dr. Li LIN.
 
 {%
   include button.html
@@ -48,7 +48,7 @@ Last updated Sept 3, 2023
 {%
   include button.html
   link="linli92@sjtu.edu.cn"
-  text="OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). Contact now!"
+  text="We are looking for a postdoc (start any time) and a master student (Fall 2024). Contact Dr. Lin now!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
