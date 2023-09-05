@@ -50,7 +50,7 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 {%
   include figure.html
   image="images/Contact/grouppic3.jpg"
-  caption="Group"
+  caption="Undergraduates training"
 %}
 
 {% endcapture %}
@@ -60,7 +60,7 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 {%
   include figure.html
   image="images/Contact/grouppic1.jpg"
-  caption="Group"
+  caption="Meeting with undergraduates"
 %}
 
 {% endcapture %}
