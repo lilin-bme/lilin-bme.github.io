@@ -38,7 +38,7 @@ Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine a
 {%
   include figure.html
   image="images/Contact/sjtu1.jpg"
-  caption="Undergraduates training"
+  caption="Campus"
 %}
 
 {% endcapture %}
@@ -48,7 +48,7 @@ Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine a
 {%
   include figure.html
   image="images/Contact/sjtu2.jpg"
-  caption="Meeting with undergraduates"
+  caption="Campus"
 %}
 
 {% endcapture %}
