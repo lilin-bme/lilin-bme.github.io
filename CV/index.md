@@ -8,56 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}CV
 
 ---
-layout: default
----
-
-{% capture floatcontent %}
-
-{% include portrait.html lookup=page.slug %}
-
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
-</div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-{{ content }}
-
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
-
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
-
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!--
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
 
 Lin, Li 
 
@@ -70,6 +20,25 @@ School of Biomedical Engineering, Shanghai Jiao Tong University
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
 
 Email: linli92@sjtu.edu.cn
+
+{%
+  include button.html
+  type="web"
+  text="Researchgate"
+  link="https://www.researchgate.net/profile/Li-Lin-71"
+%}
+{%
+  include button.html
+  type="website"
+  text="Google Scholar"
+  link="https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN"
+%}
+{%
+  include button.html
+  type="website"
+  tooltip="ORCID Profile"
+  link="https://orcid.org/0000-0002-8079-5768"
+%}
 
 {% include section.html %}
 
