@@ -27,6 +27,12 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 
 {% include section.html %}
 
+OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin.
+
+We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. We use state-of-the-art nanofabrication and simulation technologies to design and fabricate ultrasensitive nanosensors for trace analyte sensing. We collaborate closely with other groups to study fundamental questions in biological metabolism and phenotype development using advanced optical techniques.
+
+We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
+
 ## Recent News
 
 Last updated Sept 3, 2023
