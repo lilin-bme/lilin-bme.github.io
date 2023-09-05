@@ -17,7 +17,7 @@ We welcome individuals with backgrounds in materials science, biomedical enginee
 
 - Address: Room 207 MED-X Research Institute, Shanghai Jiao Tong University, 1954 Huashan Road, Shanghai, P.R. China, 200030.
 - Email: linli92@sjtu.edu.cn
-- 
+  
 {% include section.html %}
 
 ## More Information about 'Raman Medicine and Nanooptics Lab'
