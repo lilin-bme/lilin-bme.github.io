@@ -25,7 +25,7 @@ Our team is in deep cooperation with Professor Jian Ye's group (Raman Medicine a
 {%
   include button.html
   link="contact"
-  text="See the YE LAB website for more details!"
+  text="See YE LAB website for more details!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
