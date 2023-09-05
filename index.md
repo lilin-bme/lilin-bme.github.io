@@ -1,7 +1,7 @@
 ---
 ---
 
-# LIN LAB AT SJTU
+# Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
 
 {% capture text %}
 
@@ -25,25 +25,35 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
   text=text
 %}
 
-{% include section.html %}
+{% capture text %}
 
-OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin.
+We are a multidisciplinary group with members from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. 
 
-We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. We use state-of-the-art nanofabrication and simulation technologies to design and fabricate ultrasensitive nanosensors for trace analyte sensing. We collaborate closely with other groups to study fundamental questions in biological metabolism and phenotype development using advanced optical techniques.
+{%
+  include button.html
+  link="team"
+  text="See our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
+{% endcapture %}
+
+{% include feature.html image="images/memebers/lilin1.jpg" title="Join us" flip=true style="bare" text=text %}
 
 ## Recent News
 
 Last updated Sept 3, 2023
 {%
   include button.html
-  link="contact"
-  text="We are hiring a Postdoc (join any time) and a master student (join 2024 fall). Contact NOW!"
+  link="linli92@sjtu.edu.cn"
+  text="OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). Contact now!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
+
 - Aug 25, 2023: Prof. Li LIN received National Science Foundation of China (NSFC) funding.
 - Aug 3, 2023: Our academic paper entitled "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 - May 25, 2023: The Undergraduate Program by Haoqiang XIE was awarded as the "National Student Innovation and Entrepreneurship Training Program". Congrats.
