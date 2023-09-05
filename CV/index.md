@@ -52,6 +52,7 @@ Email: linli92@sjtu.edu.cn
 %}
 
 {% include section.html %}
+
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University (Advisor: Prof. Hongchen Gu and Prof. Jian Ye), 2012-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
 - B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
