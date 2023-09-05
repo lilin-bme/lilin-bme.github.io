@@ -12,7 +12,7 @@ nav:
 We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
 
 ## Team
-- Prof. Dr. Li Lin, Principal Investigator, Assistant Professor. [see CV] (link="cv")
+- Prof. Dr. Li Lin, Principal Investigator, Assistant Professor. [see CV] ("CV")
 - Shiyan Fang, PhD student
 - Zehou Su, PhD student
 - Rongrong Guo, Master student
