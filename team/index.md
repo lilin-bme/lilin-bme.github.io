@@ -43,6 +43,34 @@ Han Gu, Shanghai Jiao Tong University, 2023-now
 
 {% include section.html %}
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/Contact/grouppic1.jpg"
+  caption="Group"
+%}
+
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/Contact/grouppic2.jpg"
+  caption="Group"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
+
+
+{% include section.html %}
+
 # <i class="fas fa-user-graduate"></i>Alumni
 
 - Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
