@@ -43,6 +43,8 @@ Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
 
 Han Gu, Shanghai Jiao Tong University, 2023-now
 
+{% include section.html %}
+
 {% capture col1 %}
 
 {%
