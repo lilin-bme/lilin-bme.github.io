@@ -34,6 +34,12 @@ Email: linli92@sjtu.edu.cn
 {% include section.html %}
 {%
   include button.html
+  type="website"
+  text="Google Scholar"
+  link="https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN"
+%}
+{%
+  include button.html
   type="web"
   text="Researchgate"
   link="https://www.researchgate.net/profile/Li-Lin-71"
@@ -41,18 +47,17 @@ Email: linli92@sjtu.edu.cn
 {%
   include button.html
   type="website"
-  text="Google Scholar"
-  link="https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN"
+  tooltip="ORCID Profile"
+  link="https://orcid.org/0000-0002-8079-5768"
 %}
 {%
   include button.html
   type="website"
-  tooltip="ORCID Profile"
-  link="https://orcid.org/0000-0002-8079-5768"
+  tooltip="SJTU Homepage (Chinese version)"
+  link="https://bme.sjtu.edu.cn/Web/FacultyDetail/917"
 %}
 
 {% include section.html %}
-
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University (Advisor: Prof. Hongchen Gu and Prof. Jian Ye), 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
 - B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
