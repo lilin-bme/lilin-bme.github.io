@@ -5,15 +5,17 @@ nav:
   tooltip: About our team
 ---
 
+# <i class="fas fa-users"></i>Jion Us
+
+**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full.** 
+
+If you are interested in joining our group, please send an email (linli92@sjtu.edu.cn) with a brief statement about why you are interested in the position, attach your CV, and include “Applying for xx position-Your name” in the subject line. We also welcome visiting students and undergraduates, especially those interested in pursuing a higher degree at Shanghai Jiao Tong University.
+
+Candidates who are talented, passionate, and self-motivated, with the backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines, are most welcome! Successful candidates will have the opportunity to receive cross-disciplinary training, tackle fundamental questions at the cutting edge of optics and nanomaterials, and circumvent the most challenging issues in biological and clinical developments.
+
 # <i class="fas fa-users"></i>Team
 
-**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full. Please directly reach out to Dr. Li Lin (linli92 AT sjtu.edu.cn)** 
-
-We welcome individuals with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. Candidates who are talented, passionate, and self-motivated are most welcome!
-
-### PI
-- Prof. Dr. Li Lin, Assistant Professor
-### Graduates
+- Dr. Li Lin, Assistant Professor，PI
 - Shiyan Fang, PhD student
 - Zehou Su, PhD student
 - Rongrong Guo, Master student  
