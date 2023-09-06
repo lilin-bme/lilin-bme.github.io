@@ -15,7 +15,7 @@ Candidates who are talented, passionate, and self-motivated, with the background
 
 # <i class="fas fa-users"></i>Team
 
-- Dr. Li Lin, Assistant Professor，PI
+- Dr. Li Lin, Assistant Professor, PI
 - Shiyan Fang, PhD student
 - Zehou Su, PhD student
 - Rongrong Guo, Master student  
