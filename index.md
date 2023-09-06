@@ -40,7 +40,7 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 
 {% endcapture %}
 
-{% include feature.html image="images/memebers/lilin2.jpg" title="Who we are" flip=true style="bare" text=text %}
+{% include feature.html image="images/members/lilin2.jpg" title="Who we are" flip=true style="bare" text=text %}
 
 ## Recent News
 
