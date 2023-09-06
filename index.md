@@ -80,5 +80,3 @@ Last updated Sept 3, 2023
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
