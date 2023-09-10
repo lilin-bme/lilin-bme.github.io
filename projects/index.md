@@ -32,7 +32,11 @@ Non-invasive localization of human lesions remains a long-standing pursuit for c
 
 {% capture text %}
 
-Modern cancer diagnosis requires histological, molecular and genomic tumor analysis. These approaches are usually resource-intensive and time-consuming. We use highly specific Raman spectroscopy to differentiate the diseased part by the contribution of Raman-active molecules in different tissues. 
+Modern cancer diagnosis requires histological, molecular and genomic tumor analysis. These approaches are usually resource-intensive and time-consuming. We use highly specific Raman spectroscopy to differentiate the diseased part by the contribution of Raman-active molecules in different tissues. The detected signal provides molecular information that enables accurate cancer diagnosis and prognosis. Our label-free imaging experiments often push the limits of existing technologies. We use the computational power of machine learning and artificial intelligence to improve our understanding of the spectral properties of biomolecules.
+- Fiber-optics Raman probe for in situ diagnosis
+- Euclidean distance-based Raman spectroscopy (EDRS)
+- Raman spectral processing and information extraction
+
 
 {% endcapture %}
 
