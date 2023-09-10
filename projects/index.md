@@ -20,7 +20,11 @@ Plasmonic nanostructures exhibit a unique combination of physical, chemical, and
 
 {% capture text %}
 
-Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. 
+Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. But due to the strong photon absorption and scattering of biological tissues, it is challenging to realize in vivo non-invasive detection via optical modalities. We address this tissue with the use of in vivo surface-enhanced transmission Raman spectroscopy (TRS). We achieve non-invasive localization of deep lesions hidden in living animals and precisely predicted the depth of deep-seated lesions in heterogeneous in vivo environments.
+- Tissue optics simulation of light transportation
+- Transmission Raman spectroscopy (TRS)
+- Spatially-offset Raman spectroscopy (SORS)
+- TRS setup implementation for non-invasive in vivo detection
 
 {% endcapture %}
 
