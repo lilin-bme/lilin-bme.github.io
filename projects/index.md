@@ -41,7 +41,11 @@ Modern cancer diagnosis requires histological, molecular and genomic tumor analy
 
 {% capture text %}
 
-Nanomaterials have emerging applications in medical implants, cell delivery, and in vivo neuromodulation. The interaction of biomolecules with metal nanostructures can be studied by investigating the near-field plasmon effects. 
+Nanomaterials have emerging applications in medical implants, cell delivery, and in vivo neuromodulation. The interaction of biomolecules with metal nanostructures can be studied by investigating the near-field plasmon effects. We rationally design the plasmonic nanomaterials that serve as miniaturized antennas to display the biological activity for the investigation of cellular metabolism or phenotype development in living and non-living matter.
+- Biocompatible surface functionalization
+- Selective biomolecule sensing
+- Cellular or subcellular metabolism study
+
 {% endcapture %}
 
 {% include feature.html image="images/background.jpg" title="Exploring bio-material interfaces in cellular scenarios" text=text %}
