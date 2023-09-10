@@ -2,14 +2,14 @@
 title: Research
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: research interests
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 {% capture text %}
 
-Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross-sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. 
+Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. We have focused on surface-enhanced Raman spectroscopy (SERS) as a bioimaging modality for spectral-guided surgical navigation. We fabricate plasmonic nanomaterials with tunable optical properties by adjusting the surface chemistry and texture of designer materials. The integration of metal structures and organic materials form a powerful platform for a wide variety of applications including plasmonic photovoltaics, chemical and biological sensors, bioimaging, and therapeutics.
 
 {% endcapture %}
 
