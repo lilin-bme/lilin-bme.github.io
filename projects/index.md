@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 3
   tooltip: Software, datasets, and more
@@ -9,28 +9,33 @@ nav:
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross-sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. 
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/research1.jpg" title="Deep Raman techniques" text=text %}
+{% include feature.html image="images/projects/Projects-02.jpg" title="Inventing plasmonic nanomaterials" text=text %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{% include button.html link="projects" text="Browse our projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. 
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="projects" title="Our Projects" flip=true style="bare" text=text %}
+{% include feature.html image="images/projects/Projects-03.jpg" title="Deep Raman techniques for in vivo detection" flip=true style="bare" text=text %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{% include button.html link="team" text="Meet our team" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+Modern cancer diagnosis requires histological, molecular and genomic tumor analysis. These approaches are usually resource-intensive and time-consuming. We use highly specific Raman spectroscopy to differentiate the diseased part by the contribution of Raman-active molecules in different tissues. 
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="team" title="Our Team" text=text %}
+{% include feature.html image="images/projects/Projects-01.jpg"  title="Label-free Raman spectroscopy for cancer diagnosis" text=text %}
+
+
+{% capture text %}
+
+Nanomaterials have emerging applications in medical implants, cell delivery, and in vivo neuromodulation. The interaction of biomolecules with metal nanostructures can be studied by investigating the near-field plasmon effects. 
+{% endcapture %}
+
+{% include feature.html image="images/background.jpg" title="Exploring bio-material interfaces in cellular scenarios" text=text %}
+
