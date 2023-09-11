@@ -52,7 +52,8 @@
   tags:
     - Book chapter
     - SERS Nanoparticle
-    
+    - Encyclopedia of Nanomaterials
+
 - id: doi:10.1021/acs.jpcc.2c02512
   image: images/Papers/JPCC-2022.jpg
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
@@ -68,13 +69,13 @@
   tags:
     - Bronchoscopy
     - Lung Tissue
-    - SERS Nanoparticle
     - GERTs
    
 - id: doi:10.1021/acsami.2c01063
   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
   tags:
     - Au nanorod
+    - SERS
     
 - id: doi:10.7150/thno.39968    
   tags:
@@ -112,7 +113,13 @@
     - Molecular dynamics
     - GERTs
     - Plasmonic junction
-
+    
+- id: doi:10.1039/c6nr08501f
+  image: images/Papers/Nanoscale-2017.jpg
+  tags:
+     - GERTs
+     - Plasmonic junction
+     
 - id: doi:10.1021/acsnano.7b08224
   image: images/Papers/ACSNano-2018.png
   tags:
@@ -134,11 +141,7 @@
     - GERTs
     - Plasmonic junction
 
-- id: doi:10.1039/c6nr08501f
-  image: images/Papers/Nanoscale-2017.jpg
-  tags:
-     - GERTs
-     - Plasmonic junction
+
 
     
 
