@@ -7,7 +7,7 @@ The interface between light and materials creates unique optical properties at t
 
 {% capture text %}
 
-We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-materials interfaces. We collaborate closely with other groups to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
+We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-material interfaces. We collaborate closely with other groups to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
 
 {%
   include button.html
@@ -22,7 +22,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 
 {%
   include feature.html
-  image="images/cell1-01.jpg"
+  image="images/projects/cell3.jpg"
   title="What we do"
   text=text
 %}
