@@ -9,7 +9,7 @@ nav:
 
 {% capture text %}
 
-Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. We have focused on surface-enhanced Raman spectroscopy (SERS) as a bioimaging modality for spectral-guided surgical navigation. We fabricate plasmonic nanomaterials with tunable optical properties by adjusting the surface chemistry and texture of designer materials. The integration of metal structures and organic materials form a powerful platform for a wide variety of applications including plasmonic photovoltaics, chemical and biological sensors, bioimaging, and therapeutics.
+Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross-sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. We use surface-enhanced Raman spectroscopy (SERS) as a bioimaging modality for spectral-guided surgery. We fabricate plasmonic nanomaterials with tunable optical properties by adjusting the surface chemistry and texture of designer materials. The integration of metal structures and organic materials form a powerful platform for a wide variety of applications including plasmonic photovoltaics, chemical and biological sensors, bioimaging, and therapeutics.
 - Design and fabrication of plasmonic nanostructure
 - Surface-enhanced Raman spectroscopy (SERS) substrate
 - Invention of ultrabright SERS nanotag for therapy and diagnosis
@@ -32,7 +32,7 @@ Non-invasive localization of human lesions remains a long-standing pursuit for c
 
 {% capture text %}
 
-Modern cancer diagnosis requires histological, molecular and genomic tumor analysis. These approaches are usually resource-intensive and time-consuming. We use highly specific Raman spectroscopy to differentiate the diseased part by the contribution of Raman-active molecules in different tissues. The detected signal provides molecular information that enables accurate cancer diagnosis and prognosis. Our label-free imaging experiments often push the limits of existing technologies. We use the computational power of machine learning and artificial intelligence to improve our understanding of the spectral properties of biomolecules.
+Modern cancer diagnosis requires histological, molecular and genomic tumor analysis. These approaches are usually resource-intensive and time-consuming. We use highly specific Raman spectroscopy to differentiate the diseased part by the contribution of Raman-active molecules in different tissues. The detected signal provides molecular information that enables accurate cancer diagnosis and prognosis. Our label-free detection research often push the limits of existing technologies. We thus use the computational power of machine learning and artificial intelligence to improve our understanding of the spectral properties of biomolecules.
 - Fiber-optics Raman probe for in situ diagnosis
 - Euclidean distance-based Raman spectroscopy (EDRS)
 - Raman spectral processing and information extraction
@@ -52,5 +52,5 @@ Nanomaterials have emerging applications in medical implants, cell delivery, and
 
 {% endcapture %}
 
-{% include feature.html image="images/background.jpg" title="Exploring bio-material interfaces in cellular scenarios" flip=true style="bare" text=text %}
+{% include feature.html image="images/projects/cell3.jpg" title="Exploring bio-material interfaces in cellular scenarios" flip=true style="bare" text=text %}
 
