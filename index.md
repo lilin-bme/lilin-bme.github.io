@@ -56,7 +56,7 @@ Last updated Sept 3, 2023
   style="bare"
 %}
 
-- Sept 08, 2023: Undergraduate Han Gu received funding from the National Science Foundation of China (NSFC) for her study on "Photon transport in biological tissues during spatially offset Raman detection process". This is the first year for NSFC to provide financial support to undergraduate students, and only 100 students have been selected nationwide. Congrats!
+- Sept 08, 2023: Undergraduate Han GU received funding from the National Science Foundation of China (NSFC) for her study on "Photon transport in biological tissues during spatially offset Raman detection process". This is the first year for NSFC to provide financial support to undergraduate students, and only 100 students have been selected nationwide. Congrats!
 - Aug 25, 2023: Prof. Li LIN received National Science Foundation of China (NSFC) funding. Congrats!
 - Aug 3, 2023: Our academic paper entitled "Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering" was accepted by MED-X journal.
 - May 25, 2023: The Undergraduate Program by Haoqiang XIE was awarded as the "National Student Innovation and Entrepreneurship Training Program". Congrats!
