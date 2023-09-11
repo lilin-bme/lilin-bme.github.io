@@ -104,8 +104,8 @@
   file: sources.yaml
   image: images/Papers/3-s2.0-C20190035649-cov200h.gif
   tags:
-  - SERS
   - Book chapter
+  - SERS Nanoparticle
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
@@ -267,8 +267,12 @@
   date: '2020-01-01'
   link: https://doi.org/gqxn2c
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - Review
+  - SERS Nanoparticle
+  - GERTs
 - id: doi:10.1016/j.apsusc.2019.05.200
   title: "Sub-100\u202Fnm multi-shell bimetallic gap-enhanced Raman tags"
   authors:
@@ -355,8 +359,12 @@
   date: '2017-01-01'
   link: https://doi.org/gsn3q9
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/Nanoscale-2017.jpg
+  tags:
+  - GERTs
+  - Plasmonic junction
 - id: doi:10.1021/acs.nanolett.5b02931
   title: "Nanooptics of Plasmonic Nanomatryoshkas: Shrinking the Size of a Core\u2013\
     Shell Junction to Subnanometer"
