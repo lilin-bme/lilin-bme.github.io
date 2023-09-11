@@ -97,8 +97,28 @@
     - Molecular dynamics
     - GERTs
     - Plasmonic junction
-    
-    
+
+- id: doi:10.1021/acsnano.7b08224
+  image: images/Papers/ACSNano-2018.png
+  tags:
+    - SERS
+    - GERTs
+    - Plasmonic junction
+
+- id: doi:10.1021/acs.nanolett.5b02931
+  image: images/Papers/nanolett-2015.jpg
+  tags:
+    - SERS
+    - GERTs
+    - Plasmonic junction
+
+- id: doi:10.1039/c5cc06599b
+  image: images/Papers/CC-2015.jpg
+  tags:
+    - SERS
+    - GERTs
+    - Plasmonic junction
+
 
 
     
