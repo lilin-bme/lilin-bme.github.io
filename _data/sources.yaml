@@ -50,9 +50,9 @@
 - id: doi:10.1016/b978-0-12-822425-0.00111-1
   image: images/Papers/3-s2.0-C20190035649-cov200h.gif
   tags:
-    - SERS
     - Book chapter
-  
+    - SERS Nanoparticle
+    
 - id: doi:10.1021/acs.jpcc.2c02512
   image: images/Papers/JPCC-2022.jpg
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
@@ -75,7 +75,13 @@
   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
   tags:
     - Au nanorod
-     
+    
+- id: doi:10.7150/thno.39968    
+  tags:
+    - Review
+    - SERS Nanoparticle
+    - GERTs
+    
 - id: doi:10.1016/j.mtbio.2022.100205
   authors: Yao Lu, Li Lin*, Jian Ye*
   image: images/Papers/mtb-2022.jpg
@@ -128,7 +134,11 @@
     - GERTs
     - Plasmonic junction
 
-
+- id: doi:10.1039/c6nr08501f
+  image: images/Papers/Nanoscale-2017.jpg
+  tags:
+     - GERTs
+     - Plasmonic junction
 
     
 
