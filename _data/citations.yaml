@@ -313,8 +313,13 @@
   date: '2018-06-20'
   link: https://doi.org/gdrzr8
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/ACSNano-2018.png
+  tags:
+  - SERS
+  - GERTs
+  - Plasmonic junction
 - id: doi:10.1021/acsami.6b15170
   title: Ultraphotostable Mesoporous Silica-Coated Gap-Enhanced Raman Tags (GERTs)
     for High-Speed Bioimaging
@@ -365,8 +370,13 @@
   date: '2015-09-21'
   link: https://doi.org/f7t63p
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/nanolett-2015.jpg
+  tags:
+  - SERS
+  - GERTs
+  - Plasmonic junction
 - id: doi:10.1039/c5cc06599b
   title: Plasmonic multi-shell nanomatryoshka particles as highly tunable SERS tags
     with built-in reporters
@@ -378,5 +388,10 @@
   date: '2015-01-01'
   link: https://doi.org/gsn3rb
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/CC-2015.jpg
+  tags:
+  - SERS
+  - GERTs
+  - Plasmonic junction
