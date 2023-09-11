@@ -47,6 +47,12 @@
     - transmission Raman spectroscopy
     - Ultrahigh detection depth in biological tissues
 
+- id: doi:10.1016/b978-0-12-822425-0.00111-1
+  image: images/Papers/3-s2.0-C20190035649-cov200h.gif
+  tags:
+    - SERS
+    - Book chapter
+  
 - id: doi:10.1021/acs.jpcc.2c02512
   image: images/Papers/JPCC-2022.jpg
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
