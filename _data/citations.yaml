@@ -106,6 +106,7 @@
   tags:
   - Book chapter
   - SERS Nanoparticle
+  - Encyclopedia of Nanomaterials
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
   authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
@@ -136,7 +137,6 @@
   tags:
   - Bronchoscopy
   - Lung Tissue
-  - SERS Nanoparticle
   - GERTs
 - id: doi:10.1021/acsami.2c01063
   title: Surface-Enhanced Raman Scattering Bioimaging with an Ultrahigh Signal-to-Background
@@ -150,6 +150,7 @@
   file: sources.yaml
   tags:
   - Au nanorod
+  - SERS
 - id: doi:10.1016/j.mtbio.2022.100205
   title: Human metabolite detection by surface-enhanced Raman spectroscopy
   authors: Yao Lu, Li Lin*, Jian Ye*
