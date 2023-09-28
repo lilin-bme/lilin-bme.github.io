@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /lilin-bme/sitemap.xml
