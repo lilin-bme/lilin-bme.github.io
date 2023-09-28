@@ -1,7 +1,7 @@
 
-# lilin-bme's Website
+# Lin lab at SJTU
 
 Visit **[linlab-sjtu.com](http://linlab-sjtu.com)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+
 
