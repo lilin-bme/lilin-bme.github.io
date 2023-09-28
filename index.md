@@ -56,17 +56,17 @@ Last updated Sept 3, 2023
   style="bare"
 %}
 
-- Sept 20, 2023: Our academic paper entitled *Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in Thick Tissues Using Tomographic Transmission Raman Spectroscopy* was accepted by ACS Applied Materials & Interfaces. Congrats to the first author **Haoqiang XIE**.
-- Sept 08, 2023: Undergraduate **Han GU** received funding from the National Science Foundation of China (NSFC) for her study on "Photon transport in biological tissues during spatially offset Raman detection process". This is the first year for NSFC to provide financial support to undergraduate students, and only 100 students have been selected nationwide. Congrats!
-- Aug 25, 2023: Prof. **Li LIN** received National Science Foundation of China (NSFC) funding. Congrats!
+- Sept 20, 2023: Haoqiang Xie's work entitled 'Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in Thick Tissues Using Tomographic Transmission Raman Spectroscopy' was accepted by ACS Applied Materials & Interfaces. Congrats.
+- Sept 08, 2023: Undergraduate *Han GU* received funding from the National Science Foundation of China (NSFC) for her study on "Photon transport in biological tissues during spatially offset Raman detection process". This is the first year for NSFC to provide financial support to undergraduate students, and only 100 students have been selected nationwide. Congrats!
+- Aug 25, 2023: Prof. Li LIN received National Science Foundation of China (NSFC) funding. Congrats!
 - Aug 3, 2023: Our academic paper entitled *Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering* was accepted by MED-X journal.
-- May 25, 2023: The Undergraduate Program by **Haoqiang XIE** was awarded as the "National Student Innovation and Entrepreneurship Training Program". Congrats!
-- May 15, 2023: Our academic paper entitled *Non-Invasive Detection, Precise Localization, and Perioperative Navigation of In Vivo Deep Lesions Using Transmission Raman Spectroscopy* was accepted by Advanced Science. Congrats to the first author **Zongyu WU**.
-- Apr 05, 2023: **Haoqi HE** was awarded Excellent Graduate at SJTU. Congrats. 
-- Mar 05, 2023: **Haoqi HE** has passed through the master defense.
-- July 22, 2022: Our academic research in Designing NIR-II SERS Nanotags was accepted by the Journal of Physical Chemistry C. Congrats to the first author **Haoqi HE**.
-- May 01, 2022: Congratulations to undergraduates **Zongyu, Haoqiang, and Yiming** for their publication on Photonics.
-- Feb 14, 2022: Prof. **Li LIN** was selected by Shanghai Chen-Guang (Excellent Young Scholar) Program.
+- May 25, 2023: The Undergraduate Program by *Haoqiang XIE* was awarded as the National Student Innovation and Entrepreneurship Training Program'. Congrats!
+- May 15, 2023: Our academic paper entitled 'Non-Invasive Detection, Precise Localization, and Perioperative Navigation of In Vivo Deep Lesions Using Transmission Raman Spectroscopy' was accepted by Advanced Science. Congrats to the first author *Zongyu WU*.
+- Apr 05, 2023: *Haoqi HE* was awarded Excellent Graduate at SJTU. Congrats. 
+- Mar 05, 2023: *Haoqi HE* has passed through the master defense.
+- July 22, 2022: Our academic research in Designing NIR-II SERS Nanotags was accepted by the Journal of Physical Chemistry C. Congrats to the first author *Haoqi HE*.
+- May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
+- Feb 14, 2022: Prof. Li LIN was selected by Shanghai Chen-Guang (Excellent Young Scholar) Program.
 
 {% include section.html %}
 
