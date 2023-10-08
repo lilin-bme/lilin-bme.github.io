@@ -7,25 +7,26 @@ nav:
 
 # <i class="fas fa-users"></i>Jion Us
 
-**OPEN POSITION: We are looking for a postdoc (start any time) and a master student (Fall 2024). The Ph.D. positions (Fall 2024) are full.** 
+**OPEN POSITION: We have open positions for postdocs (start any time). The Ph.D. and master positions (for Fall 2024) are full.** 
 
 If you are interested in joining our group, please send an email **(linli92@sjtu.edu.cn)** with a brief statement about why you are interested in the position, attach your CV, and include “Applying for xx position-Your name” in the subject line. We also welcome visiting students and undergraduates, especially those interested in pursuing a higher degree at Shanghai Jiao Tong University.
 
-Candidates who are talented, passionate, and self-motivated, with the backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines, are most welcome! Successful candidates will have the opportunity to receive cross-disciplinary training, tackle fundamental questions at the cutting edge of optics and nanomaterials, and circumvent the most challenging issues in biological and clinical developments.
+Candidates who are talented, passionate, and self-motivated, with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines, are most welcome! Successful candidates will have the opportunity to receive cross-disciplinary training, tackle fundamental questions at the cutting edge of optics and nanomaterials, and circumvent the most challenging issues in biological and clinical developments.
 
 # <i class="fas fa-users"></i>Team
 
 - Dr. Li Lin, Assistant Professor, PI
-- Shiyan Fang, PhD student
-- Zehou Su, PhD student
-- Rongrong Guo, Master student  
+- Shiyan Fang, PhD student, 2022-now
+- Zehou Su, PhD student, 2023-now
+- Rongrong Guo, Master student, 2023-now
+- Zongyu Wu, undergraduate student (and will join as PhD student in 2024), Shanghai Jiao Tong University, 2021-now
+- Haoqiang Xie, undergraduate student (and will join as PhD student in 2024), Shanghai Jiao Tong University, 2022-now
+- Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
+- Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
+- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
+  
 {% include button.html link="http://www.yelab.sjtu.edu.cn/index.php?ac=article&at=list&tid=17" text="More members can be found in YE LAB website" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
-### Undergraduates
-
-- Zongyu Wu, Shanghai Jiao Tong University, 2021-now
-- Haoqiang Xie, Shanghai Jiao Tong University, 2022-now
-- Han Gu, Shanghai Jiao Tong University, 2023-now
 
 {% include section.html %}
 
