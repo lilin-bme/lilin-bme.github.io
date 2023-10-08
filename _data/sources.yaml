@@ -1,3 +1,10 @@
+- id: doi:10.1021/acsami.3c07792
+  image: images/papers/2023ACSAMI.jpg
+  tags:
+    - Transmission Raman spectroscopy
+    - Tomography
+
+
 - id: doi:10.1007/s44258-023-00010-2
   type: paper
   description: We report the use of surface-enhanced Raman scattering nanotags embedded in ex-vivo animal tissues for direct and quantitative measurements of light attenuation and spectroscopic detection depth at both the NIR-I and NIR-II spectral windows.
