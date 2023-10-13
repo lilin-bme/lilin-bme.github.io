@@ -16,19 +16,6 @@ nav:
 
 {% endcapture %}
 
-{% include section.html %}
-
-
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/members/lilin2.jpg"
-  title="Prof. Dr. Li LIN"
-  text=text
-%}
 
 {% include section.html %}
 {%
