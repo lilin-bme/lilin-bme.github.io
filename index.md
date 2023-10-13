@@ -3,7 +3,16 @@
 
 ## Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
 
-The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells or tissues with optical nanostructures.
+The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures.
+
+{%
+  include button.html
+  link="projects"
+  text="See our research projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 {% capture text %}
 
@@ -11,8 +20,8 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 
 {%
   include button.html
-  link="projects"
-  text="See our research projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,7 +58,6 @@ We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong Universit
 Last updated Sept 3, 2023
 {%
   include button.html
-  link="linli92@sjtu.edu.cn"
   text="We have open positions for postdocs (start any time). Contact Dr. Lin now!"
   icon="fa-solid fa-arrow-right"
   flip=true
