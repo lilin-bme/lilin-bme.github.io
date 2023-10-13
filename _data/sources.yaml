@@ -85,12 +85,19 @@
     - Au nanorod
     - SERS
     
+- id: doi:10.1038/s41467-019-14070-9
+  image: images/Papers/2020NC.jpg
+  tags:
+    - GERTs
+    
 - id: doi:10.7150/thno.39968    
+  image: images/Papers/2020GERTs.jpg
   tags:
     - Review
     - SERS Nanoparticle
     - GERTs
-    
+
+
 - id: doi:10.1016/j.mtbio.2022.100205
   authors: Yao Lu, Li Lin*, Jian Ye*
   image: images/Papers/mtb-2022.jpg
