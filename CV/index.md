@@ -110,6 +110,6 @@ Email: linli92@sjtu.edu.cn
 - Li Lin, “Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering, Fall semester, From 2023
-- GE7002, Ethics and Academic Norms of Medical Engineering, Fall semester, From 2023
-- BME7006, Scientific Writing, Integrity and Ethics (English Class), Fall semester, From 2022
+- GE7002, Ethics and Academic Integrity of Medicine and Engineering, Fall semester, From 2023
+- BME7006, Academic Integrity and Research Ethics (English Class), Fall semester, From 2022
 - BME8201, Spectroscopic Nanomaterials in Biomedical Application, Spring semester, From 2022
