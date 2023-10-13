@@ -268,8 +268,11 @@
   date: '2020-01-24'
   link: https://doi.org/gn2w7s
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2020NC.jpg
+  tags:
+  - GERTs
 - id: doi:10.7150/thno.39968
   title: 'Gap-enhanced Raman tags: fabrication, optical properties, and theranostic
     applications'
@@ -284,6 +287,7 @@
   orcid: 0000-0002-8079-5768
   plugin: sources.py
   file: sources.yaml
+  image: images/Papers/2020GERTs.jpg
   tags:
   - Review
   - SERS Nanoparticle
