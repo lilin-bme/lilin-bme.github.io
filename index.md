@@ -56,7 +56,9 @@ Last updated Sept 3, 2023
   style="bare"
 %}
 
-- Sept 20, 2023: Haoqiang Xie's work entitled 'Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in Thick Tissues Using Tomographic Transmission Raman Spectroscopy' was accepted by *ACS Applied Materials & Interfaces*. Congrats.
+- Oct 09, 2023: Prof. Li LIN attended SciX conference (FACSS annual meeting) and delivered an invited talk at the 'Emerging Raman' section. 
+- Oct 05, 2023: Prof. Li LIN delivered a guest lecture talk for BIOE498/598/598 class at UIUC, as invited by Prof. Shuming Nie. 
+- Sept 20, 2023: Undergraduate Haoqiang XIE's research work entitled 'Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in Thick Tissues Using Tomographic Transmission Raman Spectroscopy' was accepted by *ACS Applied Materials & Interfaces*. Congrats.
 - Sept 08, 2023: Undergraduate Han GU received funding from the National Science Foundation of China (NSFC) for her study on "Photon transport in biological tissues during spatially offset Raman detection process". This is the first year for NSFC to provide financial support to undergraduate students, and only 100 students have been selected nationwide. Congrats!
 - Aug 25, 2023: Prof. Li LIN received National Science Foundation of China (NSFC) funding. Congrats!
 - Aug 3, 2023: Our academic paper entitled 'Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering' was accepted by *MED-X* journal.
