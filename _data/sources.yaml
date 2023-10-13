@@ -1,5 +1,6 @@
 - id: doi:10.1021/acsami.3c07792
-  image: images/papers/2023ACSAMI.jpg
+  image: images/Papers/2023ACSAMI.jpg
+  authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, Li Lin*, Jian Ye*
   tags:
     - Transmission Raman spectroscopy
     - Tomography
