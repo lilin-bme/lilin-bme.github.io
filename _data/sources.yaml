@@ -4,7 +4,7 @@
   tags:
     - Transmission Raman spectroscopy
     - Tomography
-
+    - GERTs
 
 - id: doi:10.1007/s44258-023-00010-2
   type: paper
@@ -17,7 +17,8 @@
     - Detection depth assessment
     - Second near-infrared window
     - NIR-II
-
+    - GERTs
+    
 - id: doi:10.1002/advs.202301721
   image: images/Papers/AS2023.jpg
   authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, Jian Ye*
@@ -133,17 +134,20 @@
     - GERTs
     - Plasmonic junction
 
+
 - id: doi:10.1002/smtd.201800182
-   image: images/Papers/2018SM.jpg
-   tags:
+  image: images/Papers/2018SM.jpg
+  tags:
     - Internal standard
     - GERTs
 
+
 - id: doi:10.1021/acsami.6b15170
-   image: images/Papers/2017ACSAMI.jpeg
-   tags:
+  image: images/Papers/2017ACSAMI.jpeg
+  tags:
     - GERTs
     - Photostability
+
     
 - id: doi:10.1039/c6nr08501f
   image: images/Papers/Nanoscale-2017.jpg
