@@ -8,21 +8,21 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}CV
 
 ---
-{% include section.html %}
 
-{% capture col1 %}
+{% capture text %}
 
-{% include figure.html image="images/members/lilin2.jpg" %}
 
-{% endcapture %}
-
-{% capture col2 %}
-
-{% include figure.html image="images/members/lilin.jpg" %}
+Assistant Professor
+Shanghai Chen-Guang Scholar 
+School of Biomedical Engineering, Shanghai Jiao Tong University 
+Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
+Email: linli92@sjtu.edu.cn
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2  %}
+{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN" text=text %}
+
+
 
 {% include section.html %}
 {%
@@ -51,13 +51,6 @@ nav:
 %}
 
 {% include section.html %}
-
-### Prof. Dr. Li LIN
-- Assistant Professor
-- Shanghai Chen-Guang Scholar 
-- School of Biomedical Engineering, Shanghai Jiao Tong University 
-- Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
-- Email: linli92@sjtu.edu.cn
 
 ###     EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University (Advisor: Prof. Hongchen Gu and Prof. Jian Ye), 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
