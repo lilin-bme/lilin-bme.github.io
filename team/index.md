@@ -35,7 +35,7 @@ Candidates who are talented, passionate, and self-motivated, with backgrounds in
 {%
   include figure.html
   image="images/Contact/grouppic3.jpg"
-  caption="Undergraduates training"
+  caption="Undergraduate training"
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ Candidates who are talented, passionate, and self-motivated, with backgrounds in
 {%
   include figure.html
   image="images/Contact/grouppic1.jpg"
-  caption="Meeting with undergraduates"
+  caption="Meeting"
 %}
 
 {% endcapture %}
