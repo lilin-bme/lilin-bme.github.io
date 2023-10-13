@@ -59,8 +59,7 @@ Last updated Sept 3, 2023
 {%
   include button.html
   text="We have open positions for postdocs (start any time). Contact Dr. Lin now!"
-  icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
