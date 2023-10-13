@@ -14,6 +14,7 @@
   tags:
   - Transmission Raman spectroscopy
   - Tomography
+  - GERTs
 - id: doi:10.1007/s44258-023-00010-2
   title: "Direct and quantitative assessments of near-infrared light attenuation and\
     \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
@@ -36,6 +37,7 @@
   - Detection depth assessment
   - Second near-infrared window
   - NIR-II
+  - GERTs
 - id: doi:10.1002/advs.202301721
   title: "Non\u2010Invasive Detection, Precise Localization, and Perioperative Navigation\
     \ of In Vivo Deep Lesions Using Transmission Raman Spectroscopy"
@@ -305,8 +307,10 @@
   date: '2019-09-01'
   link: https://doi.org/gsn3q7
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - GERTs
 - id: doi:10.1002/smtd.201800182
   title: Surface-Enhanced Raman Nanoprobes with Embedded Standards for Quantitative
     Cholesterol Detection
@@ -323,8 +327,12 @@
   date: '2018-08-23'
   link: https://doi.org/gsn3q8
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2018SM.jpg
+  tags:
+  - Internal standard
+  - GERTs
 - id: doi:10.1021/acsnano.7b08224
   title: Electron Transport Across Plasmonic Molecular Nanogaps Interrogated with
     Surface-Enhanced Raman Scattering
@@ -363,8 +371,12 @@
   date: '2017-01-24'
   link: https://doi.org/f9qs7z
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2017ACSAMI.jpeg
+  tags:
+  - GERTs
+  - Photostability
 - id: doi:10.1039/c6nr08501f
   title: Quantifying the reflective index of nanometer-thick thiolated molecular layers
     on nanoparticles
