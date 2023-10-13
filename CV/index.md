@@ -16,7 +16,13 @@ nav:
 
 {% endcapture %}
 
-{% include cols.html col1=col1 %}
+{% capture col2 %}
+
+{% include figure.html image="images/members/lilin.jpg" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2  %}
 
 {% include section.html %}
 {%
