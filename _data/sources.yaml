@@ -78,7 +78,11 @@
     - Bronchoscopy
     - Lung Tissue
     - GERTs
-   
+    
+- id: doi:10.1016/j.apsusc.2019.05.200  
+  tags:
+    - GERTs
+    
 - id: doi:10.1021/acsami.2c01063
   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
   tags:
@@ -128,6 +132,18 @@
     - Molecular dynamics
     - GERTs
     - Plasmonic junction
+
+- id: doi:10.1002/smtd.201800182
+   image: images/Papers/2018SM.jpg
+   tags:
+    - Internal standard
+    - GERTs
+
+- id: doi:10.1021/acsami.6b15170
+   image: images/Papers/2017ACSAMI.jpeg
+   tags:
+    - GERTs
+    - Photostability
     
 - id: doi:10.1039/c6nr08501f
   image: images/Papers/Nanoscale-2017.jpg
