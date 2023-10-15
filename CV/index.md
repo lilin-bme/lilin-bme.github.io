@@ -53,12 +53,12 @@ Email: linli92@sjtu.edu.cn
 {% include section.html %}
 
 ###     EDUCATION    
-- Ph.D., Biomedical Engineering, Shanghai Jiao Tong University (Advisor: Prof. Hongchen Gu and Prof. Jian Ye), 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
+- Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
 - B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
 - Visiting Student, Department of Biomedical Engineering, University of Minnesota, U.S., 2012 Summer
 ### PROFESSIONAL EMPLOYMENT 
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-now
-- Visiting Postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
+- Visiting scholar and postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
 ### HONORS AND AWARDS                                                                  
 - Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
@@ -80,7 +80,7 @@ Email: linli92@sjtu.edu.cn
 #### Approved patents (to be updated)
 -	Jian Ye, *Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
 - Jian Ye, *Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
-### JOURNAL REVIEWER
+### JOURNAL REVIEWER (to be updated)
 - Analytical Chemistry
 - Environmental Science & Technology
 - Nature Communications
@@ -95,12 +95,13 @@ Email: linli92@sjtu.edu.cn
 - National Science Foundation of China (NSFC), PI, RMB 200k, 2019-2022, "Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study"
 - Start-up funding support, PI, SJTU
 ### INVITED TALKS
-- Li Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions, SciX, October 2023, Sparks, Nevada, US.
-- Li Lin, Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis, Photonix Conference, May 2023, Hangzhou, China.
-- Li Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis, Instrumental Website Online Webinar, June 2023.
-- Li Lin, “Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, 2021, Haikou, Hainan, China. (Oral)
-- Li Lin, “Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
-- Li Lin, “Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
+- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
+- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Image-Guided Surgery Clinical Translations,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2023, Online.
+- Li Lin, "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
+- Li Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis, Instrumental Website Online Webinar, June 2023, Online.
+- Li Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
+- Li Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
+- Li Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering, Fall semester, From 2023
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering, Fall semester, From 2023
