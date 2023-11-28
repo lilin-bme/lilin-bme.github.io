@@ -1,14 +1,14 @@
 # site properties and page defaults
 title: LIN Lab 
 subtitle: Where light interacts with nanomaterials
-description: An engaging 1-3 sentence 
+description: 
 header: images/cell1-01.jpg
 footer: images/SJTU.jpg
 
 # site social media and other links
 links:
   email: linli92@sjtu.edu.cn
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-8079-5768
   google-scholar: https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN
   website: https://bme.sjtu.edu.cn/Web/FacultyDetail/917
   
@@ -26,11 +26,7 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+
 
 collections:
   # generate page for each member
