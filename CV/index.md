@@ -12,13 +12,13 @@ nav:
 {% capture text %}
 
 
-Assistant Professor, Shanghai Chen-Guang Scholar(晨光计划学者)<br> 
+Assistant Professor, Shanghai Chen-Guang Scholar(上海市晨光计划学者)<br> 
 School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
-ORCID:0000-0002-8079-5768[link](https://orcid.org/0000-0002-8079-5768)<br>
-Google Scholar[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)<br>
-Researchgate[link](https://www.researchgate.net/profile/Li-Lin-71)<br>
+ORCID: 0000-0002-8079-5768 [link](https://orcid.org/0000-0002-8079-5768)<br>
+Google Scholar page [link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)<br>
+Researchgate page [link](https://www.researchgate.net/profile/Li-Lin-71)<br>
 
 {% endcapture %}
 
@@ -26,7 +26,7 @@ Researchgate[link](https://www.researchgate.net/profile/Li-Lin-71)<br>
 
 
 {% include section.html %}
-More links:
+More links >>> <br>
 Raman Medicine and Nanooptics Lab Website [Yelab at SJTU](www.yelab.sjtu.edu.cn)<br>
 School of Biomedical Engineering [School Website](bme.sjtu.edu.cn)<br>
 Shanghai Jiao Tong University [Official Website](https://en.sjtu.edu.cn/)<br>
