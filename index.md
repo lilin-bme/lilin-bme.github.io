@@ -78,8 +78,8 @@ Last updated Nov 27, 2023
 - Haoqiang Xie, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
 - Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- >> More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)
+- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now <br>
+More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)
 
 ## Alumni
 - Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
