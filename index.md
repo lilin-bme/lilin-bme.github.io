@@ -55,8 +55,8 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
 Last updated Nov 27, 2023
 - Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(挑战杯全国大学生课外科创竞赛,生命科学赛道特等奖,全国唯一本科生团队). 
 - Oct 05, 2023: Prof. LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
-- Sept 20, 2023: Paper on "3D localization of deep-seated SERS phantom Lesions using tomographic transmission Raman spectroscopy" was accepted by *ACS Applied Materials & Interfaces*. Congrats to first author Haoqiang XIE!
-- Sept 08, 2023: Undergraduate Han GU received the National Science Foundation of China (NSFC) funding for her study on photon transport of spatially offset Raman spectroscopy. Only about 100 students were selected nationwide. Congrats.
+- Sept 20, 2023: Paper on "3D localization of deep-seated SERS phantom Lesions using tomographic transmission Raman spectroscopy" was accepted by *ACS Appl. Mater. Interfaces*. Congrats to first author Haoqiang XIE!
+- Sept 08, 2023: Undergraduate Han GU received the NSFC funding for her investigations on "image-shift of spatially offset Raman spectroscopy". Only about 100 students were selected nationwide. Congrats.
 - Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding (国自然面上基金). Congrats!
 - Aug 3, 2023: Paper on "direct and quantitative assessments of near‑infrared tissue penetration in biological tissues using surface‑enhanced Raman scattering" was accepted by *MED-X* journal.
 - June 08, 2023: Prof. LIN delivered an invited talk at Photonix Conference.
@@ -67,7 +67,7 @@ Last updated Nov 27, 2023
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
 - Aug 01, 2023: Our team received 3-tier award in national college innovation and design of biomedical engineering (第七届全国大学生生物医学工程创新设计竞赛三等奖).
-- July 22, 2022: Paper on "design of NIR-II SERS Nanotags" was accepted by the Journal of Physical Chemistry C. Congrats to the first author Haoqi HE.
+- July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
 - Jan 01, 2022: Prof. Li LIN received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
 
