@@ -1,10 +1,9 @@
 ---
 ---
 
-## Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
+## Nanooptics and Raman sensing lab (LI LIN's LAB AT SJTU)
 
 The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures. <br> 
-
 
 {% capture text %}
 
@@ -28,6 +27,28 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
   text=text
 %}
 
+{% capture text %}
+
+We are a multidisciplinary nanooptics laboratory at the School of Biomedical Engineering, Shanghai Jiao Tong University. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We are a tiny and compact group working with Dr. Li LIN at SJTU.
+
+{%
+  include button.html
+  link="CV"
+  text="More about Prof. Dr. Lin"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/lilin2.jpg"
+  title="Who we are"
+  text=text
+%}
+
 ## Recent News
 
 Last updated Nov 27, 2023
@@ -47,27 +68,7 @@ Last updated Nov 27, 2023
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
 - Feb 14, 2022: Prof. Li LIN was selected by the Shanghai Chen-Guang (Excellent Young Scholar) Program.
 
-{% capture text %}
 
-We are a multidisciplinary nanooptics laboratory at Shanghai Jiao Tong University. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We are a tiny and compact group working with Dr. Li LIN at SJTU.
-
-{%
-  include button.html
-  link="publications"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/projects/cell3.jpg"
-  title="Who we are"
-  text=text
-%}
 
 ## TEAM
 - Dr. Li Lin, Assistant Professor, PI
