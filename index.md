@@ -28,7 +28,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 %}
 {% capture text %}
 
-We are a multidisciplinary and compact team working with Dr. Li LIN, the Assistant Professor at the School of Biomedical Engineering, SJTU. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
+We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistant Professor at the School of Biomedical Engineering, SJTU. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
 
 {%
   include button.html
