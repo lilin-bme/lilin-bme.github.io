@@ -20,7 +20,8 @@
 - id: doi:10.1021/acsami.3c07792
   title: Locating Three-Dimensional Position of Deep-Seated SERS Phantom Lesions in
     Thick Tissues Using Tomographic Transmission Raman Spectroscopy
-  authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, _Li Lin*_, Jian Ye*
+  authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, <strong>Li Lin*</strong>,
+    Jian Ye*
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2023-09-13'
   link: https://doi.org/gsqwss
