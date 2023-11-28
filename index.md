@@ -43,7 +43,7 @@ Dr. Li LIN, a scientist working in the field of Raman sensing, is currently an A
 
 {%
   include feature.html
-  image="images/members/lilin3.jpg"
+  image="images/members/lilin3.JPG"
   title="Who we are"
   text=text
 %}
