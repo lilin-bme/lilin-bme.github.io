@@ -69,7 +69,7 @@ Last updated Nov 27, 2023
 - Aug 01, 2023: Our team received 3-tier award in national college innovation and design of biomedical engineering (第七届全国大学生生物医学工程创新设计竞赛三等奖).
 - July 22, 2022: Paper on "design of NIR-II SERS Nanotags" was accepted by the Journal of Physical Chemistry C. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
-- Jan 01, 2022: Prof. Li LIN was received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
+- Jan 01, 2022: Prof. Li LIN received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
 
 {% include section.html %}
 
