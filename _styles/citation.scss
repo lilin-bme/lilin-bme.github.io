@@ -1,7 +1,7 @@
 ---
 ---
 
-$thumb-size: 180px;
+$thumb-size: 150px;
 $wrap: 800px;
 
 .citation {
@@ -24,7 +24,7 @@ $wrap: 800px;
   position: absolute;
   inset: 0;
   width: 100%;
-  height: 80%;
+  height: 100%;
   object-fit: contain;
 }
 
