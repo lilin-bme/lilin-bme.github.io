@@ -34,7 +34,7 @@ We are a multidisciplinary nanooptics laboratory at the School of Biomedical Eng
 {%
   include button.html
   link="CV"
-  text="More about Prof. Dr. Lin"
+  text="More about Dr. Lin"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -44,7 +44,7 @@ We are a multidisciplinary nanooptics laboratory at the School of Biomedical Eng
 
 {%
   include feature.html
-  image="images/projects/lilin2.jpg"
+  image="images/members/lilin2.jpg"
   title="Who we are"
   text=text
 %}
@@ -53,7 +53,7 @@ We are a multidisciplinary nanooptics laboratory at the School of Biomedical Eng
 
 Last updated Nov 27, 2023
 
-- Oct 28, 2023: Led the team to win the Top Medal in the "Challenge Cup" National College Student Competition (Top 1% nationwide). 
+- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%). 
 - Oct 05, 2023: Prof. Li LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: Paper on "3D localization of deep-seated SERS phantom Lesions using tomographic transmission Raman spectroscopy" was accepted by *ACS Applied Materials & Interfaces*. Congrats to first author Haoqiang XIE!
 - Sept 08, 2023: Undergraduate Han GU received the National Science Foundation of China (NSFC) funding for her study on photon transport of spatially offset Raman spectroscopy. Only about 100 students were selected nationwide. Congrats.
@@ -61,14 +61,14 @@ Last updated Nov 27, 2023
 - Aug 3, 2023: Paper on "direct and quantitative assessments of near‑infrared tissue penetration in biological tissues using surface‑enhanced Raman scattering" was accepted by *MED-X* journal.
 - May 25, 2023: Haoqiang XIE's undergraduate Program was awarded as the 'National Student Innovation and Entrepreneurship Training Program'. 
 - May 15, 2023: Our academic paper on 'non-invasive localization of in vivo deep lesion using transmission Raman spectroscopy' was accepted by *Advanced Science*.
-- May 05, 2023: Led the team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang Luo) to win the Shanghai NO.1 Medal in the Challenge Cup (College Student Competition), with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
+- May 05, 2023: Our teamm (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang Luo) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup , with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
 - July 22, 2022: Paper on 'design of NIR-II SERS Nanotags' was accepted by the Journal of Physical Chemistry C. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
 - Feb 14, 2022: Prof. Li LIN was selected by the Shanghai Chen-Guang (Excellent Young Scholar) Program.
 
-
+{% include section.html %}
 
 ## TEAM
 - Dr. Li Lin, Assistant Professor, PI
@@ -86,9 +86,13 @@ Last updated Nov 27, 2023
 - Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
 - Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
 
+{% include section.html %}
+
 ## Join Us
 OPEN POSITION: We have open positions for postdocs (start any time). The Ph.D. and master positions for Fall 2024 are full.
+
 If you are interested in joining our group, please send an email (linli92@sjtu.edu.cn) with a brief statement about why you are interested in the position, attach your CV, and include “Applying for xx position-Your name” in the subject line. We also welcome visiting students and undergraduates, especially those interested in pursuing a higher degree at Shanghai Jiao Tong University.
+
 Candidates who are talented, passionate, and self-motivated, with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines, are most welcome! Successful candidates will have the opportunity to receive cross-disciplinary training, tackle fundamental questions at the cutting edge of optics and nanomaterials, and circumvent the most challenging issues in biological and clinical developments.
 
 
