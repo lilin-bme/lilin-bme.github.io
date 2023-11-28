@@ -7,7 +7,7 @@ nav:
 
 {% capture text %}
 
-Assistant Professor, Shanghai Chen-Guang Scholar(上海市晨光计划学者)<br> 
+Assistant Professor, Shanghai Chen-Guang Scholar (上海市晨光计划学者)<br> 
 School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
@@ -34,8 +34,8 @@ More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.ed
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
-- 2023 SJTU Teaching Award, Second-Tier(校级教学成果奖二等奖)
-- 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program(上海市晨光计划)
+- 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
+- 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光计划)
 - 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
 - 2019 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics
 - 2018 Shanghai Super Postdoctoral Fellowship
@@ -43,10 +43,10 @@ More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.ed
 - 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
 - 2017 Best Poster Award, 2017 International Conference on SERS <br>
 ##### Advisor Awards
-- 2023 National College Student Competition Challenge Cup Advisor Award (Student: Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO,挑战杯全国大学生课外科创竞赛)
-- 2023 The National Training Program of Innovation and Entrepreneurship for Undergraduates Advisor Award (Student: Haoqiang XIE,国家级大学生创新创业训练项目)
-- 2023 Shanghai College Student Competition Challenge Cup Advisor Award(上海市挑战杯大学生课外科创竞赛)
-- 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award(全国大学生生物医学工程创新设计竞赛).
+- 2023 National College Student Competition Challenge Cup Advisor Award (Student: Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO, 挑战杯全国大学生课外科创竞赛)
+- 2023 The National Training Program of Innovation and Entrepreneurship for Undergraduates Advisor Award (Student: Haoqiang XIE, 国家级大学生创新创业训练项目)
+- 2023 Shanghai College Student Competition Challenge Cup Advisor Award (上海市挑战杯大学生课外科创竞赛)
+- 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS
 - Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
