@@ -1,6 +1,9 @@
+- id: doi:10.1002/smtd.202301243
+  image: images/Papers/review.JPG
+
 - id: doi:10.1021/acsami.3c07792
   image: images/Papers/2023ACSAMI.jpg
-  authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, Li Lin*, Jian Ye*
+  authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, __Li Lin*__, Jian Ye*
   tags:
     - Transmission Raman spectroscopy
     - Tomography
@@ -81,6 +84,7 @@
     - GERTs
     
 - id: doi:10.1016/j.apsusc.2019.05.200  
+
   tags:
     - GERTs
     
@@ -96,7 +100,7 @@
     - GERTs
     
 - id: doi:10.7150/thno.39968    
-  image: images/Papers/2020GERTs.jpg
+  image: images/Papers/review.JPG
   tags:
     - Review
     - SERS Nanoparticle
@@ -105,14 +109,14 @@
 
 - id: doi:10.1016/j.mtbio.2022.100205
   authors: Yao Lu, Li Lin*, Jian Ye*
-  image: images/Papers/mtb-2022.jpg
+  image: images/Papers/review.JPG
   tags:
     - SERS
     - Metabolite detection
 
 - id: doi:10.1063/5.0047578 
   authors: Li Lin, Xinyuan Bi, Yuqing Gu, Fu Wang, Jian Ye*
-  image: images/Papers/JAP-2021.jpg
+  image: images/Papers/review.JPG
   tags:
     - review
     - SERS
