@@ -84,13 +84,12 @@
     - GERTs
     
 - id: doi:10.1016/j.apsusc.2019.05.200  
-
   tags:
     - GERTs
     
 - id: doi:10.1021/acsami.2c01063
   authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
-  image: images/Papers/2022ACSAMI.jpg
+  image: images/Papers/2022ACSAMI.JPG
   tags:
     - Au nanorod
     - SERS
