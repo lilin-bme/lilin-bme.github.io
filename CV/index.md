@@ -16,9 +16,9 @@ Assistant Professor, Shanghai Chen-Guang Scholar(上海市晨光计划学者)<br
 School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
-ORCID: 0000-0002-8079-5768 [link](https://orcid.org/0000-0002-8079-5768)<br>
-Google Scholar page [link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)<br>
-Researchgate page [link](https://www.researchgate.net/profile/Li-Lin-71)<br>
+ORCID: 0000-0002-8079-5768 [[link](https://orcid.org/0000-0002-8079-5768)]<br>
+Google Scholar page [[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)]<br>
+Researchgate page [[link](https://www.researchgate.net/profile/Li-Lin-71)]<br>
 
 {% endcapture %}
 
@@ -27,9 +27,9 @@ Researchgate page [link](https://www.researchgate.net/profile/Li-Lin-71)<br>
 
 {% include section.html %}
 More links >>  <br>
-Raman Medicine and Nanooptics Lab Website [Yelab at SJTU](www.yelab.sjtu.edu.cn)<br>
-School of Biomedical Engineering [School Website](bme.sjtu.edu.cn)<br>
-Shanghai Jiao Tong University [Official Website](https://en.sjtu.edu.cn/)<br>
+Raman Medicine and Nanooptics Lab Website [[Yelab at SJTU](www.yelab.sjtu.edu.cn)]<br>
+School of Biomedical Engineering [[School Website](bme.sjtu.edu.cn)]<br>
+Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -82,7 +82,7 @@ Shanghai Jiao Tong University [Official Website](https://en.sjtu.edu.cn/)<br>
 - Li Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
 - Li Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
 ### TEACHING
-- BME9001, Frontiers of Biomedical Engineering, Fall semester, From 2023
-- GE7002, Ethics and Academic Integrity of Medicine and Engineering, Fall semester, From 2023
-- BME7006, Academic Integrity and Research Ethics (English Class), Fall semester, From 2022
-- BME8201, Spectroscopic Nanomaterials in Biomedical Application, Spring semester, From 2022
+- BME9001, Frontiers of Biomedical Engineering(医学工程前沿进展), Fall semester, From 2023
+- GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
+- BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, 2022/2023
+- BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, 2022/2023
