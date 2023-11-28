@@ -12,7 +12,7 @@ nav:
 {% capture text %}
 
 
-Assistant Professor
+Assistant Professor<br>
 Shanghai Chen-Guang Scholar 
 School of Biomedical Engineering, Shanghai Jiao Tong University 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
