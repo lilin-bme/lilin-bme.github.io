@@ -32,8 +32,8 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
 
 {%
   include button.html
-  link="Publications"
-  text="See our publications"
+  link="http://linlab-sjtu.com/#team"
+  text="See our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
