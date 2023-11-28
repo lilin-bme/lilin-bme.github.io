@@ -12,7 +12,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 {%
   include button.html
   link="projects"
-  text="See our projections"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,8 +32,8 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
 
 {%
   include button.html
-  link="CV"
-  text="More about Dr. Lin"
+  link="Publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
