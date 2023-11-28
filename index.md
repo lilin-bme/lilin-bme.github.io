@@ -5,49 +5,7 @@
 
 The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures. <br> 
 
-{% capture text %}
 
-We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-material interfaces. We collaborate closely with other groups to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
-
-{%
-  include button.html
-  link="projects"
-  text="See our projections"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/projects/cell3.jpg"
-  title="What we do"
-  text=text
-%}
-
-{% capture text %}
-
-Dr. Li LIN, a scientist working in the field of Raman sensing, is currently an Assistant Professor at the School of Biomedical Engineering, SJTU. We are a multidisciplinary nanooptics laboratory working with Dr. LIN. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
-
-{%
-  include botton.html
-  link="CV"
-  text="More about Dr. Lin"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/members/lilin2.jpg"
-  title="Who we are"
-  text=text
-%}
 
 ## Recent News
 
@@ -61,7 +19,7 @@ Last updated Nov 27, 2023
 - Aug 3, 2023: Paper on "direct and quantitative assessments of near‑infrared tissue penetration in biological tissues using surface‑enhanced Raman scattering" was accepted by *MED-X* journal.
 - May 25, 2023: Haoqiang XIE's undergraduate Program was awarded as the 'National Student Innovation and Entrepreneurship Training Program'. 
 - May 15, 2023: Our academic paper on 'non-invasive localization of in vivo deep lesion using transmission Raman spectroscopy' was accepted by *Advanced Science*.
-- May 05, 2023: Our teamm (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang Luo) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup , with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
+- May 05, 2023: Our team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang Luo) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup, with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
 - July 22, 2022: Paper on 'design of NIR-II SERS Nanotags' was accepted by the Journal of Physical Chemistry C. Congrats to the first author Haoqi HE.
@@ -72,15 +30,15 @@ Last updated Nov 27, 2023
 
 ## TEAM
 - Dr. Li Lin, Assistant Professor, PI
-- Shiyan Fang, PhD student, 2022-now
-- Zehou Su, PhD student, 2023-now
-- Rongrong Guo, Master student, 2023-now
+- Shi-Yan Fang, PhD student, 2022-now
+- Ze-Hou Su, PhD student, 2023-now
+- Rong-Rong Guo, Master student, 2023-now
 - Zongyu Wu, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2021-now
 - Haoqiang Xie, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
 - Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- More members can be found in YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)
+- >> More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)
 
 ## Alumni
 - Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
