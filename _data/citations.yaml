@@ -2,11 +2,7 @@
 
 - id: doi:10.1002/smtd.202301243
   title: "Artificial Intelligence for Surface\u2010Enhanced Raman Spectroscopy"
-  authors:
-  - Xinyuan Bi
-  - Li Lin
-  - Zhou Chen
-  - Jian Ye
+  authors: Xinyuan Bi, <strong>Li Lin</strong>, Zhou Chen, Jian Ye
   publisher: Small Methods
   date: '2023-10-27'
   link: https://doi.org/gs2vq7
@@ -37,8 +33,8 @@
   title: "Direct and quantitative assessments of near-infrared light attenuation and\
     \ spectroscopic detection depth in biological\_tissues using surface-enhanced\
     \ Raman scattering"
-  authors: Li Lin*, Haoqi He, Ruiyang Xue, Yumin Zhang, Ziwen Wang, Shuming Nie*,
-    Jian Ye*
+  authors: <strong>Li Lin*</strong>, Haoqi He, Ruiyang Xue, Yumin Zhang, Ziwen Wang,
+    Shuming Nie*, Jian Ye*
   publisher: Med-X
   date: '2023-08-14'
   link: https://doi.org/gsn3qs
@@ -59,8 +55,8 @@
 - id: doi:10.1002/advs.202301721
   title: "Non\u2010Invasive Detection, Precise Localization, and Perioperative Navigation\
     \ of In Vivo Deep Lesions Using Transmission Raman Spectroscopy"
-  authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*,
-    Jian Ye*
+  authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, <strong>Li
+    Lin*</strong>, Jian Ye*
   publisher: Advanced Science
   date: '2023-06-20'
   link: https://doi.org/gsn3qt
@@ -74,7 +70,7 @@
 - id: doi:10.1002/viw.20230022
   title: A rapid and universal method for depth estimation of lesions in heterogeneous
     tissues via photosafe ratiometric transmission Raman spectroscopy
-  authors: Yumin Zhang, Li Lin*, Jian Ye*
+  authors: Yumin Zhang, <strong>Li Lin*</strong>, Jian Ye*
   publisher: VIEW
   date: '2023-04-20'
   link: https://doi.org/gsd9r3
@@ -89,7 +85,7 @@
   title: 'Euclidean distance-based Raman spectroscopy (EDRS) for the prognosis analysis
     of gastric cancer: A solution to tumor heterogeneity'
   authors: Wenfang Wang, Bowen Shi, Chang He, Siyi Wu, Lan Zhu, Jiang Jiang, Lingyun
-    Wang, Li Lin*, Jian Ye*, Huan Zhang*
+    Wang, <strong>Li Lin*</strong>, Jian Ye*, Huan Zhang*
   publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
   date: '2023-03-01'
   link: https://doi.org/grwfk3
@@ -111,7 +107,7 @@
   - Yutong Zhou
   - Haoqiang Xie
   - Yumin Zhang
-  - Li Lin*
+  - <strong>Li Lin*</strong>
   - Jian Ye*
   publisher: Small Methods
   date: '2022-12-26'
@@ -143,7 +139,7 @@
   - Encyclopedia of Nanomaterials
 - id: doi:10.1021/acs.jpcc.2c02512
   title: 'Resonant Strategy in Designing NIR-II SERS Nanotags: A Quantitative Study'
-  authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, Li Lin*
+  authors: Haoqi He, Shuo Zhu, Yumin Zhang, Jian Ye*, <strong>Li Lin*</strong>
   publisher: The Journal of Physical Chemistry C
   date: '2022-07-22'
   link: https://doi.org/gsn3qw
@@ -160,7 +156,7 @@
   title: 'Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using
     Ex Vivo Lung Tissues and SERS Nanoparticle Tags'
   authors: Zongyu Wu, Ziwen Wang, Haoqiang Xie, Yiming Wang, Haoqi He, Shuming Nie,
-    Jian Ye, Li Lin*
+    Jian Ye, <strong>Li Lin*</strong>
   publisher: Photonics
   date: '2022-06-17'
   link: https://doi.org/gsn3qx
@@ -175,7 +171,8 @@
 - id: doi:10.1021/acsami.2c01063
   title: Surface-Enhanced Raman Scattering Bioimaging with an Ultrahigh Signal-to-Background
     Ratio under Ambient Light
-  authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, Li Lin, Jian Ye*
+  authors: Shuo Zhu, Binge Deng, Fugang Liu, Jin Li, <strong>Li Lin</strong>, Jian
+    Ye*
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2022-02-14'
   link: https://doi.org/gsn3qz
@@ -188,7 +185,7 @@
   - SERS
 - id: doi:10.1016/j.mtbio.2022.100205
   title: Human metabolite detection by surface-enhanced Raman spectroscopy
-  authors: Yao Lu, Li Lin*, Jian Ye*
+  authors: Yao Lu, <strong>Li Lin*</strong>, Jian Ye*
   publisher: Materials Today Bio
   date: '2022-01-01'
   link: https://doi.org/gsn3q2
@@ -216,7 +213,7 @@
 - id: doi:10.1142/S1793545821410017
   title: Optical penetration of surface-enhanced micro-scale spatial offset Raman
     spectroscopy in turbid gel and biological tissue
-  authors: Yumin Zhang#, Li Lin#, Jing He, Jian Ye*
+  authors: Yumin Zhang#, <strong>Li Lin#</strong>, Jing He, Jian Ye*
   publisher: Journal of Innovative Optical Health Sciences
   date: '2021-02-22'
   link: https://doi.org/gsn3q4
@@ -264,7 +261,7 @@
 - id: doi:10.1021/acs.jpcc.0c09552
   title: "Atomic Insights into the Evolution of Three-Dimensional Molecular Junctions\
     \ in Plasmonic Core\u2013Shell Nanoparticles"
-  authors: Li Lin, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
+  authors: <strong>Li Lin</strong>, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
   publisher: The Journal of Physical Chemistry C
   date: '2021-01-15'
   link: https://doi.org/gsn3q5
