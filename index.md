@@ -5,6 +5,27 @@
 
 The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures. <br> 
 
+{% capture text %}
+
+We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-material interfaces. We collaborate closely with other groups to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
+
+{%
+  include button.html
+  link="projects"
+  text="See our projections"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/cell3.jpg"
+  title="What we do"
+  text=text
+%}
 
 
 ## Recent News
