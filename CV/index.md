@@ -27,9 +27,9 @@ Researchgate page [link](https://www.researchgate.net/profile/Li-Lin-71)<br>
 
 {% include section.html %}
 More links >>> <br>
-Raman Medicine and Nanooptics Lab Website [Yelab at SJTU](www.yelab.sjtu.edu.cn)<br>
-School of Biomedical Engineering [School Website](bme.sjtu.edu.cn)<br>
-Shanghai Jiao Tong University [Official Website](https://en.sjtu.edu.cn/)<br>
+- Raman Medicine and Nanooptics Lab Website [Yelab at SJTU](www.yelab.sjtu.edu.cn)<br>
+- School of Biomedical Engineering [School Website](bme.sjtu.edu.cn)<br>
+- Shanghai Jiao Tong University [Official Website](https://en.sjtu.edu.cn/)<br>
 
 ###     EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
