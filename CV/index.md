@@ -17,9 +17,9 @@ Shanghai Chen-Guang Scholar<br>
 School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
->>Ye Lab Website at SJTU [link](www.yelab.sjtu.edu.cn)
->>School of Biomedical Engineering (
->>Shanghai Jiao Tong University
+Ye Lab Website at SJTU [link](www.yelab.sjtu.edu.cn)<br>
+School of Biomedical Engineering<br>
+Shanghai Jiao Tong University<br>
 
 {% endcapture %}
 
