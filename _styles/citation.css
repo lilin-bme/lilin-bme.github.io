@@ -9,7 +9,7 @@
 
 .citation-image {
   position: relative;
-  width: 150px;
+  width: 180px;
   flex-shrink: 0;
 }
 
@@ -29,7 +29,7 @@
   max-width: 100%;
   height: min-content;
   padding: 20px;
-  padding-left: 20px;
+  padding-left: 25px;
   text-align: left;
   overflow-wrap: break-word;
   z-index: 0;
@@ -83,7 +83,7 @@
   }
   .citation-image {
     width: unset;
-    height: 150px;
+    height: 180px;
   }
 }
 
