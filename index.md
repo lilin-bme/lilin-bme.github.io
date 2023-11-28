@@ -32,7 +32,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 We are a multidisciplinary nanooptics laboratory at the School of Biomedical Engineering, Shanghai Jiao Tong University. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We are a tiny and compact group working with Dr. Li LIN at SJTU.
 
 {%
-  include button.html
+  include ffeature.html
   link="CV"
   text="More about Dr. Lin"
   icon="fa-solid fa-arrow-right"
@@ -43,7 +43,7 @@ We are a multidisciplinary nanooptics laboratory at the School of Biomedical Eng
 {% endcapture %}
 
 {%
-  include feature.html
+  include bottom.html
   image="images/members/lilin2.jpg"
   title="Who we are"
   text=text
