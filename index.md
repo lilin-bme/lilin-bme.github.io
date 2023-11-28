@@ -85,7 +85,7 @@ Last updated Nov 27, 2023
 - Han Gu(顾寒), undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- **More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)**
+- **More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]**
 
 ## Alumni
 - Haoqi He(何浩琦), Shanghai Jiao Tong University, Master Student, 2020-2023
