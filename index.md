@@ -55,38 +55,40 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
 Last updated Nov 27, 2023
 - Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(挑战杯全国大学生课外科创竞赛,生命科学赛道特等奖,全国唯一本科生团队). 
 - Oct 05, 2023: Prof. LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
-- Sept 20, 2023: Paper on "3D localization of deep-seated SERS phantom Lesions using tomographic transmission Raman spectroscopy" was accepted by *ACS Appl. Mater. Interfaces*. Congrats to first author Haoqiang XIE!
-- Sept 08, 2023: Undergraduate Han GU received the NSFC funding for her investigations on "image-shift of spatially offset Raman spectroscopy". Only about 100 students were selected nationwide. Congrats.
-- Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding (国自然面上基金). Congrats!
-- Aug 3, 2023: Paper on "direct and quantitative assessments of near‑infrared tissue penetration in biological tissues using surface‑enhanced Raman scattering" was accepted by *MED-X* journal.
-- June 08, 2023: Prof. LIN delivered an invited talk at Photonix Conference.
-- May 30, 2023: Prof. LIN delivered an online webinar talk, inviated by the Instrumental Website.
-- May 25, 2023: The undergraduate innovation research program of Haoqiang XIE was awarded as the National Program. 
-- May 15, 2023: Our academic paper on "non-invasive localization of in vivo deep lesion using transmission Raman spectroscopy" was accepted by *Advanced Science*.
-- May 05, 2023: Our team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup, with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
+- **Sept 20, 2023: Paper on "transmission Raman tomography" accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang XIE!**
+- Sept 08, 2023: Undergraduate Han GU received NSFC funding for her investigations on spatially offset Raman spectroscopy. Congrats.
+- Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding (国自然面上基金). Congrats.
+- Aug 3, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X* journal.
+- June 08, 2023: Prof. LIN delivered an invited talk at the PhotoniX Conference.
+- May 30, 2023: Prof. LIN delivered an online webinar talk, invited by the Instrument Website.
+- May 25, 2023: Haoqiang XIE was awarded the national undergraduate innovation research program. 
+- May 15, 2023: Paper on "in vivo lesion localization of transmission Raman spectroscopy" accepted by *Advanced Science*.
+- May 05, 2023: Our team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO) won the Top Medal in the Shanghai College Student Competition, with their project of "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
+- Jan 01, 2022: Paper accepted by *Small Methods* reporting the highest detection depths using transmission Raman spectroscopy.
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
-- Aug 01, 2023: Our team received 3-tier award in national college innovation and design of biomedical engineering (第七届全国大学生生物医学工程创新设计竞赛三等奖).
+- Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (第七届全国大学生生物医学工程创新设计竞赛).
 - July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
-- May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
+- May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
 - Jan 01, 2022: Prof. Li LIN received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
-
+- Oct 01, 2021: Prof. Li LIN joined SJTU-BME as a tenure-track Assistant Professor.
+- 
 {% include section.html %}
 
 ## TEAM
 - Dr. Li Lin, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
-- Shi-Yan Fang, PhD student, 2022-now
-- Ze-Hou Su, PhD student, 2023-now
-- Rong-Rong Guo, Master student, 2023-now
+- Shi-Yan Fang(方世言), PhD student, 2022-now
+- Ze-Hou Su(苏泽厚), PhD student, 2023-now
+- Rong-Rong Guo(郭蓉蓉) Master student, 2023-now
 - Zongyu Wu, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2021-now
-- Haoqiang Xie, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
-- Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
+- Haoqiang Xie(谢浩强), undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
+- Han Gu(顾寒), undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now <br>
-More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)
+- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
+- **More members can be found on the YE LAB website [Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)**
 
 ## Alumni
-- Haoqi He, Shanghai Jiao Tong University, Master Student, 2020-2023
+- Haoqi He(何浩琦), Shanghai Jiao Tong University, Master Student, 2020-2023
 - Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
 
 {% include section.html %}
