@@ -94,7 +94,7 @@ Last updated Nov 27, 2023
 {% include section.html %}
 
 ## Join Us
-OPEN POSITION: We have open positions for postdocs (start any time). The Ph.D. and master positions for Fall 2024 are full.
+**OPEN POSITION for postdocs (start any time).**
 
 If you are interested in joining our group, please send an email (linli92@sjtu.edu.cn) with a brief statement about why you are interested in the position, attach your CV, and include “Applying for xx position-Your name” in the subject line. We also welcome visiting students and undergraduates, especially those interested in pursuing a higher degree at Shanghai Jiao Tong University.
 
