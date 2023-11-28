@@ -28,7 +28,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 %}
 {% capture text %}
 
-Dr. Li LIN, a scientist working in the field of Raman sensing, is currently an Assistant Professor at the School of Biomedical Engineering, SJTU. We are a multidisciplinary nanooptics laboratory working with Dr. LIN. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
+We are a multidisciplinary and compact team working with Dr. Li LIN, the Assistant Professor at the School of Biomedical Engineering, SJTU. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
 
 {%
   include button.html
