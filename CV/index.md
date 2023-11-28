@@ -2,15 +2,10 @@
 title: CV
 nav:
   order: 1
-  tooltip: About Prof. Li Lin
----
-
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}CV
-
+  tooltip: About Prof. Dr. Li Lin
 ---
 
 {% capture text %}
-
 
 Assistant Professor, Shanghai Chen-Guang Scholar(上海市晨光计划学者)<br> 
 School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
@@ -40,23 +35,26 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
-- Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
-- Best Paper Award Nomination, IEEE 3M-Nano Conference (2021)
-- Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics (2019)
-- Shanghai Super Postdoctoral Fellowship (2018)
-- Shanghai Excellent Graduates (2018)
-- Academic Rising Star in Shanghai Jiao Tong University (2017) (Top 10 students per year)
-- Best Poster Award, 2017 International Conference on SERS (2017)
-  
+- 2023 SJTU Teaching Award, Second-Tier(校级教学成果奖二等奖)
+- 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program(上海市晨光计划)
+- 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
+- 2019 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics
+- 2018 Shanghai Super Postdoctoral Fellowship
+- 2018 Shanghai Excellent Graduates
+- 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
+- 2017 Best Poster Award, 2017 International Conference on SERS <br>
+Advisor Awards
+- 2023 National College Student Competition Challenge Cup Advisor Award (挑战杯全国大学生课外科创竞赛)
+- 2023 The National Training Program of Innovation and Entrepreneurship for Undergraduates Advisor Award (Student: Haoqiang XIE,国家级大学生创新创业训练项目)
+- 2023 Shanghai College Student Competition Challenge Cup Advisor Award(上海市挑战杯大学生课外科创竞赛)
+- 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award(全国大学生生物医学工程创新设计竞赛).
+   
 ### PUBLICATIONS
-- Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)
-#### Reviews and Perspectives
-- Yao Lu, *Li Lin*,* Jian Ye,* “Human metabolite detection by surface-enhanced Raman spectroscopy”, Materials Today Bio, 2022, 13, 100205. 
-- Nikolai G. Khlebtsov,* *Li Lin*, Boris N. Khlebtsov, Jian Ye,* “Gap-enhanced Raman tags: fabrication, optical properties, and theranostic applications”, Theranostics, 2020, 10, 2067. 
-#### Book Chapters
+- Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
+Book Chapters
 - *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022.
-- *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195. 
-#### Approved patents (to be updated)
+- *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
+Approved patents (to be updated)
 -	Jian Ye, *Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
 - Jian Ye, *Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
 ### JOURNAL REVIEWER (to be updated)
@@ -84,6 +82,7 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Li Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
 - Li Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
 - Li Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
+  
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering(医学工程前沿进展), Fall semester, From 2023
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
