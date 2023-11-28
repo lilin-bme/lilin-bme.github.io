@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-- Publications 26, citation 840, H-index 13 (Updated Nov 2023)
+- Publications 29, citation 900, H-index 12 (Updated Nov 2023)
 - (*) indicates corresponding authors.
   
 {% include section.html %}
