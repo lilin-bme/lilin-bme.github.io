@@ -118,6 +118,8 @@
     - SERS
     - Metabolite detection
 
+# Before 2021
+
 - id: doi:10.1063/5.0047578 
   authors: Li Lin, Xinyuan Bi, Yuqing Gu, Fu Wang, Jian Ye*
   image: images/Papers/review.JPG
@@ -126,7 +128,7 @@
     - SERS
 
 - id: doi:10.1142/S1793545821410017
-  authors: Yumin Zhang#, <strong>Li Lin#</strong>, Jing He, Jian Ye*
+  authors: Yumin Zhang#, <Li Lin#, Jing He, Jian Ye*
   image: images/Papers/JIOHS-2021.jpg
   tags:
     - Au nanorod
@@ -135,7 +137,7 @@
    
     
 - id: doi:10.1021/acs.jpcc.0c09552
-  authors: <strong>Li Lin</strong>, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
+  authors: Li Lin, Weiming Ji, Lu-Wen Zhang*, Jian Ye*
   image: images/Papers/JPCC-2021.JPG
   tags:
     - Molecular dynamics
