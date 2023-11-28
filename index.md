@@ -70,7 +70,7 @@ Last updated Nov 27, 2023
 {% include section.html %}
 
 ## TEAM
-- Dr. Li Lin, Assistant Professor, PI
+- Dr. Li Lin, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
 - Shi-Yan Fang, PhD student, 2022-now
 - Ze-Hou Su, PhD student, 2023-now
 - Rong-Rong Guo, Master student, 2023-now
