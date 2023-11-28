@@ -49,14 +49,14 @@ More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.ed
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award(全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS
-Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
+- Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
 ##### Book Chapters
 - *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022.
 - *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
 ##### Approved patents (to be updated)
 -	Jian Ye, *Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
 - Jian Ye, *Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
-### JOURNAL REVIEWER (to be updated)
+### JOURNAL REVIEWER
 - Analytical Chemistry
 - Environmental Science & Technology
 - Nature Communications
