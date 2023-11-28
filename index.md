@@ -1,7 +1,7 @@
 ---
 ---
 
-## Nanooptics and Raman sensing lab (LI LIN's LAB AT SJTU)
+## Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
 
 The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures. <br> 
 
@@ -43,7 +43,7 @@ Dr. Li LIN, a scientist working in the field of Raman sensing, is currently an A
 
 {%
   include feature.html
-  image="images/members/lilin2.jpg"
+  image="images/members/lilin3.jpg"
   title="Who we are"
   text=text
 %}
