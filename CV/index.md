@@ -20,7 +20,7 @@ Email: linli92@sjtu.edu.cn
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN" text=text %}
+{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (林俐)" text=text %}
 
 
 
