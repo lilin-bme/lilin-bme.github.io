@@ -43,18 +43,18 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - 2018 Shanghai Excellent Graduates
 - 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
 - 2017 Best Poster Award, 2017 International Conference on SERS <br>
-Advisor Awards
+##### Advisor Awards
 - 2023 National College Student Competition Challenge Cup Advisor Award (挑战杯全国大学生课外科创竞赛)
 - 2023 The National Training Program of Innovation and Entrepreneurship for Undergraduates Advisor Award (Student: Haoqiang XIE,国家级大学生创新创业训练项目)
 - 2023 Shanghai College Student Competition Challenge Cup Advisor Award(上海市挑战杯大学生课外科创竞赛)
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award(全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS
-- Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
-Book Chapters
+Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
+##### Book Chapters
 - *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022.
 - *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
-Approved patents (to be updated)
+##### Approved patents (to be updated)
 -	Jian Ye, *Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
 - Jian Ye, *Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.                                                     
 ### JOURNAL REVIEWER (to be updated)
