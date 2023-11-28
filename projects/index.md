@@ -52,5 +52,5 @@ Nanomaterials have emerging applications in medical implants, cell delivery, and
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/cell3.JPG" title="Exploring bio-material interfaces in cellular scenarios" flip=true style="bare" text=text %}
+{% include feature.html image="images/projects/cell3.jpg" title="Exploring bio-material interfaces in cellular scenarios" flip=true style="bare" text=text %}
 
