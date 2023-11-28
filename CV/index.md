@@ -24,7 +24,6 @@ Researchgate page [[link](https://www.researchgate.net/profile/Li-Lin-71)]<br>
 
 {% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (林俐)" text=text %}
 
-
 {% include section.html %}
 More links >>  <br>
 Raman Medicine and Nanooptics Lab Website [[Yelab at SJTU](www.yelab.sjtu.edu.cn)]<br>
@@ -34,10 +33,12 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
 - B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
 - Visiting Student, Department of Biomedical Engineering, University of Minnesota, U.S., 2012 Summer
+  
 ### PROFESSIONAL EMPLOYMENT 
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-now
 - Visiting scholar and postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
+  
 ### HONORS AND AWARDS                                                                  
 - Shanghai Education Municipal “Chen-Guang” Young Scholar Program (2022)
 - Best Paper Award Nomination, IEEE 3M-Nano Conference (2021)
@@ -46,6 +47,7 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Shanghai Excellent Graduates (2018)
 - Academic Rising Star in Shanghai Jiao Tong University (2017) (Top 10 students per year)
 - Best Poster Award, 2017 International Conference on SERS (2017)
+  
 ### PUBLICATIONS
 #### Journal papers
 - Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)
@@ -65,6 +67,8 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Biosensors
 - Journal of Innovative Optical Health Sciences
 - IEEE Transactions on Biomedical Engineering
+- ACS Applied Electronic Materials
+  
 ### GRANTS
 - National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, "Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions"
 - Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1M, 2021-2023, "Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy"
@@ -72,6 +76,7 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 250k, 2022-2024, "Rapid diagnosis of gastric cancer based on Raman fiber-optics system and machine learning algorithms"
 - National Science Foundation of China (NSFC), PI, RMB 200k, 2019-2022, "Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study"
 - Start-up funding support, PI, SJTU
+
 ### INVITED TALKS
 - Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
 - Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Image-Guided Surgery Clinical Translations,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2023, Online.
