@@ -49,7 +49,6 @@ Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 - Best Poster Award, 2017 International Conference on SERS (2017)
   
 ### PUBLICATIONS
-#### Journal papers
 - Over 20 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)
 #### Reviews and Perspectives
 - Yao Lu, *Li Lin*,* Jian Ye,* “Human metabolite detection by surface-enhanced Raman spectroscopy”, Materials Today Bio, 2022, 13, 100205. 
