@@ -14,16 +14,15 @@ Email: linli92@sjtu.edu.cn<br>
 ORCID: 0000-0002-8079-5768 [[link](https://orcid.org/0000-0002-8079-5768)]<br>
 Google Scholar page [[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)]<br>
 Researchgate page [[link](https://www.researchgate.net/profile/Li-Lin-71)]<br>
+More links: School of Biomedical Engineering [[Website](bme.sjtu.edu.cn)]<br>
+More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
 
 {% endcapture %}
 
 {% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (林俐)" text=text %}
 
 {% include section.html %}
-More links >>  <br>
-Raman Medicine and Nanooptics Lab Website [[Yelab at SJTU](www.yelab.sjtu.edu.cn)]<br>
-School of Biomedical Engineering [[School Website](bme.sjtu.edu.cn)]<br>
-Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
+
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
 - B.S.,	Biomedical Engineering, Shanghai Jiao Tong University, China, 2009-2013
