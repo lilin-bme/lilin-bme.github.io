@@ -80,9 +80,9 @@ Last updated Nov 27, 2023
 - Shi-Yan Fang(方世言), PhD student, 2022-now
 - Ze-Hou Su(苏泽厚), PhD student, 2023-now
 - Rong-Rong Guo(郭蓉蓉) Master student, 2023-now
-- Zongyu Wu, undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2021-now
 - Haoqiang Xie(谢浩强), undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
-- Han Gu(顾寒), undergraduate student, Shanghai Jiao Tong University, 2023-now
+- Zongyu Wu, undergraduate student, Shanghai Jiao Tong University, 2021-now
+- Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - **More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]**
