@@ -48,24 +48,26 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
   text=text
 %}
 
+{% include section.html %}
+
 ## Recent News
 
 Last updated Nov 27, 2023
-
-- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%). 
+- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%) (挑战杯全国大学生课外科创竞赛,生命科学赛道特等奖,全国唯一本科生团队). 
 - Oct 05, 2023: Prof. Li LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: Paper on "3D localization of deep-seated SERS phantom Lesions using tomographic transmission Raman spectroscopy" was accepted by *ACS Applied Materials & Interfaces*. Congrats to first author Haoqiang XIE!
 - Sept 08, 2023: Undergraduate Han GU received the National Science Foundation of China (NSFC) funding for her study on photon transport of spatially offset Raman spectroscopy. Only about 100 students were selected nationwide. Congrats.
 - Aug 25, 2023: Prof. Li LIN received National Science Foundation of China (NSFC) funding. Congrats!
 - Aug 3, 2023: Paper on "direct and quantitative assessments of near‑infrared tissue penetration in biological tissues using surface‑enhanced Raman scattering" was accepted by *MED-X* journal.
 - May 25, 2023: The undergraduate innovation research program of Haoqiang XIE was awarded as the National Program. 
-- May 15, 2023: Our academic paper on 'non-invasive localization of in vivo deep lesion using transmission Raman spectroscopy' was accepted by *Advanced Science*.
-- May 05, 2023: Our team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang Luo) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup, with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
+- May 15, 2023: Our academic paper on "non-invasive localization of in vivo deep lesion using transmission Raman spectroscopy" was accepted by *Advanced Science*.
+- May 05, 2023: Our team (Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO) won NO.1 Medal in the Shanghai College Student Competition Challenge Cup, with the project of "Penetrating Vision: Transmission Raman spectroscopy for Non-invasive Diagnosis".
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
+- Aug 01, 2023: Our team received 3-tier award in national college innovation and design of biomedical engineering (第七届全国大学生生物医学工程创新设计竞赛三等奖).
 - July 22, 2022: Paper on "design of NIR-II SERS Nanotags" was accepted by the Journal of Physical Chemistry C. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on Photonics.
-- Feb 14, 2022: Prof. Li LIN was selected by the Shanghai Chen-Guang (Excellent Young Scholar) Program.
+- Jan 01, 2022: Prof. Li LIN was selected by the Shanghai Chen-Guang (Excellent Young Scholar) Program.
 
 {% include section.html %}
 
