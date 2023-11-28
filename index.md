@@ -22,7 +22,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 
 {%
   include feature.html
-  image="images/projects/cell3.jpg"
+  image="images/projects/cell3.JPG"
   title="What we do"
   text=text
 %}
