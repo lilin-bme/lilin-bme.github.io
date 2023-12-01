@@ -104,13 +104,13 @@ Candidates who are talented, passionate, and self-motivated, with backgrounds in
 
 {% capture col1 %}
 
-{% include figure.html image="images/Contact/grouppic2.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/Contact/grouppic5.jpg" caption="Lab meeting" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/Contact/grouppic3.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/Contact/gouppic4.png" caption="With Yelab big family" %}
 
 {% endcapture %}
 
