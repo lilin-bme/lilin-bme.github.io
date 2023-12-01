@@ -53,7 +53,7 @@ We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistan
 ## Recent News
 
 Last updated Nov 27, 2023
-- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(挑战杯全国大学生课外科创竞赛,生命科学赛道特等奖,全国唯一本科生团队). 
+- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 05, 2023: Prof. LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: **Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!**
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats.
