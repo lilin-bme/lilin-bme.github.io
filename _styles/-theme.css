@@ -31,9 +31,9 @@
   --xxl: 1.3rem;
   --thin: 200;
   --regular: 400;
-  --semi-bold: 450;
-  --bold: 500;
-  --spacing: 1.8;
+  --semi-bold: 500;
+  --bold: 600;
+  --spacing: 1.75;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
 }
