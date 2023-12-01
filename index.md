@@ -100,7 +100,23 @@ If you are interested in joining our group, please send an email (linli92@sjtu.e
 
 Candidates who are talented, passionate, and self-motivated, with backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines, are most welcome! Successful candidates will have the opportunity to receive cross-disciplinary training, tackle fundamental questions at the cutting edge of optics and nanomaterials, and circumvent the most challenging issues in biological and clinical developments.
 
+{% include section.html %}
 
+{% capture col1 %}
+
+{% include figure.html image="images/Contact/grouppic2.jpg" caption="Lorem ipsum" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/Contact/grouppic3.jpg" caption="Lorem ipsum" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
 
 
 
