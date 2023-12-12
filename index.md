@@ -1,7 +1,7 @@
 ---
 ---
 
-## Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
+## Welcome to Nanooptics and Raman sensing lab (LIN LAB AT SJTU)
 
 The interface between light and materials creates unique optical properties at the nanoscale, enabling the manipulation and transport of light in a controlled manner. With the use of nanomaterial tools, we can study the interaction of biological molecules, cells, or tissues with optical nanostructures. <br> 
 
@@ -28,7 +28,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 %}
 {% capture text %}
 
-We are a multidisciplinary and compact team working with Dr. Li LIN, an Assistant Professor at the School of Biomedical Engineering, SJTU. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines.
+We are a multidisciplinary and compact team. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We work with Dr. Li LIN, an Assistant Professor at the School of Biomedical Engineering, SJTU. 
 
 {%
   include button.html
@@ -85,7 +85,7 @@ Last updated Nov 27, 2023
 - Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
 - Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- <strong>More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
+- <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
 - Haoqi He(何浩琦), Shanghai Jiao Tong University, Master Student, 2020-2023
