@@ -53,11 +53,11 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Nov 27, 2023
-- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
+- Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 05, 2023: Prof. LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: **Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*.** Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats.
-- Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding (国自然面上基金). Congrats.
+- Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding. Congrats (祝贺林老师获国自然面上基金)
 - Aug 3, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.
 - June 08, 2023: Prof. LIN delivered an invited talk at the PhotoniX Conference.
 - May 30, 2023: Prof. LIN delivered an online webinar talk, invited by the Instrument Website.
@@ -67,7 +67,7 @@ Last updated Nov 27, 2023
 - Jan 01, 2022: Paper accepted by *Small Methods* reported highest detection depths of transmission Raman spectroscopy.
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
-- Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (第七届全国大学生生物医学工程创新设计竞赛).
+- Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
 - July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
 - Jan 01, 2022: Prof. Li LIN received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
@@ -77,14 +77,16 @@ Last updated Nov 27, 2023
 
 ## TEAM
 - Dr. Li Lin, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
-- Shi-Yan Fang(方世言), PhD student, 2022-now
-- Ze-Hou Su(苏泽厚), PhD student, 2023-now
-- Rong-Rong Guo(郭蓉蓉) Master student, 2023-now
-- Haoqiang Xie(谢浩强), undergraduate student (and will join as a PhD student in 2024), Shanghai Jiao Tong University, 2022-now
-- Zongyu Wu, undergraduate student, Shanghai Jiao Tong University, 2021-now
-- Han Gu, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, 2023-now
-- Yang Luo, undergraduate student, Shanghai Jiao Tong University, 2023-now
+- Shi-Yan Fang(方世言), PhD student, from 2022
+- Ze-Hou Su(苏泽厚), PhD student, from 2023
+- Rong-Rong Guo(郭蓉蓉) Master student, from 2023
+- Haoqiang Xie(谢浩强), PhD student, from 2024
+- Li Fan(樊丽),PhD student, from 2024
+- Han Shen(沈涵), Master student, from 2024
+- Zongyu Wu, undergraduate student, Shanghai Jiao Tong University, from 2021
+- Han Gu, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Mingyuan Xia, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Yang Luo, undergraduate student, Shanghai Jiao Tong University, from 2023
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
