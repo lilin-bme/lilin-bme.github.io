@@ -2,26 +2,27 @@
 title: CV
 nav:
   order: 1
-  tooltip: About Prof. Dr. Li Lin
+  tooltip: About Prof. Dr. Li Lin (Linley)
 ---
 
 {% capture text %}
 
-Assistant Professor, Shanghai Chen-Guang Scholar (上海市晨光计划学者)<br> 
-School of Biomedical Engineering, Shanghai Jiao Tong University<br> 
+Assistant Professor, Shanghai Chen-Guang Scholar <br> 
+School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU)<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
 ORCID: 0000-0002-8079-5768 [[link](https://orcid.org/0000-0002-8079-5768)]<br>
 Google Scholar page [[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ&hl=zh-CN)]<br>
 Researchgate page [[link](https://www.researchgate.net/profile/Li-Lin-71)]<br>
-More links: School of Biomedical Engineering [[Website](bme.sjtu.edu.cn)]<br>
-More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.edu.cn/)]<br>
+More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<br>
 
 {% endcapture %}
 
 {% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (林俐)" text=text %}
 
 {% include section.html %}
+### EDUCATION 
+Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (SJTU), and worked as a joint postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC) and SJTU. She was one of the early researchers of gap-enhanced Raman tags (GERTs) - a novel Raman optical label that offers ultra-high sensitivity, uniformity and photostability. Her current research interests include surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation and as an optical platform to study biomaterial interfaces. She has developed transmission Raman tomography techniques for three-dimensional in vivo Raman imaging (IVRI). Dr. Lin has received a number of awards, including the Shanghai Chenguang Young scholar Program (2021), Best Paper Award at IMCO International Conference (2019), and Shanghai super postdoc fellowship (2018).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -35,7 +36,7 @@ More links: Shanghai Jiao Tong University [[Official Website](https://en.sjtu.ed
   
 ### HONORS AND AWARDS                                                                  
 - 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
-- 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光计划)
+- 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光学者)
 - 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
 - 2019 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics
 - 2018 Shanghai Super Postdoctoral Fellowship
