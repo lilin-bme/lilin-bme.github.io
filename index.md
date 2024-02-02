@@ -77,12 +77,12 @@ Last updated Nov 27, 2023
 
 ## TEAM
 - Dr. Li LIN, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
-- Shi-Yan FANG(方世言), PhD student, from 2022
-- Ze-Hou SU(苏泽厚), PhD student, from 2023
-- Rong-Rong GUO(郭蓉蓉) Master student, from 2023
-- Haoqiang XIE(谢浩强), PhD student, from 2024
-- Li FAN(樊丽), PhD student, from 2024
-- Han SHEN(沈涵), Master student, from 2024
+- Shi-Yan FANG (方世言), PhD student, from 2022
+- Ze-Hou SU (苏泽厚), PhD student, from 2023
+- Rong-Rong GUO (郭蓉蓉) Master student, from 2023
+- Haoqiang XIE (谢浩强), PhD student, from 2024
+- Li FAN (樊丽), PhD student, from 2024
+- Han SHEN (沈涵), Master student, from 2024
 - Zongyu WU, undergraduate student, Shanghai Jiao Tong University, from 2021
 - Han GU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
