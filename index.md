@@ -63,7 +63,7 @@ Last updated Nov 27, 2023
 - May 30, 2023: Prof. LIN delivered an online webinar talk, invited by the Instrument Website.
 - May 25, 2023: Haoqiang XIE was awarded the national undergraduate innovation research program. 
 - May 15, 2023: **Our research on in vivo lesion localization of transmission Raman spectroscopy published by *Advanced Science*.**
-- May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
+- May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project of "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
 - Jan 01, 2022: Paper accepted by *Small Methods* reported highest detection depths of transmission Raman spectroscopy.
 - Apr 05, 2023: Haoqi HE was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi HE has passed the master defense.
