@@ -2,7 +2,7 @@
 title: CV
 nav:
   order: 1
-  tooltip: About Prof. Dr. Li Lin (Linley)
+  tooltip: About Prof. Dr. Li Lin (Lynlee)
 ---
 
 {% capture text %}
@@ -18,7 +18,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (林俐)" text=text %}
+{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (Lynlee) 林俐" text=text %}
 
 {% include section.html %}
 ### EDUCATION 
