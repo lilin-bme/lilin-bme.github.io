@@ -54,13 +54,13 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 Last updated Nov 27, 2023
 - Oct 28, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%)(祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
-- Oct 05, 2023: Prof. LIN delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
+- Oct 05, 2023: Prof. Lin delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: **Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*.** Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats.
-- Aug 25, 2023: Prof. LIN received National Science Foundation of China (NSFC) funding. Congrats (祝贺团队获国自然面上基金)
+- Aug 25, 2023: Prof. Lin received National Science Foundation of China (NSFC) funding. Congrats (祝贺团队获国自然面上基金)
 - Aug 3, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.
-- June 08, 2023: Prof. LIN delivered an invited talk at the PhotoniX Conference.
-- May 30, 2023: Prof. LIN delivered an online webinar talk, invited by the Instrument Website.
+- June 08, 2023: Prof. Lin delivered an invited talk at the PhotoniX Conference.
+- May 30, 2023: Prof. Lin delivered an online webinar talk, invited by the Instrument Website.
 - May 25, 2023: Haoqiang XIE was awarded the national undergraduate innovation research program. 
 - May 15, 2023: **Our research on in vivo lesion localization of transmission Raman spectroscopy published by *Advanced Science*.**
 - May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project of "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
@@ -70,8 +70,8 @@ Last updated Nov 27, 2023
 - Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
 - July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
-- Jan 01, 2022: Prof. Li LIN received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
-- Oct 01, 2021: Prof. Li LIN joined SJTU-BME as a tenure-track Assistant Professor.
+- Jan 01, 2022: Prof. Lin received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
+- Oct 01, 2021: Prof. Lin joined SJTU-BME as a tenure-track Assistant Professor.
 
 {% include section.html %}
 
