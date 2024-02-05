@@ -2,7 +2,7 @@
 title: CV
 nav:
   order: 1
-  tooltip: About Prof. Dr. Li Lin (Lynlee)
+  tooltip: About Prof. Dr. Li Lin (Linley)
 ---
 
 {% capture text %}
@@ -18,11 +18,11 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (Lynlee)林俐" text=text %}
+{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (Linley) 林俐" text=text %}
 
 {% include section.html %}
-### EDUCATION 
-Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (SJTU), and worked as a joint postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC) and SJTU. She was one of the early researchers of gap-enhanced Raman tags (GERTs) - a novel Raman optical label that offers ultra-high sensitivity, uniformity and photostability. Her current research interests include surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation and as an optical platform to study biomaterial interfaces. She has developed transmission Raman tomography techniques for three-dimensional in vivo Raman imaging (IVRI). Dr. Lin has received a number of awards, including the Shanghai Chenguang Young scholar Program (2021), Best Paper Award at IMCO International Conference (2019), and Shanghai super postdoc fellowship (2018).
+### BIOGRAPHY 
+Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (SJTU), and worked as a joint postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC) and SJTU. In her PhD and Postdoc duration, She was one of the early researchers of gap-enhanced Raman tags (GERTs) - a novel Raman optical label that offers ultra-high sensitivity, uniformity and photostability. Her current research interests include surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation and as an optical platform to study biomaterial interfaces. She has developed transmission Raman tomography techniques for three-dimensional in vivo Raman imaging (IVRI). Dr. Lin has received a number of awards, including the Shanghai Chenguang Young scholar Program (2021), Best Paper Award at IMCO International Conference (2019), and Shanghai super postdoc fellowship (2018).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
