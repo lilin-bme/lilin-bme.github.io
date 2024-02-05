@@ -18,7 +18,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Li LIN (Linley) 林俐" text=text %}
+{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Linley Li LiN (林俐)" text=text %}
 
 {% include section.html %}
 ### BIOGRAPHY 
