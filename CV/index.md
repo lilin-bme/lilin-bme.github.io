@@ -2,7 +2,7 @@
 title: CV
 nav:
   order: 1
-  tooltip: About Prof. Dr. Li Lin (Linley)
+  tooltip: About Prof. Dr. Linley Li Lin
 ---
 
 {% capture text %}
