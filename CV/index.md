@@ -22,7 +22,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% include section.html %}
 ### BIOGRAPHY 
-Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (SJTU), and worked as a joint postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC) and SJTU. In her PhD and Postdoc duration, She was one of the early researchers of gap-enhanced Raman tags (GERTs) - a novel Raman optical label that offers ultra-high sensitivity, uniformity and photostability. Her current research interests include surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation and as an optical platform to study biomaterial interfaces. She has developed transmission Raman tomography techniques for three-dimensional in vivo Raman imaging (IVRI). Dr. Lin has received a number of awards, including the Shanghai Chenguang Young scholar Program (2021), Best Paper Award at IMCO International Conference (2019), and Shanghai super postdoc fellowship (2018).
+Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (SJTU), and worked as a joint postdoctoral fellow at the University of Illinois at Urbana-Champaign (UIUC) and SJTU. In her Ph.D. and postdoc duration, she was one of the early researchers of gap-enhanced Raman tags (GERTs) - a novel Raman optical label that offers ultra-high sensitivity, uniformity and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging at the second NIR window, and in vitro Raman platform to study biomaterial interfaces. She has developed transmission Raman tomography techniques for three-dimensional in vivo Raman imaging. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young scholar Program (2021), Best Paper Award at IMCO International Conference (2019), and Shanghai super postdoc fellowship (2018).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -50,8 +50,7 @@ Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the publication name has been changed from 'Li Lin' to 'Linley Li Lin'. So far Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
- 
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
 ##### Book Chapters
 - *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355.<br> 
 - *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
