@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.biomaterials.2024.122538
+  title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
+    on preclinical models
+  authors:
+  - Binge Deng
+  - Yan Wang
+  - Xiangdong Bu
+  - Jin Li
+  - Jingsong Lu
+  - Linley Li Lin
+  - Yaohui Wang
+  - Yao Chen
+  - Jian Ye
+  publisher: Biomaterials
+  date: '2024-07-01'
+  link: https://doi.org/gtstq8
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.trac.2024.117578
+  title: 'Recent progress and applications of Raman spectrum denoising algorithms
+    in chemical and biological analyses: A review'
+  authors:
+  - Shiyan Fang
+  - Siyi Wu
+  - Zhou Chen
+  - Chang He
+  - Linley Li Lin
+  - Jian Ye
+  publisher: TrAC Trends in Analytical Chemistry
+  date: '2024-03-01'
+  link: https://doi.org/gtjtkf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.3c18488
+  title: Biomimetic-Membrane-Protected Plasmonic Nanostructures as Dual-Modality Contrast
+    Agents for Correlated Surface-Enhanced Raman Scattering and Photoacoustic Detection
+    of Hidden Tumor Lesions
+  authors:
+  - Indrajit Srivastava
+  - Ruiyang Xue
+  - Hsuan-Kai Huang
+  - Ziwen Wang
+  - Jamie Jones
+  - Isabella Vasquez
+  - Subhendu Pandit
+  - Li Lin
+  - Shensheng Zhao
+  - Kristen Flatt
+  - Viktor Gruev
+  - Yun-Sheng Chen
+  - Shuming Nie
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2024-02-07'
+  link: https://doi.org/gthdgs
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/smtd.202301243
   title: "Artificial Intelligence for Surface\u2010Enhanced Raman Spectroscopy"
   authors: Xinyuan Bi, <strong>Li Lin</strong>, Zhou Chen*, Jian Ye*
