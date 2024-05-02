@@ -50,7 +50,8 @@ Dr. Lin received her B.S. and Ph.D. degrees from Shanghai Jiao Tong University (
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 900. See [publication list](http://linlab-sjtu.com/publications)<br>
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 1000. See [publication list](http://linlab-sjtu.com/publications)<br>
+
 ##### Book Chapters
 - *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355.<br> 
 - *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
