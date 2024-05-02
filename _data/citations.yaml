@@ -12,6 +12,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/2024Biomaterials.jpg
+  tags:
+  - NIR-II
+  - GERTs
 - id: doi:10.1016/j.trac.2024.117578
   title: 'Recent progress and applications of Raman spectrum denoising algorithms
     in chemical and biological analyses: A review'
