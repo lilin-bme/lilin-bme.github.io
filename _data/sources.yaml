@@ -1,7 +1,10 @@
 - id: doi:10.1016/j.biomaterials.2024.122538
   image: images/Papers/2024Biomaterials.jpg
   authors: Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, <strong>Linley Li Lin*</strong>, Yaohui Wang*, Yao Chen*, Jian Ye*
-
+  tags:
+    - NIR-II
+    - GERTs
+    
 - id: doi:10.1016/j.trac.2024.117578
   image: images/Papers/review.JPG
   authors: Shiyan Fang, Siyi Wu, Zhou Chen, Chang He, <strong>Linley Li Lin*</strong>, Jian Ye*
