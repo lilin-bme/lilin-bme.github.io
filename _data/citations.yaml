@@ -27,6 +27,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/review.JPG
+  tags:
+  - AI
+  - Spectral Denoising
 - id: doi:10.1021/acsami.3c18488
   title: Biomimetic-Membrane-Protected Plasmonic Nanostructures as Dual-Modality Contrast
     Agents for Correlated Surface-Enhanced Raman Scattering and Photoacoustic Detection
