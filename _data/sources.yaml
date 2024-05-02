@@ -8,7 +8,10 @@
 - id: doi:10.1016/j.trac.2024.117578
   image: images/Papers/review.JPG
   authors: Shiyan Fang, Siyi Wu, Zhou Chen, Chang He, <strong>Linley Li Lin*</strong>, Jian Ye*
-  
+  tags:
+    - Raman analysis
+    - AI
+    
 - id: doi:10.1002/smtd.202301243
   image: images/Papers/review.JPG
   authors: Xinyuan Bi, <strong>Li Lin</strong>, Zhou Chen*, Jian Ye*
