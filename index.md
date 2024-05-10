@@ -53,8 +53,9 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Nov 27, 2023
-- Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA-2024).  
-- Jan 10, 2024: Haoqiang Xie's research awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
+- May 09, 2024: Haoqiang and Zongyu were awarded as the "Shanghai Excellent Graduate". Congrats!
+- Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman.  
+- Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
 - Oct 20, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 05, 2023: Prof. Lin delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: **Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*.** Congrats to Haoqiang!
