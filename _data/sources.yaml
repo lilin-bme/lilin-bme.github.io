@@ -66,11 +66,9 @@
 - id: doi:10.1002/smtd.202201334 
   image: images/Papers/Smallmethods-2023.jpg
   authors:
-   - Zongyu Wu
-   - Binge Deng*
-   - Yutong Zhou
-   - Haoqiang Xie
    - Yumin Zhang
+   - Ruoyu Chen
+   - Peng Miao
    - <strong>Li Lin*</strong>
    - Jian Ye*
   tags: 
