@@ -15,6 +15,22 @@
   tags:
   - NIR-II
   - GERTs
+- id: doi:10.1002/smll.202402235
+  title: "NIR\u2010II Surface\u2010Enhanced Raman Scattering Nanoprobes in Biomedicine:\
+    \ Current Impact and Future Directions"
+  authors:
+  - Binge Deng
+  - Yuqing Zhang
+  - Guangyu Qiu
+  - Jin Li
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Small
+  date: '2024-06-07'
+  link: https://doi.org/gtxzwj
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.trac.2024.117578
   title: 'Recent progress and applications of Raman spectrum denoising algorithms
     in chemical and biological analyses: A review'
