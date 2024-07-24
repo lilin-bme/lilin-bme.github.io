@@ -44,8 +44,8 @@ Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong Univ
 - 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
 - 2017 Best Poster Award, 2017 International Conference on SERS <br>
 ##### Advisor Awards
-- 2024 Shanghai International College Students Innovation Competition, Champaign Award (Student: Zongyu WU, Haoqiang XIE, Yang LUO, and Han GU, 国际大学生创新创业竞赛上海赛区冠军)
-- 2023 National College Student Competition Challenge Cup Advisor Award (Student: Zongyu WU, Haoqiang XIE, Mingyuan XIA, and Yang LUO, 挑战杯全国大学生课外科创竞赛)
+- 2024 Shanghai International College Students Innovation Competition, Champion (Student: Zongyu WU, Haoqiang XIE, Yang LUO, Han GU, 国际大学生创新创业竞赛上海赛冠军)
+- 2023 National College Student Competition Challenge Cup Advisor Award (Student: Zongyu WU, Haoqiang XIE, Mingyuan XIA, Yang LUO, 挑战杯全国大学生课外科创竞赛)
 - 2023 The National Training Program of Innovation and Entrepreneurship for Undergraduates Advisor Award (Student: Haoqiang XIE, 国家级大学生创新创业训练项目)
 - 2023 Shanghai College Student Competition Challenge Cup Advisor Award (上海市挑战杯大学生课外科创竞赛)
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
