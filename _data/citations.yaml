@@ -96,7 +96,7 @@
   file: sources.yaml
   image: images/Papers/2023ACSAMI.jpg
   tags:
-  - Transmission Raman spectroscopy
+  - Transmission Raman Spectroscopy
   - Tomography
   - GERTs
 - id: doi:10.1007/s44258-023-00010-2
