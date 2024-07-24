@@ -53,12 +53,12 @@ Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong Univ
 Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 1100. See [publication list](http://linlab-sjtu.com/publications).
 
 ##### Book Chapters
-- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, *Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, in press.
-- *Li Lin*, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355.<br> 
-- *Li Lin*, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
+- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, **Li Lin**. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, in press.
+- **Li Lin**, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355.<br> 
+- **Li Lin**, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
 ##### Approved patents (to be updated)
--	Jian Ye, *Li Lin*, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
-- Jian Ye, *Li Lin*, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
+-	Jian Ye, **Li Lin**, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
+- Jian Ye, **Li Lin**, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
 ### JOURNAL REVIEWER
 - Biosensors
@@ -78,15 +78,15 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
-- L. Lin, "Non-invasive Raman Optical Imaging on Small Animal Models", Instrumental Website Online Webinar, May 2024, Online.
-- L. Lin, "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Shanghai, China.
-- L. Lin, "Non-invasive In Vivo Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
-- L. Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
-- L. Lin, "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
-- L. Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
-- L. Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
-- L. Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
-- L. Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
+- Li Lin, "Non-invasive Raman Optical Imaging on Small Animal Models", Instrumental Website Online Webinar, May 2024, Online.
+- Li Lin, "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Hangzhou, China.
+- Li Lin, "Non-invasive In Vivo Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
+- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
+- Li Lin, "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
+- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
+- Li Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
+- Li Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
+- Li Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
   
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering(医学工程前沿进展), Fall semester, From 2023
