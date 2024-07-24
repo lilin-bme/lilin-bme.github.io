@@ -53,9 +53,9 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated May 09, 2024
-- July 23, 2024: Our team won the Top Medal in the China International College Students’ Innovation Competition (Shanghai City) with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Diagnosis".
+- July 23, 2024: Our team won the champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization".
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*.
-- - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
+- May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
 - Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
 - Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman.  
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
