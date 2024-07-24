@@ -78,10 +78,12 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
+- L. Lin, "Non-invasive Raman Optical Imaging on Small Animal Models", Instrumental Website Online Webinar, May 2024, Online.
+- L. Lin, "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Shanghai, China.
+- L. Lin, "Non-invasive In Vivo Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
 - L. Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
-- L. Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Image-Guided Surgery Clinical Translations,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2023, Online.
 - L. Lin, "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
-- L. Lin, In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis, Instrumental Website Online Webinar, June 2023, Online.
+- L. Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
 - L. Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
 - L. Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
 - L. Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
