@@ -57,7 +57,7 @@ Last updated May 09, 2024
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*.
 - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
 - Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
-- Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman.  
+- Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman spectroscopy.  
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
 - Oct 20, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 05, 2023: Prof. Lin delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
