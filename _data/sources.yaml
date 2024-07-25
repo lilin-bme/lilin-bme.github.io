@@ -13,8 +13,9 @@
     - SERS
 
 - id: doi:10.1016/j.saa.2024.124461
-  image: images/Papers/2024SAA.JPG
+  image: images/Papers/2024SAA.jpg
   authors: Junqing Yang , Pei Xu, Siyi Wu, Zhou Chen, Shiyan Fang, Haibo Xiao, Fengqing Hu, Lianyong Jiang , Lei Wang, Bin Mo, Fangbao Ding*, <strong>Linley Li Lin*</strong>, Jian Ye*
+  date: '2024-05-11'
   tags:
     - Raman
     - Tumor Diagnosis
