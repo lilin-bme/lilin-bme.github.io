@@ -76,7 +76,7 @@ Last updated May 09, 2024
 - Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
 - July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
-- Jan 01, 2022: Prof. Lin received the Shanghai Chen-Guang (Excellent Young Scholar) Grant.
+- Jan 01, 2022: Prof. Lin received the Shanghai Excellent Young Scholar Grant.
 - Oct 01, 2021: Prof. Lin joined SJTU-BME as a tenure-track Assistant Professor.
 
 {% include section.html %}
