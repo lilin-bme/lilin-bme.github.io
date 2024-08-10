@@ -7,7 +7,7 @@ nav:
 
 {% capture text %}
 
-Assistant Professor, Shanghai Chen-Guang Scholar <br> 
+Assistant Professor <br> 
 School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU)<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
