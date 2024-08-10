@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/bios14080372
+  title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
+    the Diagnosis of Thyroid Cancer by Using Fine-Needle Aspiration Liquid Samples
+  authors:
+  - Lili Gao
+  - Siyi Wu
+  - Puwasit Wongwasuratthakul
+  - Zhou Chen
+  - Wei Cai
+  - Qinyu Li
+  - Linley Li Lin
+  publisher: Biosensors
+  date: '2024-07-31'
+  link: https://doi.org/gt5z8n
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.biomaterials.2024.122538
   title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
     on preclinical models
@@ -30,6 +47,44 @@
   tags:
   - NIR-II
   - SERS
+- id: doi:10.1016/j.xcrm.2024.101579
+  title: SERSomes for metabolic phenotyping and prostate cancer diagnosis
+  authors:
+  - Xinyuan Bi
+  - Jiayi Wang
+  - Bingsen Xue
+  - Chang He
+  - Fugang Liu
+  - Haoran Chen
+  - Linley Li Lin
+  - Baijun Dong
+  - Butang Li
+  - Cheng Jin
+  - Jiahua Pan
+  - Wei Xue
+  - Jian Ye
+  publisher: Cell Reports Medicine
+  date: '2024-06-01'
+  link: https://doi.org/gt5f79
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.saa.2024.124461
+  title: Raman spectroscopy for esophageal tumor diagnosis and delineation using machine
+    learning and the portable Raman spectrometer
+  authors: Junqing Yang , Pei Xu, Siyi Wu, Zhou Chen, Shiyan Fang, Haibo Xiao, Fengqing
+    Hu, Lianyong Jiang , Lei Wang, Bin Mo, Fangbao Ding*, <strong>Linley Li Lin*</strong>,
+    Jian Ye*
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2024-05-11'
+  link: https://doi.org/gt45n6
+  orcid: 0000-0002-8079-5768
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2024SAA.jpg
+  tags:
+  - Raman
+  - Tumor Diagnosis
 - id: doi:10.1016/j.trac.2024.117578
   title: 'Recent progress and applications of Raman spectrum denoising algorithms
     in chemical and biological analyses: A review'
@@ -524,18 +579,3 @@
   - SERS
   - GERTs
   - Plasmonic junction
-- id: doi:10.1016/j.saa.2024.124461
-  title: Raman spectroscopy for esophageal tumor diagnosis and delineation using machine
-    learning and the portable Raman spectrometer
-  authors: Junqing Yang , Pei Xu, Siyi Wu, Zhou Chen, Shiyan Fang, Haibo Xiao, Fengqing
-    Hu, Lianyong Jiang , Lei Wang, Bin Mo, Fangbao Ding*, <strong>Linley Li Lin*</strong>,
-    Jian Ye*
-  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
-  date: '2024-05-11'
-  link: https://doi.org/gt45n6
-  image: images/Papers/2024SAA.jpg
-  tags:
-  - Raman
-  - Tumor Diagnosis
-  plugin: sources.py
-  file: sources.yaml
