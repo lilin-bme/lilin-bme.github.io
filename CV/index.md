@@ -72,7 +72,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
   
 ### GRANTS
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
-- - National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
+- National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
 - Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1M, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
 - Shanghai Municipal Chen-Guang Program, PI, 2022-2023, *Transmission Raman spectroscopy for the non-invasive  detection of in vivo lesions*
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 250k, 2022-2024, *Rapid diagnosis of gastric cancer based on Raman fiber-optics system and AI algorithm*
