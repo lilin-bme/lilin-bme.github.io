@@ -53,22 +53,24 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated May 09, 2024
-- July 23, 2024: Our team won the champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
-- July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*.
+- Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis is published on *Spectrochimica Part A*.[link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
+- July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
+- July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*.[link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
 - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
 - Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
-- Mar 28, 2024: Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman spectroscopy.  
+- Mar 28, 2024: **Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman spectroscopy.** 
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
+- Dec 25, 2023: Prof. Lin received Medicine-Engineering cross grants in SJTU. Congrats! 
 - Oct 20, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 05, 2023: Prof. Lin delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
-- Sept 20, 2023: **Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*.** Congrats to Haoqiang!
-- Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats.
+- Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
+- Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
-- Aug 3, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.
+- Aug 03, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.
 - June 08, 2023: Prof. Lin delivered an invited talk at the PhotoniX Conference.
 - May 30, 2023: Prof. Lin delivered an online webinar talk as invited by the Instrument Website.
 - May 25, 2023: Haoqiang Xie was awarded the national undergraduate innovation research program. 
-- May 15, 2023: **Our research on in vivo lesion localization of transmission Raman spectroscopy published by *Advanced Science*.**
+- May 15, 2023: Our research on in vivo lesion localization of transmission Raman spectroscopy published by **Advanced Science**.
 - May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
 - Jan 01, 2022: Paper accepted by *Small Methods* reported highest detection depths of transmission Raman spectroscopy.
 - Apr 05, 2023: Haoqi He was awarded Excellent Graduate at SJTU. Congrats. 
@@ -95,8 +97,8 @@ Last updated May 09, 2024
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
-- Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023
-- Shu-Jia Jiang, Imperial College London, Undergraduate Summer Intern, 2023
+- Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
+- Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
 
 {% include section.html %}
 
