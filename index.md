@@ -68,7 +68,7 @@ Last updated May 09, 2024
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
-- Aug 03, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
+- Aug 03, 2023: Paper on 'direct and quantitative assessments of spectroscopic tissue penetration' accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
 - June 08, 2023: Prof. Lin delivered an invited talk at the PhotoniX Conference.
 - May 30, 2023: Prof. Lin delivered an online webinar talk as invited by the Instrument Website.
 - May 25, 2023: Haoqiang Xie was awarded the national undergraduate innovation research program. 
