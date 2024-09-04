@@ -78,8 +78,8 @@ Last updated May 09, 2024
 - Apr 05, 2023: Haoqi He was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi He has passed the master defense.
 - Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
-- July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by *Journal of Physical Chemistry C*. Congrats to the first author, Haoqi He.
-- May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
+- July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by *Journal of Physical Chemistry C*. Congrats to the first author, Haoqi He. [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c02512#:~:text=Surface-enhanced%20Raman%20scattering%20(SERS)%20nanotags%20have%20garnered%20much%20attention%20for)
+- May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*. [link](https://www.mdpi.com/2304-6732/9/6/429#:~:text=Abstract.)
 - Jan 01, 2022: Prof. Lin received the Shanghai Excellent Young Scholar Grant.
 - Oct 01, 2021: Prof. Lin joined SJTU-BME as a tenure-track Assistant Professor.
 
