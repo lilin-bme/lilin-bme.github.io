@@ -53,30 +53,32 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated May 09, 2024
-- Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis is published on *Spectrochimica Part A*.[link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
+- Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*.[link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
 - July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*.[link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
 - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
 - Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
 - Mar 28, 2024: **Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman spectroscopy.** 
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
-- Dec 25, 2023: Prof. Lin received Medicine-Engineering cross grants in SJTU. Congrats! 
-- Oct 20, 2023: Our team won the Top Medal in the National College Student Competition Challenge Cup (Top 1%) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
-- Oct 05, 2023: Prof. Lin delivered an online guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
+- Dec 25, 2023: Prof. Lin received Medicine-Engineering cross grants in SJTU. Congrats!
+- Nov 15, 2023: Zongyu Wu, together with our research project on SETRS system in Challenge Cup, has been reported by CHINADAILY! Congrats![link](https://global.chinadaily.com.cn/a/202311/15/WS6554306ba31090682a5ee3b9_2.html#:~:text=Wu%20Zongyu,%2021,%20is%20the%20team%20leader%20of%20the%20SETRS)
+- Oct 20, 2023: Our team won the **Top Medal in the National College Student Competition (Challenge Cup)** (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
+- Oct 08, 2024: Prof. Lin delivered an invited talk on *in vivo SETRS* at SciX Conference, as invited by Prof. Pavel Matousek.
+- Oct 05, 2023: Prof. Lin delivered a guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
-- Aug 03, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.
+- Aug 03, 2023: Paper on "direct and quantitative assessments of spectroscopic tissue penetration" accepted by *MED-X*.[link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
 - June 08, 2023: Prof. Lin delivered an invited talk at the PhotoniX Conference.
 - May 30, 2023: Prof. Lin delivered an online webinar talk as invited by the Instrument Website.
 - May 25, 2023: Haoqiang Xie was awarded the national undergraduate innovation research program. 
-- May 15, 2023: Our research on in vivo lesion localization of transmission Raman spectroscopy published by **Advanced Science**.
+- May 15, 2023: Our research on in vivo lesion localization of transmission Raman spectroscopy published by *Advanced Science*.[link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301721?af=R)
 - May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
-- Jan 01, 2022: Paper accepted by *Small Methods* reported highest detection depths of transmission Raman spectroscopy.
+- Jan 01, 2023: Paper accepted by *Small Methods* reported highest detection depths of transmission Raman spectroscopy.[link]（https://onlinelibrary.wiley.com/doi/10.1002/smtd.202201334?af=R#:~:text=In%20this%20work,%20the%20combination%20of%20ultra-bright%20surface-enhanced%20Raman%20scattering）
 - Apr 05, 2023: Haoqi He was awarded Excellent Graduate at SJTU. Congrats. 
 - Mar 05, 2023: Haoqi He has passed the master defense.
 - Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
-- July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by JPCC. Congrats to the first author Haoqi HE.
+- July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by *Journal of Physical Chemistry C*. Congrats to the first author, Haoqi He.
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*.
 - Jan 01, 2022: Prof. Lin received the Shanghai Excellent Young Scholar Grant.
 - Oct 01, 2021: Prof. Lin joined SJTU-BME as a tenure-track Assistant Professor.
