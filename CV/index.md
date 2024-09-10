@@ -62,13 +62,18 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Jian Ye, **Li Lin**, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
 ### JOURNAL REVIEWER
-- Biosensors
 - Analytical Chemistry
-- Environmental Science & Technology
+- ACS Omega
+- ACS Applied Electronic Materials
 - Nature Communications
+- Environmental Science & Technology
 - Journal of Innovative Optical Health Sciences
 - IEEE Transactions on Biomedical Engineering
-- ACS Applied Electronic Materials
+- Optics and Lasers in Engineering
+- Applied Materials Today
+- Chemical Engineering Journal
+- Nanophotonics
+- Biosensors/Chemosensors/Photonics (MDPI)
   
 ### GRANTS
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
