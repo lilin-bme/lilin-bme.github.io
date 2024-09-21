@@ -13,31 +13,30 @@
   - Haipeng Dong
   - Fuhua Yan
   - Fei Yuan
-  - Jian Ye
-  - Huan Zhang
-  - Linley Li Lin
+  - Jian Ye*
+  - Huan Zhang*
+  - <strong>Linley Li Lin*</strong>
   publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
   date: '2025-01-01'
   link: https://doi.org/g3pm5w
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2024SAA2.JPG
+  tags:
+  - Raman diagnosis
+  - EDRS
 - id: doi:10.3390/bios14080372
   title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
     the Diagnosis of Thyroid Cancer by Using Fine-Needle Aspiration Liquid Samples
   authors:
-  - Bowen Shi
-  - Wenfang Wang
-  - Shiyan Fang
+  - Lili Gao
   - Siyi Wu
-  - Lan Zhu
-  - Yong Chen
-  - Haipeng Dong
-  - Fuhua Yan
-  - Fei Yuan
-  - Jian Ye
-  - Huan Zhang
-  - <strong>Linley Li Lin*</strong>
+  - Puwasit Wongwasuratthakul
+  - Zhou Chen
+  - Wei Cai
+  - Qinyu Li
+  - <strong>Linley Li Lin</strong>
   publisher: Biosensors
   date: '2024-07-31'
   link: https://doi.org/gt5z8n
