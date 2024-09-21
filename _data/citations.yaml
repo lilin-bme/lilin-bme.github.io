@@ -4,9 +4,9 @@
   title: Raman spectroscopy analysis combined with computed tomography imaging to
     identify microsatellite instability in gastric cancers
   authors:
-  - Bowen Shi
-  - Wenfang Wang
-  - Shiyan Fang
+  - Bowen Shi#
+  - Wenfang Wang#
+  - Shiyan Fang#
   - Siyi Wu
   - Lan Zhu
   - Yong Chen
@@ -24,7 +24,7 @@
   file: sources.yaml
   image: images/Papers/2024SAA2.JPG
   tags:
-  - Raman diagnosis
+  - Tumor diagnosis
   - EDRS
 - id: doi:10.3390/bios14080372
   title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
@@ -45,7 +45,8 @@
   file: sources.yaml
   image: images/Papers/2024Biosensors.JPG
   tags:
-  - Raman diagnosis
+  - Raman
+  - Tumor diagnosis
 - id: doi:10.1016/j.biomaterials.2024.122538
   title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
     on preclinical models
