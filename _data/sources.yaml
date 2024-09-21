@@ -1,8 +1,9 @@
 - id: doi:10.3390/bios14080372
   image: images/Papers/2024Biosensors.JPG
   tags:
-    - Raman
-    - Tumor diagnosis
+    - Raman diagnosis
+    - Thyroid tumor
+    - Liquid biopsy
   authors:
   - Lili Gao
   - Siyi Wu
@@ -15,7 +16,8 @@
 - id: doi:10.1016/j.saa.2024.125062 
   image: images/Papers/2024SAA2.JPG
   tags:
-    - Tumor diagnosis
+    - Raman diagnosis
+    - Gastric tumor
     - EDRS
   authors:
   - Bowen Shi#
@@ -50,15 +52,15 @@
   authors: Junqing Yang , Pei Xu, Siyi Wu, Zhou Chen, Shiyan Fang, Haibo Xiao, Fengqing Hu, Lianyong Jiang , Lei Wang, Bin Mo, Fangbao Ding*, <strong>Linley Li Lin*</strong>, Jian Ye*
   date: '2024-05-11'
   tags:
-    - Raman
-    - Tumor Diagnosis
+    - Raman disnosis
+    - Esophageal tumor
     
 - id: doi:10.1016/j.trac.2024.117578
   image: images/Papers/review.JPG
   authors: Shiyan Fang, Siyi Wu, Zhou Chen, Chang He, <strong>Linley Li Lin*</strong>, Jian Ye*
   tags:
     - AI
-    - Spectral Denoising
+    - Spectral denoising
     - Raman
     
 - id: doi:10.1002/smtd.202301243
@@ -94,7 +96,7 @@
   authors: Zongyu Wu, Binge Deng*, Yutong Zhou, Haoqiang Xie, Yumin Zhang, <strong>Li Lin*</strong>, Jian Ye*
   tags: 
     - Transmission Raman spectroscopy
-    - noninvasive in vivo detection
+    - Noninvasive in vivo detection
       
 - id: doi:10.1002/viw.20230022
   image: images/Papers/View.jpg
@@ -121,7 +123,7 @@
    - <strong>Li Lin*</strong>
    - Jian Ye*
   tags: 
-    - transmission Raman spectroscopy
+    - Transmission Raman spectroscopy
     - Ultrahigh detection depth in biological tissues
 
 - id: doi:10.1016/b978-0-12-822425-0.00111-1
