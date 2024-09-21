@@ -24,7 +24,8 @@
   file: sources.yaml
   image: images/Papers/2024SAA2.JPG
   tags:
-  - Tumor diagnosis
+  - Raman diagnosis
+  - Gastric tumor
   - EDRS
 - id: doi:10.3390/bios14080372
   title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
@@ -45,8 +46,9 @@
   file: sources.yaml
   image: images/Papers/2024Biosensors.JPG
   tags:
-  - Raman
-  - Tumor diagnosis
+  - Raman diagnosis
+  - Thyroid tumor
+  - Liquid biopsy
 - id: doi:10.1016/j.biomaterials.2024.122538
   title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
     on preclinical models
@@ -113,8 +115,8 @@
   file: sources.yaml
   image: images/Papers/2024SAA.jpg
   tags:
-  - Raman
-  - Tumor Diagnosis
+  - Raman disnosis
+  - Esophageal tumor
 - id: doi:10.1016/j.trac.2024.117578
   title: 'Recent progress and applications of Raman spectrum denoising algorithms
     in chemical and biological analyses: A review'
@@ -129,7 +131,7 @@
   image: images/Papers/review.JPG
   tags:
   - AI
-  - Spectral Denoising
+  - Spectral denoising
   - Raman
 - id: doi:10.1021/acsami.3c18488
   title: Biomimetic-Membrane-Protected Plasmonic Nanostructures as Dual-Modality Contrast
@@ -221,7 +223,7 @@
   image: images/Papers/AS2023.jpg
   tags:
   - Transmission Raman spectroscopy
-  - noninvasive in vivo detection
+  - Noninvasive in vivo detection
 - id: doi:10.1002/viw.20230022
   title: A rapid and universal method for depth estimation of lesions in heterogeneous
     tissues via photosafe ratiometric transmission Raman spectroscopy
@@ -270,7 +272,7 @@
   file: sources.yaml
   image: images/Papers/Smallmethods-2023.jpg
   tags:
-  - transmission Raman spectroscopy
+  - Transmission Raman spectroscopy
   - Ultrahigh detection depth in biological tissues
 - id: doi:10.1016/b978-0-12-822425-0.00111-1
   title: Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics,
