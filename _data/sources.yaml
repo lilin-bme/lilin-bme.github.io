@@ -1,3 +1,8 @@
+- id: doi:10.3390/bios14080372
+  image: images/Papers/2024Biosensors.JPG
+  tags:
+    - Raman diagnosis
+
 - id: doi:10.1016/j.biomaterials.2024.122538
   image: images/Papers/2024Biomaterials.jpg
   authors: Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, <strong>Linley Li Lin*</strong>, Yaohui Wang*, Yao Chen*, Jian Ye*
