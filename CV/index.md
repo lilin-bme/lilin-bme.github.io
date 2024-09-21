@@ -22,7 +22,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% include section.html %}
 ### BIOGRAPHY 
-Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and worked as a postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the highest Raman optical detection depth (over 10 cm) in ex vivo biological tissues, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
+Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and worked as a postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the highest Raman optical detection depth (over 10 cm) in ex vivo biological tissues, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. She has published over 30 journal papers, with the citations of more than 1200 and H-index of 15. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -51,7 +51,7 @@ Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong Univ
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 1100. See [publication list](http://linlab-sjtu.com/publications).
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 30 journal papers, with an impact factor of over 200 and citations of more than 1200. See [publication list](http://linlab-sjtu.com/publications).
 
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, **Linley Li Lin**. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, in press.
@@ -74,6 +74,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Chemical Engineering Journal
 - Nanophotonics
 - Biosensors/Chemosensors/Photonics (MDPI)
+- Journal of International Medical Research
   
 ### GRANTS
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
