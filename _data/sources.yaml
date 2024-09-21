@@ -1,3 +1,16 @@
+- id: doi:10.1016/j.saa.2024.124852
+  image: images/Papers/2024SAA3.JPG
+  authors:
+  - Yuqing Gu
+  - Siyi Wu
+  - Zhewen Luo
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+  tags:
+  - SERS
+  - Metabolite detection
+  - Liquid biopsy 
+  
 - id: doi:10.3390/bios14080372
   image: images/Papers/2024Biosensors.JPG
   tags:
