@@ -1,7 +1,8 @@
 - id: doi:10.3390/bios14080372
   image: images/Papers/2024Biosensors.JPG
   tags:
-    - Raman diagnosis
+    - Raman
+    - Tumor diagnosis
   authors:
   - Lili Gao
   - Siyi Wu
@@ -14,12 +15,12 @@
 - id: doi:10.1016/j.saa.2024.125062 
   image: images/Papers/2024SAA2.JPG
   tags:
-    - Raman diagnosis
+    - Tumor diagnosis
     - EDRS
   authors:
-  - Bowen Shi
-  - Wenfang Wang
-  - Shiyan Fang
+  - Bowen Shi#
+  - Wenfang Wang#
+  - Shiyan Fang#
   - Siyi Wu
   - Lan Zhu
   - Yong Chen
