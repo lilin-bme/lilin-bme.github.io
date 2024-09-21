@@ -2,7 +2,20 @@
   image: images/Papers/2024Biosensors.JPG
   tags:
     - Raman diagnosis
-
+  authors:
+  - Bowen Shi
+  - Wenfang Wang
+  - Shiyan Fang
+  - Siyi Wu
+  - Lan Zhu
+  - Yong Chen
+  - Haipeng Dong
+  - Fuhua Yan
+  - Fei Yuan
+  - Jian Ye
+  - Huan Zhang
+  - <strong>Linley Li Lin*</strong>
+  
 - id: doi:10.1016/j.biomaterials.2024.122538
   image: images/Papers/2024Biomaterials.jpg
   authors: Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, <strong>Linley Li Lin*</strong>, Yaohui Wang*, Yao Chen*, Jian Ye*
