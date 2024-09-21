@@ -52,7 +52,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-Last updated May 09, 2024
+Last updated Sept 21, 2024
 - Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*. [link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
 - July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
@@ -87,15 +87,18 @@ Last updated May 09, 2024
 
 ## TEAM
 - Dr. Li LIN, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
-- Shiyan FANG (方世言), PhD student, from 2022
-- Zehou SU (苏泽厚), PhD student, from 2023
-- Rongrong GUO (郭蓉蓉) Master student, from 2023
-- Haoqiang XIE (谢浩强), PhD student, from 2024
+- Shi-yan FANG (方世言), PhD student, from 2022
+- Ze-hou SU (苏泽厚), PhD student, from 2023
+- Rong-rong GUO (郭蓉蓉) Master student, from 2023
+- Hao-qiang XIE (谢浩强), PhD student, from 2024
 - Li FAN (樊丽), PhD student, from 2024
 - Han SHEN (沈涵), Master student, from 2024
-- Zongyu WU, undergraduate student, Shanghai Jiao Tong University, from 2021
+- Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
+- Zong-yu WU, PhD student, from 2024
 - Han GU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Jia-yin SONG, undergraduate student, Shanghai Jiao Tong University, from 2023
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
