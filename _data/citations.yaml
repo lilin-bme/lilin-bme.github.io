@@ -26,13 +26,18 @@
   title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
     the Diagnosis of Thyroid Cancer by Using Fine-Needle Aspiration Liquid Samples
   authors:
-  - Lili Gao
+  - Bowen Shi
+  - Wenfang Wang
+  - Shiyan Fang
   - Siyi Wu
-  - Puwasit Wongwasuratthakul
-  - Zhou Chen
-  - Wei Cai
-  - Qinyu Li
-  - Linley Li Lin
+  - Lan Zhu
+  - Yong Chen
+  - Haipeng Dong
+  - Fuhua Yan
+  - Fei Yuan
+  - Jian Ye
+  - Huan Zhang
+  - <strong>Linley Li Lin*</strong>
   publisher: Biosensors
   date: '2024-07-31'
   link: https://doi.org/gt5z8n
