@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.saa.2024.125062
+  title: Raman spectroscopy analysis combined with computed tomography imaging to
+    identify microsatellite instability in gastric cancers
+  authors:
+  - Bowen Shi
+  - Wenfang Wang
+  - Shiyan Fang
+  - Siyi Wu
+  - Lan Zhu
+  - Yong Chen
+  - Haipeng Dong
+  - Fuhua Yan
+  - Fei Yuan
+  - Jian Ye
+  - Huan Zhang
+  - Linley Li Lin
+  publisher: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
+  date: '2025-01-01'
+  link: https://doi.org/g3pm5w
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/bios14080372
   title: Label-Free Surface-Enhanced Raman Spectroscopy with Machine Learning for
     the Diagnosis of Thyroid Cancer by Using Fine-Needle Aspiration Liquid Samples
