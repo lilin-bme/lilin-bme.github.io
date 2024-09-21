@@ -3,6 +3,20 @@
   tags:
     - Raman diagnosis
   authors:
+  - Lili Gao
+  - Siyi Wu
+  - Puwasit Wongwasuratthakul
+  - Zhou Chen
+  - Wei Cai
+  - Qinyu Li
+  - <strong>Linley Li Lin</strong>
+  
+- id:   
+  image: images/Papers/2024SAA2.JPG
+  tags:
+    - Raman diagnosis
+    - EDRS
+  authors:
   - Bowen Shi
   - Wenfang Wang
   - Shiyan Fang
@@ -12,8 +26,8 @@
   - Haipeng Dong
   - Fuhua Yan
   - Fei Yuan
-  - Jian Ye
-  - Huan Zhang
+  - Jian Ye*
+  - Huan Zhang*
   - <strong>Linley Li Lin*</strong>
   
 - id: doi:10.1016/j.biomaterials.2024.122538
