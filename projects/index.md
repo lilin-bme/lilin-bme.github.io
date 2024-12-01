@@ -9,18 +9,7 @@ nav:
 
 {% capture text %}
 
-Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross-sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. We use surface-enhanced Raman spectroscopy (SERS) as a bioimaging modality for spectral-guided surgery. We fabricate plasmonic nanomaterials with tunable optical properties by adjusting the surface chemistry and texture of designer materials. The integration of metal structures and organic materials form a powerful platform for a wide variety of applications including plasmonic photovoltaics, chemical and biological sensors, bioimaging, and therapeutics.
-- Design and fabrication of plasmonic nanostructure
-- Surface-enhanced Raman spectroscopy (SERS) substrate
-- Invention of ultrabright SERS nanotag for therapy and diagnosis
-
-{% endcapture %}
-
-{% include feature.html image="images/projects/Projects-02.jpg" title="Inventing plasmonic nanomaterials" text=text %}
-
-{% capture text %}
-
-Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. But due to the strong photon absorption and scattering of biological tissues, it is challenging to realize in vivo non-invasive detection via optical modalities. We address this tissue with the use of in vivo surface-enhanced transmission Raman spectroscopy (TRS). We achieve non-invasive localization of deep lesions hidden in living animals and precisely predicted the depth of deep-seated lesions in heterogeneous in vivo environments.
+Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. But due to the strong photon absorption and scattering of biological tissues, it is challenging to realize in vivo non-invasive detection via optical modalities. We address this issue with the use of in vivo surface-enhanced deep Raman spectroscopy (SEDRS) with a series of advancements toward non-invasive localization of deep lesions hidden in living animals. We made the first quantitative assessments of Raman spectroscopic detection depth into the biological tissues (MED-X, 2023, 1, 9.) We have developed high-brightness SERS nanotags and a transmission Raman system, enabling detection through >10 cm of biological tissue under safe laser exposure (Small Methods, 2022, 2201334). We put forward a depth-prediction method based on Raman spectral peak ratios, leveraging tissue optical properties to accurately determine the depth of lesion phantoms, achieving an average error of <11.8% (View, 2023, 20230022). Based on this, the localization  of lesion phantom using multi-peak information from Raman spectra in ex vivo tissues (ACS AMI, 2023) or in live rats was achieved (Advanced Science, 202301721). We completed the first SEDRS-guided non-invasive lymph node biopsy, demonstrating centimeter-level detection depth and millimeter-level localization precision. 
 - Tissue optics simulation of light transportation
 - Transmission Raman spectroscopy (TRS)
 - Spatially-offset Raman spectroscopy (SORS)
@@ -42,6 +31,16 @@ Modern cancer diagnosis requires histological, molecular and genomic tumor analy
 
 {% include feature.html image="images/projects/Projects-01.jpg"  title="Label-free Raman spectroscopy for cancer diagnosis" text=text %}
 
+{% capture text %}
+
+Plasmonic nanostructures exhibit a unique combination of physical, chemical, and biological properties, such as large absorption and scattering cross-sections, high sensitivity to the local dielectric environment, and an enhanced electric field at the surface. We use surface-enhanced Raman spectroscopy (SERS) as a bioimaging modality for spectral-guided surgery. We fabricate plasmonic nanomaterials with tunable optical properties by adjusting the surface chemistry and texture of designer materials. The integration of metal structures and organic materials form a powerful platform for a wide variety of applications including plasmonic photovoltaics, chemical and biological sensors, bioimaging, and therapeutics.
+- Design and fabrication of plasmonic nanostructure
+- Surface-enhanced Raman spectroscopy (SERS) substrate
+- Invention of ultrabright SERS nanotag for therapy and diagnosis
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/Projects-02.jpg" title="Inventing plasmonic nanomaterials" text=text %}
 
 {% capture text %}
 
