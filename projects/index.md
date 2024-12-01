@@ -9,7 +9,6 @@ nav:
 
 {% capture text %}
 
-Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. But due to the strong photon absorption and scattering of biological tissues, it is challenging to realize in vivo non-invasive detection via optical modalities. We address this issue with the use of in vivo surface-enhanced deep Raman spectroscopy (SEDRS) with a series of advancements toward non-invasive localization of deep lesions hidden in living animals. We made the first quantitative assessments of Raman spectroscopic detection depth into the biological tissues (MED-X, 2023, 1, 9.) We have developed high-brightness SERS nanotags and a transmission Raman system, enabling detection through >10 cm of biological tissue under safe laser exposure (Small Methods, 2022, 2201334). We put forward a depth-prediction method based on Raman spectral peak ratios, leveraging tissue optical properties to accurately determine the depth of lesion phantoms, achieving an average error of <11.8% (View, 2023, 20230022). Based on this, the localization  of lesion phantom using multi-peak information from Raman spectra in ex vivo tissues (ACS AMI, 2023) or in live rats was achieved (Advanced Science, 202301721). We completed the first SEDRS-guided non-invasive lymph node biopsy, demonstrating centimeter-level detection depth and millimeter-level localization precision. 
 - Tissue optics simulation of light transportation
 - Transmission Raman spectroscopy (TRS)
 - Spatially-offset Raman spectroscopy (SORS)
@@ -18,6 +17,9 @@ Non-invasive localization of human lesions remains a long-standing pursuit for c
 {% endcapture %}
 
 {% include feature.html image="images/projects/Projects-03.jpg" title="Deep Raman techniques for in vivo detection" flip=true style="bare" text=text %}
+
+Non-invasive localization of human lesions remains a long-standing pursuit for clinical applications. Optical modalities are widely used for biomedical imaging and diagnosing. But due to the strong photon absorption and scattering of biological tissues, it is challenging to realize in vivo non-invasive detection via optical modalities. 
+We address this issue with the use of in vivo surface-enhanced deep Raman spectroscopy (SEDRS) with a series of advancements toward non-invasive localization of deep lesions hidden in living animals. We made the first quantitative assessments of Raman spectroscopic detection depth into the biological tissues (MED-X, 2023, 1, 9.). We have developed high-brightness SERS nanotags and a home-built transmission Raman system, enabling detection through >10 cm of biological tissue under safe laser exposure (Small Methods, 2022, 2201334). We put forward a depth-prediction method based on Raman spectral peak ratios, leveraging tissue optical properties to accurately determine the depth of lesion phantoms, achieving the mean error of <11.8% (View, 2023, 20230022). Based on this, the non-invasive localization of lesion phantom using multi-peak information of Raman spectra in ex vivo tissues (ACS AMI, 2023) or in live animals was achieved (Advanced Science, 202301721). We completed the first SEDRS-guided peri-operative lymph node biopsy on a live rat, demonstrating centimeter-level detection depth and millimeter-level localization precision. 
 
 {% capture text %}
 
