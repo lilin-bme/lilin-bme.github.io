@@ -53,6 +53,8 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Sept 21, 2024
+- Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
+- Oct 1, 2024: Our research on rapid diagnosis of gastric and esophageal tumors using a Raman fiber-optic probe published on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
 - Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*. [link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
 - July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
