@@ -52,8 +52,10 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-Last updated Sept 21, 2024
-- Nov 15, 2024: We investigated how freezing affects the tissue optical properties through transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
+Last updated Jan 2025
+- Jan 13, 2025: Prof. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
+- Jan 01, 2025: Prof. Lin was promoted to associate professor position at SJTU.
+- Nov 15, 2024: We investigated how freezing affects the tissue optical properties by using transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
 - Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
 - Oct 1, 2024: Our research on rapid diagnosis of gastric and esophageal tumors using a Raman fiber-optic probe published on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
 - Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*. [link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
@@ -89,7 +91,7 @@ Last updated Sept 21, 2024
 {% include section.html %}
 
 ## TEAM
-- Dr. Li LIN, Assistant Professor, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
+- Dr. Li LIN, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
 - Shi-yan FANG (方世言), PhD student, from 2022
 - Ze-hou SU (苏泽厚), PhD student, from 2023
 - Rong-rong GUO (郭蓉蓉) Master student, from 2023
