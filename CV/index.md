@@ -18,11 +18,11 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin2.jpg" title="Prof. Dr. Linley Li Lin (林俐)" text=text %}
+{% include feature.html image="images/members/lilin4.jpg" title="Prof. Dr. Linley Li Lin (林俐)" text=text %}
 
 {% include section.html %}
 ### BIOGRAPHY 
-Dr. Linley Li Lin is currently an Associate Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and worked as a postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the Deep Raman optical detection in ex vivo biological tissues of over 10-cm-thick, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
+Dr. Linley Li Lin is currently an Associate Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and conducted her postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the Deep Raman optical detection through biological tissues, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -64,20 +64,24 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 -	Jian Ye, Li Lin, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
 - Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
-### JOURNAL REVIEWER
+### SERVICE
+EARLY CAREER EDITORIAL BOARD
+- ACS Applied Materials & Interfaces (2025-2027)
+- Exploration (2024-2025)
+JOURNAL REVIEWER
 - Analytical Chemistry
 - ACS Omega
 - ACS Applied Electronic Materials
 - Nature Communications
 - Environmental Science & Technology
-- Journal of Innovative Optical Health Sciences
+- Biosensors and Bioelectronics
 - IEEE Transactions on Biomedical Engineering
 - Optics and Lasers in Engineering
 - Applied Materials Today
 - Chemical Engineering Journal
 - Nanophotonics
 - Biosensors/Chemosensors/Photonics (MDPI)
-- Journal of International Medical Research
+- Lab Investigations
   
 ### GRANTS
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
@@ -89,18 +93,19 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
-- Li Lin, "Non-invasive Raman Optical Imaging on Small Animal Models", Instrumental Website Online Webinar, May 2024.
-- Li Lin, "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Hangzhou, China.
-- Li Lin, "Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
-- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
-- Li Lin, "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
-- Li Lin, "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
-- Li Lin, "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
-- Li Lin, "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
-- Li Lin, "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
+- "In vivo deep Raman spectroscopy for tomography and image-guided surgery", 2nd MED-X annual conferences, Dec 2024.
+- "Non-invasive Raman optical imaging on small animal models", Instrumental Website Online Webinar, May 2024.
+- "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Hangzhou, China.
+- "Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
+- "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
+- "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
+- "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
+- "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
+- "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
+- "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
   
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering(医学工程前沿进展), Fall semester, From 2023
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
-- BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, 2022/2023
-- BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, 2022/2023
+- BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, From 2022
+- BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, From 2022
