@@ -7,7 +7,7 @@ The interface between light and materials creates unique optical properties at t
 
 {% capture text %}
 
-We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-material interfaces. We collaborate closely with other groups to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
+We use state-of-the-art nanofabrication and simulation technologies to design and fabricate plasmonic nanostructures as ultrasensitive nanosensors for trace detection. In particular, we have focused on surface-enhanced Raman scattering as a bioimaging modality for in vivo surgical navigation or as an optical platform to study bio-material interfaces. We collaborate closely with hospitals/surgeons to address fundamental questions in biological metabolism and tumor phenotype development using advanced optical techniques.
 
 {%
   include button.html
@@ -28,7 +28,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 %}
 {% capture text %}
 
-We are a multidisciplinary and compact team. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We work with Dr. Linley Li Lin, an Assistant Professor at the School of Biomedical Engineering, SJTU. 
+We are a multidisciplinary and compact team. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We work with Dr. Linley Li Lin, an Associate Professor at the School of Biomedical Engineering, SJTU. 
 
 {%
   include button.html
@@ -53,6 +53,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Sept 21, 2024
+- Nov 15, 2024: We investigated how freezing affects the tissue optical properties through transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
 - Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
 - Oct 1, 2024: Our research on rapid diagnosis of gastric and esophageal tumors using a Raman fiber-optic probe published on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
 - Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*. [link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
@@ -60,11 +61,11 @@ Last updated Sept 21, 2024
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
 - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
 - Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
-- Mar 28, 2024: **Prof. Lin delivered an invited talk at the National Conference on Raman Biomedical Application (NCRBA) on Transmission Raman spectroscopy.** 
+- Mar 28, 2024: Prof. Lin delivered an invited talk at the *National Conference on Raman Biomedical Application (NCRBA)* on Transmission Raman spectroscopy.
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
 - Dec 25, 2023: Prof. Lin received Medicine-Engineering cross grants in SJTU. Congrats!
 - Nov 15, 2023: Zongyu Wu, together with our research project on SETRS system in Challenge Cup, has been reported by CHINADAILY! Congrats! [link](https://global.chinadaily.com.cn/a/202311/15/WS6554306ba31090682a5ee3b9_2.html#:~:text=Wu%20Zongyu,%2021,%20is%20the%20team%20leader%20of%20the%20SETRS)
-- Oct 20, 2023: Our team won the **Top Medal in the National College Student Competition (Challenge Cup)** (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
+- Oct 20, 2023: Our team won the *Top Medal* in the National College Student Competition (Challenge Cup) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
 - Oct 08, 2024: Prof. Lin delivered an invited talk on *in vivo SETRS* at SciX Conference, as invited by Prof. Pavel Matousek.
 - Oct 05, 2023: Prof. Lin delivered a guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
