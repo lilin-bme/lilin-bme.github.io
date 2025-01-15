@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acsnano.4c12469
+  title: In Vivo Surface-Enhanced Transmission Raman Spectroscopy and Impact of Frozen
+    Biological Tissues on Lesion Depth Prediction
+  authors:
+  - Yutong Zhou
+  - Yumin Zhang
+  - Haoqiang Xie
+  - Zongyu Wu
+  - Bowen Shi
+  - Linley Li Lin
+  - Jian Ye
+  publisher: ACS Nano
+  date: '2024-12-16'
+  link: https://doi.org/g8wpqg
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.saa.2024.124852
   title: Oppositely-charged silver nanoparticles enable selective SERS molecular enhancement
     through electrostatic interactions
