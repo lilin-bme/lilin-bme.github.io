@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-- Publications >40, citation >1300, H-index 18 (Updated Dec 2024)
+- Publications >40, citation >1300, H-index 18 (Updated Jan 2025)
 - (*) indicates corresponding authors.
 - Since 2024, the published name has been changed from ‘Li Lin’ to ‘Linley Li Lin’.
   
