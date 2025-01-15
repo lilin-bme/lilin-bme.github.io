@@ -1,5 +1,4 @@
 
-
 - id: doi:10.1021/acsnano.4c12469
   title: In Vivo Surface-Enhanced Transmission Raman Spectroscopy and Impact of Frozen Biological Tissues on Lesion Depth Prediction
   image: images/Papers/2024ACS Nano.png
@@ -28,6 +27,22 @@
   - SERS
   - Metabolite detection
   - Liquid biopsy 
+  
+- id: doi:10.1007/s00216-024-05545-w
+  image: images/Papers/2024ABC.jpg
+  authors:
+  - Shiyan Fang
+  - Pei Xu
+  - Siyi Wu
+  - Zhou Chen
+  - Junqing Yang
+  - Haibo Xiao
+  - Fangbao Ding
+  - Shuchun Li
+  - Jin Sun
+  - Zirui He*
+  - Jian Ye*
+  - <strong>Linley Li Lin*</strong>
   
 - id: doi:10.3390/bios14080372
   image: images/Papers/2024Biosensors.JPG
