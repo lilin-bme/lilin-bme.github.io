@@ -1,3 +1,21 @@
+
+
+- id: doi:10.1021/acsnano.4c12469
+  title: In Vivo Surface-Enhanced Transmission Raman Spectroscopy and Impact of Frozen Biological Tissues on Lesion Depth Prediction
+  image: images/Papers/2024ACS Nano.png
+  authors:
+  - Yutong Zhou
+  - Yumin Zhang
+  - Haoqiang Xie
+  - Zongyu Wu
+  - Bowen Shi
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+  tags:
+    - Transmission Raman spectroscopy
+    - Tissue optical properties
+    - Depth estimation
+  
 - id: doi:10.1016/j.saa.2024.124852
   image: images/Papers/2024SAA3.JPG
   authors:
@@ -87,7 +105,7 @@
   image: images/Papers/2023ACSAMI.jpg
   authors: Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao*, <strong>Li Lin*</strong>, Jian Ye*
   tags:
-    - Transmission Raman Spectroscopy
+    - Transmission Raman spectroscopy
     - Tomography
     - GERTs
 
