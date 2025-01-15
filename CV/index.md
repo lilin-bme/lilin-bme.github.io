@@ -7,7 +7,7 @@ nav:
 
 {% capture text %}
 
-Assistant Professor <br> 
+Associate Professor <br> 
 School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU)<br> 
 Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
 Email: linli92@sjtu.edu.cn<br>
@@ -22,7 +22,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% include section.html %}
 ### BIOGRAPHY 
-Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and worked as a postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the highest Raman optical detection depth (over 10 cm) in ex vivo biological tissues, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. She has published over 30 journal papers, with the citations of more than 1200 and H-index of 15. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
+Dr. Linley Li Lin is currently an Associate Professor at Shanghai Jiao Tong University (SJTU). She received her B.S. and Ph.D. degrees from SJTU and worked as a postdoctoral fellow at the University of Illinois at Urbana-Champaign and SJTU. Her academic research is primarily in the area of plasmonic nanostructures, nanomedicine, and image-guided surgery. During her PhD and Postdoctoral research, she was one of the principal researchers of GERTs - a novel SERS nanotag with ultra-high sensitivity, uniformity, and photostability. Her current research interests include deep Raman techniques, surface-enhanced Raman scattering bioimaging, and Raman spectroscopic platform to study biomaterial interfaces. She has developed in vivo transmission Raman spectroscopy techniques for deep Raman imaging and three-dimensional tomography. Her team's pioneering works include the Deep Raman optical detection in ex vivo biological tissues of over 10-cm-thick, and for the first-time the non-invasive localization of in vivo deep-seated lesions on live big animal models using deep Raman spectroscopy. Dr. Lin has received a number of awards, including the Shanghai Chenguang Young Scholar Program (2021) and the Best Paper Award at the IMCO International Conference (2019).
 
 ### EDUCATION    
 - Ph.D., Biomedical Engineering, Shanghai Jiao Tong University, 2013-2018, *Thesis Title: The Synthesis and Biomedical Applications of Gap Enhanced Raman Tags (GERTs)*
@@ -30,7 +30,8 @@ Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong Univ
 - Visiting Student, Department of Biomedical Engineering, University of Minnesota, U.S., 2012 Summer
   
 ### PROFESSIONAL EMPLOYMENT 
-- Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-now
+- Associate Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2025-now
+- Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-2024
 - Visiting scholar and postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
@@ -55,12 +56,13 @@ Dr. Linley Li Lin is currently an Assistant Professor at Shanghai Jiao Tong Univ
 Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1500. See [publication list](http://linlab-sjtu.com/publications).
 
 ##### Book Chapters
-- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, **Linley Li Lin**. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, in press.
-- **Li Lin**, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355.<br> 
-- **Li Lin**, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
+- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier,
+2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
+- Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355. (https://dio.org/10.1016/B978-0-12-822425-0.00111-1) <br> 
+- Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
 ##### Approved patents (to be updated)
--	Jian Ye, **Li Lin**, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
-- Jian Ye, **Li Lin**, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
+-	Jian Ye, Li Lin, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
+- Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
 ### JOURNAL REVIEWER
 - Analytical Chemistry
