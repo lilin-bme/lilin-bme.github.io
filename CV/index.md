@@ -65,9 +65,9 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
 ### SERVICE
-- Early Career Editorial Board, ACS Applied Materials & Interfaces (2025-2027)<br>
-- Early Career Editorial Board, Exploration (2024-2025)<br>
-- Journal Reviewer (Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Chemosensors, Photonics, Lab Investigations, etc.)
+- Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
+- Early Career Editorial Board, *Exploration* (2024-2025)<br>
+- Journal Reviewer (*Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Chemosensors, Photonics, Lab Investigations, etc.*)
   
 ### GRANTS
 - National Key Research and Development Program of China, sub-project leader, RMB 500k, 2024-2027.
@@ -80,8 +80,8 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
-- *In vivo deep Raman spectroscopy for tomography and image-guided surgery*, 2nd MED-X International conferences, Dec 2024, Shanghai.
-- *Non-invasive Raman optical imaging on small animal models*, Instrumental Website Online Webinar, May 2024.
+- *In Vivo Deep Raman Spectroscopy for Tomography and Image-Guided Surgery*, 2nd MED-X International conferences, Dec 2024, Shanghai.
+- *Non-Invasive Raman Optical Imaging on Small Animal Models*, Instrumental Website Online Webinar, May 2024.
 - *Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging*, NELM conference, April 2024, Hangzhou, China.
 - *Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges*, 3rd NCRBA conference, March 2024, Shanghai, China.
 - *In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions*, SciX, October 2023, Sparks, Nevada.
