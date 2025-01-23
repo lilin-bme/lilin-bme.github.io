@@ -63,6 +63,11 @@
   - Zirui He*
   - Jian Ye*
   - <strong>Linley Li Lin*</strong>
+  tags:
+    - Raman diagnosis
+    - Gastric tumor
+    - EDRS
+    - Euclidean distance-based Raman spectroscopy
   
 - id: doi:10.3390/bios14080372
   image: images/Papers/2024Biosensors.JPG
@@ -85,6 +90,7 @@
     - Raman diagnosis
     - Gastric tumor
     - EDRS
+    - Euclidean distance-based Raman spectroscopy
   authors:
   - Bowen Shi#
   - Wenfang Wang#
@@ -177,7 +183,7 @@
   image: images/Papers/SAPA-2023.jpg
   authors: Wenfang Wang, Bowen Shi, Chang He, Siyi Wu, Lan Zhu, Jiang Jiang, Lingyun Wang, <strong>Li Lin*</strong>, Jian Ye*, Huan Zhang*
   tags:
-    - Euclidean distance
+    - Euclidean distance-based Raman spectroscopy
     - Raman spectroscopy
     - EDRS
     - Stomach cancer prognosis
