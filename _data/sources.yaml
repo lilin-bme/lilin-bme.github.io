@@ -1,4 +1,24 @@
-
+- id: doi:10.1021/acsami.4c20139
+  title: Single-Injection Composite Tracer Achieves Intraoperative Dual-Tracing and
+    Precise Localization of Sentinel Lymph Nodes
+  image: images/Papers/2025ACS AMI.jpg
+  authors:
+  - Binge Deng
+  - <strong>Linley Li Lin*</strong>
+  - Yan Wang
+  - Xiangdong Bu
+  - Jin Li
+  - Jingsong Lu
+  - Yaohui Wang*
+  - Yao Chen*
+  - Jian Ye*
+  tags:
+   - SERS
+   - GERTs
+   - NIR-II
+   - Sentinel lymph node detection
+   - Non-human primates
+  
 - id: doi:10.1021/acsnano.4c12469
   title: In Vivo Surface-Enhanced Transmission Raman Spectroscopy and Impact of Frozen Biological Tissues on Lesion Depth Prediction
   image: images/Papers/2024ACS Nano.png
@@ -85,6 +105,8 @@
   tags:
     - NIR-II
     - GERTs
+    - Sentinel lymph node detection
+    - Non-human primates
     
 - id: doi:10.1002/smll.202402235
   image: images/Papers/review.JPG
