@@ -352,9 +352,8 @@
   image: images/Papers/SAPA-2023.jpg
   tags:
   - Euclidean distance-based Raman spectroscopy
-  - Raman spectroscopy
   - EDRS
-  - Stomach cancer prognosis
+  - Gastric cancer prognosis
 - id: doi:10.1002/smtd.202201334
   title: "In\_Vivo Surface\u2010Enhanced Transmission Raman Spectroscopy under Maximum\
     \ Permissible Exposure: Toward Photosafe Detection of Deep\u2010Seated Tumors"
