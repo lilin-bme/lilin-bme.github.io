@@ -91,6 +91,11 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/2024ABC.jpg
+  tags:
+  - Raman diagnosis
+  - Gastric tumor
+  - EDRS
+  - Euclidean distance-based Raman spectroscopy
 - id: doi:10.1021/acssensors.4c01873
   title: Multiwavelength Surface-Enhanced Raman Scattering Fingerprints of Human Urine
     for Cancer Diagnosis
@@ -141,6 +146,7 @@
   - Raman diagnosis
   - Gastric tumor
   - EDRS
+  - Euclidean distance-based Raman spectroscopy
 - id: doi:10.1016/j.biomaterials.2024.122538
   title: Sentinel lymph node identification using NIR-II ultrabright Raman nanotags
     on preclinical models
@@ -345,7 +351,7 @@
   file: sources.yaml
   image: images/Papers/SAPA-2023.jpg
   tags:
-  - Euclidean distance
+  - Euclidean distance-based Raman spectroscopy
   - Raman spectroscopy
   - EDRS
   - Stomach cancer prognosis
