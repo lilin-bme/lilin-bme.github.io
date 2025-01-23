@@ -23,7 +23,7 @@ Non-invasive localization of human lesions remains a long-standing pursuit for c
 Representative papers:
 - Yutong Zhou, Yumin Zhang, Haoqiang Xie, Zongyu Wu, Bowen Shi, Linley Li Lin*, Jian Ye. [In Vivo surface-enhanced transmission Raman spectroscopy and impact of frozen biological tissues on lesion depth prediction](doi.org/10.1002/smtd.202201334). ACS Nano, 2024, 18, 35393.
 - Li Lin*, Haoqi He, Ruiyang Xue, Yumin Zhang, Ziwen Wang, Shuming Nie, Jian Ye. [Direct and quantitative assessments of near‑infrared light attenuation and spectroscopic detection depth in biological tissues using surface‑enhanced Raman scattering](doi.org/10.1007/s44258-023-00010-2). MED-X, 2023, 1, 9. 
-- Yumin Zhang, Ruoyu Chen, Peng Miao, Li Lin*, Jian Ye. [In vivo Surface‐enhanced transmission Raman spectroscopy under maximum permissible exposure: toward photosafe detection of deep‐seated tumors]((doi.org/10.1002/smtd.202201334). Small Methods, 2022, 7, 2201334.
+- Yumin Zhang, Ruoyu Chen, Peng Miao, Li Lin*, Jian Ye. [In vivo Surface‐enhanced transmission Raman spectroscopy under maximum permissible exposure: toward photosafe detection of deep‐seated tumors](doi.org/10.1002/smtd.202201334). Small Methods, 2022, 7, 2201334.
 - Yumin Zhang, Li Lin*, Jian Ye. [A rapid and universal method for depth estimation of lesions in heterogeneous tissues via photosafe ratiometric transmission Raman spectroscopy](doi.org/10.1002/viw.20230022). VIEW, 2023, 4, 20230022.
 - Zongyu Wu, Binge Deng, Yutong Zhou, Haoqiang Xie, Yumin Zhang, Li Lin*, and Jian Ye. [Non-Invasive detection, precise localization, and perioperative navigation of in vivo deep lesions using transmission Raman spectroscopy](doi.org/10.1002/advs.202301721). Advanced Science, 2023, 10, 2301721.
 - Haoqiang Xie, Yumin Zhang, Zongyu Wu, Zhouzhou Bao, Li Lin*, and Jian Ye. Locating three-dimensional position of deep-seated SERS phantom lesions in thick tissues Using tomographic transmission Raman spectroscopy](doi.org/10.1021/acsami.3c07792). ACS Applied Materials & Interfaces, 2023, 15, 38, 44665.
@@ -59,9 +59,9 @@ Plasmonic nanostructures exhibit a unique combination of physical, chemical, and
 {% include feature.html image="images/projects/Projects-02.jpg" title="Inventing plasmonic nanomaterials" text=text %}
 
 Representative papers:
-- Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, Linley Li Lin, Yaohui Wang, Yao Chen, Jian Ye. Sentinel lymph node identification using NIR-II ultrabright Raman nanotags on preclinical models. Biomaterials, 2024, 308, 122538. [link](doi.org/10.1016/j.biomaterials.2024.122538)
-
-- 
+- Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, Linley Li Lin, Yaohui Wang, Yao Chen, Jian Ye. [Sentinel lymph node identification using NIR-II ultrabright Raman nanotags on preclinical models](doi.org/10.1016/j.biomaterials.2024.122538). Biomaterials, 2024, 308, 122538.
+- Haoqi He, Yumin Zhang, Shuo Zhu, Jian Ye, and Li Lin. [Resonant strategy in designing NIR-II SERS nanotags: a quantitative study](doi.org/10.1021/acs.jpcc.2c02512). The Journal of Physical Chemistry C, 2022, 126, 12575.
+  
 {% capture text %}
 
 Nanomaterials have emerging applications in medical implants, cell delivery, and in vivo neuromodulation. The interaction of biomolecules with metal nanostructures can be studied by investigating the near-field plasmon effects. We rationally design the plasmonic nanomaterials that serve as miniaturized antennas to display the biological activity for the investigation of cellular metabolism or phenotype development in living and non-living matter.
