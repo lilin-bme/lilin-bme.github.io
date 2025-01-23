@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
-  margin: 40px 0;
+  gap: 35px;
+  margin: 35px 0;
 }
 
 .feature-image {
