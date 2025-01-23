@@ -60,7 +60,7 @@ Plasmonic nanostructures exhibit a unique combination of physical, chemical, and
 
 Representative papers:
 - Binge Deng, Yan Wang, Xiangdong Bu, Jin Li, Jingsong Lu, Linley Li Lin, Yaohui Wang, Yao Chen, Jian Ye. [Sentinel lymph node identification using NIR-II ultrabright Raman nanotags on preclinical models](doi.org/10.1016/j.biomaterials.2024.122538). Biomaterials, 2024, 308, 122538.
-- Haoqi He, Yumin Zhang, Shuo Zhu, Jian Ye, and Li Lin. [Resonant strategy in designing NIR-II SERS nanotags: a quantitative study](doi.org/10.1021/acs.jpcc.2c02512). The Journal of Physical Chemistry C, 2022, 126, 12575.
+- Haoqi He, Yumin Zhang, Shuo Zhu, Jian Ye, and Li Lin*. [Resonant strategy in designing NIR-II SERS nanotags: a quantitative study](doi.org/10.1021/acs.jpcc.2c02512). The Journal of Physical Chemistry C, 2022, 126, 12575.
   
 {% capture text %}
 
@@ -73,3 +73,5 @@ Nanomaterials have emerging applications in medical implants, cell delivery, and
 
 {% include feature.html image="images/projects/cell3.jpg" title="Exploring bio-material interfaces in cellular scenarios" flip=true style="bare" text=text %}
 
+Representative papers:
+- Yuqing Gu, Siyi Wu, Zhewen Luo, Linley Li Lin*, and Jian Ye. [Oppositely-Charged Silver Nanoparticles Enable Selective SERS Molecular Enhancement through Electrostatic Interactions](doi.org/10.1016/j.saa.2024.124852). Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2024, 322, 124852.
