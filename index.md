@@ -53,8 +53,8 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Jan 2025
-- Jan 13, 2025: Prof. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
-- Jan 01, 2025: Prof. Lin was promoted to associate professor position at SJTU.
+- Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
+- Jan 01, 2025: Dr. Lin was promoted to associate professor position at SJTU.
 - Nov 15, 2024: We investigated how freezing affects the tissue optical properties by using transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
 - Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
 - Oct 1, 2024: Our research on rapid diagnosis of GI tumors using a Raman fiber-optic probe published as a Paper in Forefront on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
@@ -62,20 +62,20 @@ Last updated Jan 2025
 - July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
 - May 09, 2024: Haoqiang Xie and Zongyu Wu were awarded as the "Shanghai Excellent Graduate". Congrats!
-- Apr 12, 2024: Prof. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
-- Mar 28, 2024: Prof. Lin delivered an invited talk at the *National Conference on Raman Biomedical Application (NCRBA)* on Transmission Raman spectroscopy.
+- Apr 12, 2024: Dr. Lin delivered an invited talk at the NELM Conference, Hangzhou, China.
+- Mar 28, 2024: Dr. Lin delivered an invited talk at the *National Conference on Raman Biomedical Application (NCRBA)* on Transmission Raman spectroscopy.
 - Jan 10, 2024: Haoqiang Xie's research was awarded as the excellent undergraduate program at SJTU (Top 10). Congrats!
 - Dec 25, 2023: Prof. Lin received Medicine-Engineering cross grants in SJTU. Congrats!
 - Nov 15, 2023: Zongyu Wu, together with our research project on SETRS system in Challenge Cup, has been reported by CHINADAILY! Congrats! [link](https://global.chinadaily.com.cn/a/202311/15/WS6554306ba31090682a5ee3b9_2.html#:~:text=Wu%20Zongyu,%2021,%20is%20the%20team%20leader%20of%20the%20SETRS)
 - Oct 20, 2023: Our team won the *Top Medal* in the National College Student Competition (Challenge Cup) (祝贺团队获挑战杯全国大学生课外科创竞赛生命科学类科技发明制作赛道特等奖). 
-- Oct 08, 2024: Prof. Lin delivered an invited talk on *in vivo SETRS* at SciX Conference, as invited by Prof. Pavel Matousek.
-- Oct 05, 2023: Prof. Lin delivered a guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
+- Oct 08, 2024: Dr. Lin delivered an invited talk on *in vivo SETRS* at SciX Conference, as invited by Prof. Pavel Matousek.
+- Oct 05, 2023: Dr. Lin delivered a guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie. 
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
 - Aug 03, 2023: Paper on "Quantitative Assessments of Spectroscopic Tissue Penetration" accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
-- June 08, 2023: Prof. Lin delivered an invited talk at the PhotoniX Conference.
-- May 30, 2023: Prof. Lin delivered an online webinar talk as invited by the Instrument Website.
+- June 08, 2023: Dr. Lin delivered an invited talk at the PhotoniX Conference.
+- May 30, 2023: Dr. Lin delivered an online webinar talk as invited by the Instrument Website.
 - May 25, 2023: Haoqiang Xie was awarded the national undergraduate innovation research program. 
 - May 15, 2023: Our research on in vivo lesion localization of transmission Raman spectroscopy published by *Advanced Science*. [link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301721?af=R)
 - May 05, 2023: Our team won the Top Medal in the Shanghai College Student Competition, with the project "Penetrating Transmission Raman Spectroscopy for Non-Invasive Diagnosis".
@@ -85,8 +85,8 @@ Last updated Jan 2025
 - Aug 01, 2022: Our team received the 3-tier award in the National College Student Biomedical Engineering Innovation Design Competition (祝贺团队获第七届全国大学生生物医学工程创新设计竞赛).
 - July 22, 2022: Paper on the design of NIR-II SERS Nanotags was accepted by *Journal of Physical Chemistry C*. Congrats to the first author, Haoqi He. [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c02512#:~:text=Surface-enhanced%20Raman%20scattering%20(SERS)%20nanotags%20have%20garnered%20much%20attention%20for)
 - May 01, 2022: Congratulations to undergraduates Zongyu, Haoqiang, and Yiming for their publication on *Photonics*. [link](https://www.mdpi.com/2304-6732/9/6/429#:~:text=Abstract.)
-- Jan 01, 2022: Prof. Lin received the Shanghai Excellent Young Scholar Grant.
-- Oct 01, 2021: Prof. Lin joined SJTU-BME as a tenure-track Assistant Professor.
+- Jan 01, 2022: Dr. Lin received the Shanghai Excellent Young Scholar Grant.
+- Oct 01, 2021: Dr. Lin joined SJTU-BME as a tenure-track Assistant Professor.
 
 {% include section.html %}
 
@@ -99,7 +99,6 @@ Last updated Jan 2025
 - Li FAN (樊丽), PhD student, from 2024
 - Han SHEN (沈涵), Master student, from 2024
 - Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
-- Zong-yu WU, PhD student, from 2024
 - Han GU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
