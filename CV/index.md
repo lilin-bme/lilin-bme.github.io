@@ -18,7 +18,7 @@ More links: School of Biomedical Engineering, SJTU [[Website](bme.sjtu.edu.cn)]<
 
 {% endcapture %}
 
-{% include feature.html image="images/members/lilin4.jpg" title="Prof. Dr. Linley Li Lin (林俐)" text=text %}
+{% include feature.html image="images/members/lilin4.JPG" title="Prof. Dr. Linley Li Lin (林俐)" text=text %}
 
 {% include section.html %}
 ### BIOGRAPHY 
@@ -53,7 +53,7 @@ Dr. Linley Li Lin is currently an Associate Professor at Shanghai Jiao Tong Univ
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1500. See [publication list](http://linlab-sjtu.com/publications).
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1400. See [publication list](http://linlab-sjtu.com/publications).<br>
 
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier,
@@ -65,25 +65,12 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
 
 ### SERVICE
-EARLY CAREER EDITORIAL BOARD
-- ACS Applied Materials & Interfaces (2025-2027)
-- Exploration (2024-2025)
-JOURNAL REVIEWER
-- Analytical Chemistry
-- ACS Omega
-- ACS Applied Electronic Materials
-- Nature Communications
-- Environmental Science & Technology
-- Biosensors and Bioelectronics
-- IEEE Transactions on Biomedical Engineering
-- Optics and Lasers in Engineering
-- Applied Materials Today
-- Chemical Engineering Journal
-- Nanophotonics
-- Biosensors/Chemosensors/Photonics (MDPI)
-- Lab Investigations
+- Early Career Editorial Board, ACS Applied Materials & Interfaces (2025-2027)<br>
+- Early Career Editorial Board, Exploration (2024-2025)<br>
+- Journal Reviewer (Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Chemosensors, Photonics, Lab Investigations, etc.)
   
 ### GRANTS
+- National Key Research and Development Program of China, sub-project leader, RMB 500k, 2024-2027.
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
 - National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
 - Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1M, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
@@ -93,16 +80,16 @@ JOURNAL REVIEWER
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
-- "In vivo deep Raman spectroscopy for tomography and image-guided surgery", 2nd MED-X annual conferences, Dec 2024.
-- "Non-invasive Raman optical imaging on small animal models", Instrumental Website Online Webinar, May 2024.
-- "Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging", NELM conference, April 2024, Hangzhou, China.
-- "Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges", 3rd NCRBA conference, March 2024, Shanghai, China.
-- "In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions", SciX, October 2023, Sparks, Nevada.
-- "Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis", Photonix Conference, May 2023, Hangzhou, China.
-- "In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis", Instrumental Website Online Webinar, June 2023, Online.
-- "Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window”, PIBM Conference, December 2021, Haikou, Hainan, China.
-- "Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance,” BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
-- "Biomedical Applications Based on Surface-Enhanced Raman Scattering,” Online Webinar, Horiba Inc., February 2020.
+- *In vivo deep Raman spectroscopy for tomography and image-guided surgery*, 2nd MED-X International conferences, Dec 2024, Shanghai.
+- *Non-invasive Raman optical imaging on small animal models*, Instrumental Website Online Webinar, May 2024.
+- *Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging*, NELM conference, April 2024, Hangzhou, China.
+- *Surface-Enhanced Deep Raman Spectroscopy: Advancements and Challenges*, 3rd NCRBA conference, March 2024, Shanghai, China.
+- *In Vivo Surface-Enhanced Transmission Raman Spectroscopy: Advancing Toward Photosafe Non-invasive Detection of Deep-Seated Lesions*, SciX, October 2023, Sparks, Nevada.
+- *Surface-Enhanced Transmission Raman Spectroscopy: Toward Photosafe Non-invasive Diagnosis*, Photonix Conference, May 2023, Hangzhou, China.
+- *In Vivo Surface-Enhanced Transmission Raman Spectroscopy for Photosafe Non-invasive Diagnosis*, Instrumental Website Online Webinar, June 2023, Online.
+- *Quantitative Direct Assessment of Raman Spectroscopic Tissue Penetration Depth in the NIR Window*, PIBM Conference, December 2021, Haikou, Hainan, China.
+- *Tissue Optical Properties and Tissue Penetration: Implications for Surgical Navigation and Guidance*, BIOE498/598 class, University of Illinois at Urbana-Champaign, September 2020.
+- *Biomedical Applications Based on Surface-Enhanced Raman Scattering*, Online Webinar, Horiba Inc., February 2020.
   
 ### TEACHING
 - BME9001, Frontiers of Biomedical Engineering(医学工程前沿进展), Fall semester, From 2023
