@@ -28,7 +28,7 @@ We use state-of-the-art nanofabrication and simulation technologies to design an
 %}
 {% capture text %}
 
-We are a multidisciplinary and compact team. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We work with Dr. Linley Li Lin, an Associate Professor at the School of Biomedical Engineering, SJTU. 
+We are a multidisciplinary and compact team. Our group members are from various backgrounds in materials science, biomedical engineering, electrical engineering, biology, physics, medicine, and other disciplines. We work with Dr. Linley Li Lin at the School of Biomedical Engineering, SJTU. 
 
 {%
   include button.html
@@ -52,9 +52,10 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-Last updated Jan 2025
+Last updated Feb 2025
+- Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
+- Jan 16, 2025: We explored the single-injection composite tracer combining Raman tags and methylene blue dye for intraoperative precise localization of sentinel lymph nodes. Published on *ACS Applied Materials & Interfaces*.[link](https://pubs.acs.org/doi/10.1021/acsami.4c20139)
 - Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
-- Jan 01, 2025: Dr. Lin was promoted to associate professor position at SJTU.
 - Nov 15, 2024: We investigated how freezing affects the tissue optical properties by using transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
 - Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
 - Oct 1, 2024: Our research on rapid diagnosis of GI tumors using a Raman fiber-optic probe published as a Paper in Forefront on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
