@@ -67,7 +67,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 ### SERVICE
 - Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
 - Early Career Editorial Board, *Exploration* (2024-2025)<br>
-- Journal Reviewer (*Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Chemosensors, Photonics, Lab Investigations, etc.*)
+- Journal Reviewer (*Chemical Society Reivews, Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Journal of Materials Chemistry B, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Bioengineering and Translational Medicine, Photonics, Lab Investigations, etc.*)
   
 ### GRANTS
 - National Key Research and Development Program of China, sub-project leader, RMB 500k, 2024-2027.
