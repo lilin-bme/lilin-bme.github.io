@@ -53,6 +53,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 ## Recent News
 
 Last updated Feb 2025
+- Mar 1, 2025: Mega review entitled as *SERS for biomedical applications* gets on-line![link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
 - Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
 - Jan 16, 2025: We explored the single-injection composite tracer combining Raman tags and methylene blue dye for intraoperative precise localization of sentinel lymph nodes. Published on *ACS Applied Materials & Interfaces*.[link](https://pubs.acs.org/doi/10.1021/acsami.4c20139)
 - Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
@@ -104,6 +105,7 @@ Last updated Feb 2025
 - Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Jia-yin SONG, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Yi-de YANG, undergraduate student, Shanghai Jiao Tong University, 2023-2025
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
