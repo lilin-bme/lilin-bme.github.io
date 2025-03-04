@@ -1,5 +1,62 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acsami.4c17502
+  title: 'Surface-Enhanced Raman Spectroscopy for Biomedical Applications: Recent
+    Advances and Future Challenges'
+  authors:
+  - Linley Li Lin
+  - Ramon Alvarez-Puebla
+  - "Luis M. Liz-Marz\xE1n"
+  - Matt Trau
+  - Jing Wang
+  - Laura Fabris
+  - Xiang Wang
+  - Guokun Liu
+  - Shuping Xu
+  - Xiao Xia Han
+  - Liangbao Yang
+  - Aiguo Shen
+  - Shikuan Yang
+  - Yikai Xu
+  - Chunchun Li
+  - Jinqing Huang
+  - Shao-Chuang Liu
+  - Jian-An Huang
+  - Indrajit Srivastava
+  - Ming Li
+  - Limei Tian
+  - Lam Bang Thanh Nguyen
+  - Xinyuan Bi
+  - Dana Cialla-May
+  - Pavel Matousek
+  - Nicholas Stone
+  - Randy P. Carney
+  - Wei Ji
+  - Wei Song
+  - Zhou Chen
+  - In Yee Phang
+  - Malou Henriksen-Lacey
+  - Haoran Chen
+  - Zongyu Wu
+  - Heng Guo
+  - Hao Ma
+  - Gennadii Ustinov
+  - Siheng Luo
+  - Sara Mosca
+  - Benjamin Gardner
+  - Yi-Tao Long
+  - Juergen Popp
+  - Bin Ren
+  - Shuming Nie
+  - Bing Zhao
+  - Xing Yi Ling
+  - Jian Ye
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2025-02-24'
+  link: https://doi.org/g86tj4
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.4c20139
   title: Single-Injection Composite Tracer Achieves Intraoperative Dual-Tracing and
     Precise Localization of Sentinel Lymph Nodes
