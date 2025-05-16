@@ -36,6 +36,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
+- 2023 Wiley (China) Open Science Excellent Author
 - 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
 - 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光学者)
 - 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
@@ -53,7 +54,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1400. See [publication list](http://linlab-sjtu.com/publications).<br>
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1400. See [publication list](http://linlab-sjtu.com/publications). <br>
 
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
@@ -69,12 +70,12 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Journal Reviewer (*Chemical Society Reivews, Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Journal of Materials Chemistry B, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Bioengineering and Translational Medicine, Photonics, Lab Investigations, etc.*)
   
 ### GRANTS
-- National Key Research and Development Program of China, sub-project leader, RMB 500k, 2024-2027.
-- Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 200k, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
-- National Science Foundation of China (NSFC), PI, RMB 480k, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
-- Shanghai Science and Technology Research Program, co-PI and theme leader, RMB 1M, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
+- National Key Research and Development Program of China, sub-project leader, 2024-2027.
+- Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
+- National Science Foundation of China (NSFC), PI, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
+- Shanghai Science and Technology Research Program, co-PI and theme leader, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
 - Shanghai Municipal Chen-Guang Program, PI, 2022-2023, *Transmission Raman spectroscopy for the non-invasive  detection of in vivo lesions*
-- Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, RMB 250k, 2022-2024, *Rapid diagnosis of gastric cancer based on Raman fiber-optics system and AI algorithm*
+- Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, 2022-2024, *Rapid diagnosis of gastric cancer based on Raman fiber-optics system and machine learning algorithm*
 - National Science Foundation of China (NSFC), PI, RMB 200k, 2019-2022, *Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study*
 - Start-up funding support, PI, SJTU
 
