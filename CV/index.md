@@ -54,7 +54,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 200 and citations of more than 1400. See [publication list](http://linlab-sjtu.com/publications). <br>
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 250 and citations of more than 1500. See [publication list](http://linlab-sjtu.com/publications). <br>
 
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
