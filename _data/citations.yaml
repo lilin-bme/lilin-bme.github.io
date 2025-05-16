@@ -1,5 +1,60 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.bios.2025.117377
+  title: 'Multiplexed lateral flow immunoassays using high photostability gap-enhanced
+    Raman nanotags: Highly sensitive, rapid, efficient and portable point-of-care
+    tests'
+  authors:
+  - Xudong Jin
+  - Yumin Zhang
+  - Qingsheng Guo
+  - Binge Deng
+  - Ziyang Tan
+  - Fugang Liu
+  - Li Lin
+  - Jian Ye
+  - Hong Xu
+  publisher: Biosensors and Bioelectronics
+  date: '2025-06-01'
+  link: https://doi.org/g89hdw
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.5c01041
+  title: Thermoplasmonic Regulation and <i>In Situ</i> Detection of Biomolecules with
+    a Photothermal-Enhanced Plasmonic Biosensing System
+  authors:
+  - Guangyu Qiu
+  - Linlin Liu
+  - Danhua Wang
+  - Fei He
+  - Min Gao
+  - Linley Li Lin
+  - Jian Ye
+  - Jing Wang
+  - Guang-Zhong Yang
+  publisher: ACS Nano
+  date: '2025-04-25'
+  link: https://doi.org/g9gs8r
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.analchem.4c06584
+  title: Artificial Intelligence-Powered Surface-Enhanced Raman Spectroscopy for Biomedical
+    Applications
+  authors:
+  - Xinyuan Bi
+  - Xiyue Ai
+  - Zongyu Wu
+  - Linley Li Lin
+  - Zhou Chen
+  - Jian Ye
+  publisher: Analytical Chemistry
+  date: '2025-03-27'
+  link: https://doi.org/g8998s
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.4c17502
   title: 'Surface-Enhanced Raman Spectroscopy for Biomedical Applications: Recent
     Advances and Future Challenges'
