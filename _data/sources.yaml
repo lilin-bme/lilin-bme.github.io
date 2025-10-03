@@ -76,21 +76,7 @@
     - Gastric tumor
     - EDRS
     - Euclidean distance-based Raman spectroscopy
-  
-- id: doi:10.3390/bios14080372
-  image: images/Papers/2024Biosensors.JPG
-  tags:
-    - Raman diagnosis
-    - Thyroid tumor
-    - Liquid biopsy
-  authors:
-  - Lili Gao
-  - Siyi Wu
-  - Puwasit Wongwasuratthakul
-  - Zhou Chen
-  - Wei Cai
-  - Qinyu Li
-  - <strong>Linley Li Lin</strong>
+
   
 - id: doi:10.1016/j.saa.2024.125062 
   image: images/Papers/2024SAA2.JPG
