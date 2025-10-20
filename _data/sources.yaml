@@ -1,3 +1,20 @@
+- id: doi:10.1016/j.bios.2025.117377
+ image: images/Papers/2025BB.jpg
+ authors: 
+ -Xudong Jin
+ -Yumin Zhang
+ -Qingsheng Guo
+ -Binge Deng
+ -Ziyang Tan
+ -Fugang Liu
+ -<strong>Linley Li Lin*</strong>
+ -Jian Ye
+ -Hong Xu
+ tags:
+    - SERS
+    - LFIA
+   
+Multiplexed lateral f
 - id: doi:10.1021/acsami.4c17502
   image: images/Papers/2025Megareview.JPG
   tags:
