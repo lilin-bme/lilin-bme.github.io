@@ -36,12 +36,13 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
+- 2025 SJTU Youth Post Expert (交大青年岗位能手）
 - 2023 Wiley (China) Open Science Excellent Author
 - 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
 - 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光学者)
 - 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
+- 2021 Best Cover Article Award, JIOHS journal
 - 2019 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics
-- 2018 Shanghai Super Postdoctoral Fellowship
 - 2018 Shanghai Excellent Graduates
 - 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
 - 2017 Best Poster Award, 2017 International Conference on SERS <br>
@@ -54,32 +55,37 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - 2022 National College Student Biomedical Engineering Innovation Design Competition Advisor Award (全国大学生生物医学工程创新设计竞赛).
    
 ### PUBLICATIONS 
-Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 40 journal papers, with an impact factor of over 250 and citations of more than 1500. See [publication list](http://linlab-sjtu.com/publications). <br>
+Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 50 journal papers with the citation of over 1900. See [publication list](http://linlab-sjtu.com/publications). <br>
 
 ##### Book Chapters
-- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications," In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
+- Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications", In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
 - Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355. (https://dio.org/10.1016/B978-0-12-822425-0.00111-1) <br> 
-- Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging.” In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
+- Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging”, In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
 ##### Approved patents (to be updated)
--	Jian Ye, Li Lin, Zhonghui Liu, Hongchen Gu, “A method to quantify the reflective index of nanometer-thick molecular layers,” China Patent ZL. 106338493A.
-- Jian Ye, Li Lin, Hongchen Gu, “The synthesis of a multi-layered core-shell SERS probe,” China Patent ZL.104914087A.
+-	"A method to quantify the reflective index of nanometer-thick molecular layers", China Patent ZL201610755915.2
+- "The synthesis of a multi-layered core-shell SERS probe", China Patent ZL201510253848
+- A method for locating the depth of lesions in heterogeneous tissues, China Patent ZL202310179305.2
+- A measurement method for the difference in effective attenuation coefficients of photons of different wavelengths in tissues, China Patent ZL202311041135.8
+- A method based on transmitted Raman spectroscopy and two-step scanning Raman contrast agent localization, China Patent ZL202311041135.8
+- A deep detection system, method and application based on a large-spot spatially-offset Raman probe, China Patent ZL202411194799.2
 
 ### SERVICE
 - Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
 - Early Career Editorial Board, *Exploration* (2024-2025)<br>
-- Journal Reviewer (*Chemical Society Reivews, Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Journal of Materials Chemistry B, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Bioengineering and Translational Medicine, Photonics, Lab Investigations, etc.*)
+- Journal Reviewer (*Chemical Society Reviews, Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Journal of Materials Chemistry B, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Bioengineering and Translational Medicine, Photonics, Lab Investigations, etc.*)
   
 ### GRANTS
-- National Key Research and Development Program of China, sub-project leader, 2024-2027.
+- National Key Research and Development Program of China, 2M, sub-project PI, 2024-2027.
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
 - National Science Foundation of China (NSFC), PI, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
-- Shanghai Science and Technology Research Program, co-PI and theme leader, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
+- Shanghai Science and Technology Research Program, 1M, sub-project PI, 2021-2023, *Raman fiber-optics and micromedical robot based spectroscopic tumor biopsy*
 - Shanghai Municipal Chen-Guang Program, PI, 2022-2023, *Transmission Raman spectroscopy for the non-invasive  detection of in vivo lesions*
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, 2022-2024, *Rapid diagnosis of gastric cancer based on Raman fiber-optics system and machine learning algorithm*
-- National Science Foundation of China (NSFC), PI, RMB 200k, 2019-2022, *Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study*
+- National Science Foundation of China (NSFC), PI, 2019-2022, *Enhanced Raman Tags in the Second Near-Infrared Window and Their Tissue Penetration Depth Study*
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
+- *In Vivo SEDRS: Non-invasive Detection and Image-Guided Surgery of Deep-Seated Lesions*, AMI Conference, July 2025, Singapore. (Session Chair)
 - *In Vivo Deep Raman Spectroscopy for Tomography and Image-Guided Surgery*, 2nd MED-X International conferences, Dec 2024, Shanghai.
 - *Non-Invasive Raman Optical Imaging on Small Animal Models*, Instrumental Website Online Webinar, May 2024.
 - *Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging*, NELM conference, April 2024, Hangzhou, China.
@@ -96,3 +102,4 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
 - BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, From 2022
 - BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, From 2022
+
