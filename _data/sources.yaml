@@ -1,18 +1,30 @@
 - id: doi:10.1016/j.bios.2025.117377
  image: images/Papers/2025BB.jpg
  authors: 
- -Xudong Jin
- -Yumin Zhang
- -Qingsheng Guo
- -Binge Deng
- -Ziyang Tan
- -Fugang Liu
- -<strong>Linley Li Lin*</strong>
- -Jian Ye
- -Hong Xu
+ - Xudong Jin
+ - Yumin Zhang
+ - Qingsheng Guo
+ - Binge Deng
+ - Ziyang Tan
+ - Fugang Liu
+ - <strong>Linley Li Lin*</strong>
+ - Jian Ye*
+ - Hong Xu*
  tags:
     - SERS
     - LFIA
+
+- id: doi:10.1021/acs.analchem.4c06584
+  image: images/Papers/review.JPG
+  title: Artificial Intelligence-Powered Surface-Enhanced Raman Spectroscopy for Biomedical
+    Applications
+  authors:
+  - Xinyuan Bi
+  - Xiyue Ai
+  - Zongyu Wu
+  - <strong>Linley Li Lin*</strong>
+  - Zhou Chen*
+  - Jian Ye*
    
 Multiplexed lateral f
 - id: doi:10.1021/acsami.4c17502
