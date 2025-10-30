@@ -56,18 +56,19 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
    
 ### PUBLICATIONS 
 Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 50 journal papers with the citation of over 1900. See [publication list](http://linlab-sjtu.com/publications). <br>
+##### Featured Publications
 
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications", In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
 - Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355. (https://dio.org/10.1016/B978-0-12-822425-0.00111-1) <br> 
 - Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging”, In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.<br> 
 ##### Approved patents (to be updated)
--	A method to quantify the reflective index of nanometer-thick molecular layers, China Patent ZL201610755915.2
-- The synthesis of a multi-layered core-shell SERS probe, China Patent ZL201510253848
-- A method for locating the depth of lesions in heterogeneous tissues, China Patent ZL202310179305.2
-- A measurement method for the difference in effective attenuation coefficients of photons of different wavelengths in tissues, China Patent ZL202311041135.8
-- A method based on transmitted Raman spectroscopy and two-step scanning Raman contrast agent localization, China Patent ZL202311041135.8
-- A deep detection system, method and application based on a large-spot spatially-offset Raman probe, China Patent ZL202411194799.2
+-	A method to quantify the reflective index of nanometer-thick molecular layers, China Patent 2016
+- The synthesis of a multi-layered core-shell SERS probe, China Patent 2015
+- A method for locating the depth of lesions in heterogeneous tissues, China Patent 2023
+- A method for measuring differences in effective attenuation coefficients of photons at different wavelengths in biological tissues, China Patent 2023
+- A method based on transmitted Raman spectroscopy and two-step scanning for the localization of Raman imaging contrast agents, China Patent 2023
+- A deep detection system, method and application based on a large-spot spatially-offset Raman spectroscopy probe, China Patent 2024
 
 ### SERVICE
 - Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
@@ -102,5 +103,6 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
 - BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, From 2022
 - BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, From 2022
+
 
 
