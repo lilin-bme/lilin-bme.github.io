@@ -52,7 +52,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-- Mar 01, 2025: Mega review entitled as *SERS for biomedical applications* gets on-line![link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
+- Mar 01, 2025: Mega review contributed by over 40 authors in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, gets on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
 - Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
 - Jan 16, 2025: We explored the single-injection composite tracer combining Raman tags and methylene blue dye for intraoperative precise localization of sentinel lymph nodes. Published on *ACS Applied Materials & Interfaces*.[link](https://pubs.acs.org/doi/10.1021/acsami.4c20139)
 - Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
@@ -98,18 +98,20 @@ We are a multidisciplinary and compact team. Our group members are from various 
 - Rong-rong GUO (郭蓉蓉) Master student, from 2023
 - Hao-qiang XIE (谢浩强), PhD student, from 2024
 - Li FAN (樊丽), PhD student, from 2024
-- Han SHEN (沈涵), Master student, from 2024
+- Yutong Zhou, PhD student, from 2025
+- Ping SUN, PhD student, from 2025
+- Han SHEN, Master student, from 2024
 - Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
-- Han GU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Jia-yin SONG, undergraduate student, Shanghai Jiao Tong University, from 2023
-- Yi-de YANG, undergraduate student, Shanghai Jiao Tong University, 2023-2025
+- 
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
 - Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
 - Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
+- Yi-de YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
 
 {% include section.html %}
 
