@@ -56,8 +56,6 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
    
 ### PUBLICATIONS 
 Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'. So far, Dr. Lin has published over 50 journal papers with the citation of over 1900. See [publication list](http://linlab-sjtu.com/publications). <br>
-##### Featured Publications
-
 ##### Book Chapters
 - Yuqing Zhang, Han Gu, Zongyu Wu, Jian Ye, Linley Li Lin*. "Nano-engineering for gap-enhanced Raman tags (GERTs) and related plasmonic applications", In: Nano-Engineering at Functional Interfaces, Elsevier, 2025, Pages 75-91. (https://doi.org/10.1016/B978-0-443-21691-6.00005-6)<br> 
 - Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355. (https://dio.org/10.1016/B978-0-12-822425-0.00111-1) <br> 
@@ -68,11 +66,10 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - A method for locating the depth of lesions in heterogeneous tissues, China Patent 2023
 - A method for measuring differences in effective attenuation coefficients of photons at different wavelengths in biological tissues, China Patent 2023
 - A method based on transmitted Raman spectroscopy and two-step scanning for the localization of Raman imaging contrast agents, China Patent 2023
-- A deep detection system, method and application based on a large-spot spatially-offset Raman spectroscopy probe, China Patent 2024
+- A deep detection system, method, and application based on a large-spot spatially-offset Raman spectroscopy probe, China Patent 2024
 
 ### SERVICE
 - Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
-- Early Career Editorial Board, *Exploration* (2024-2025)<br>
 - Journal Reviewer (*Chemical Society Reviews, Analytical Chemistry, ACS Omega, ACS Applied Electronic Materials, Nature Communications, Journal of Materials Chemistry B, Environmental Science & Technology, Biosensors and Bioelectronics, IEEE Transactions on Biomedical Engineering, Optics and Lasers in Engineering, Applied Materials Today, Chemical Engineering Journal, Nanophotonics, Biosensors, Bioengineering and Translational Medicine, Photonics, Lab Investigations, etc.*)
   
 ### GRANTS
@@ -86,7 +83,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Start-up funding support, PI, SJTU
 
 ### INVITED TALKS
-- *In Vivo SEDRS: Non-invasive Detection and Image-Guided Surgery of Deep-Seated Lesions*, AMI Conference, July 2025, Singapore. (Session Chair)
+- *In Vivo SEDRS: Non-invasive Detection and Image-Guided Surgery of Deep-Seated Lesions*, AMI Conference, July 2025, Singapore. (Session co-chair)
 - *In Vivo Deep Raman Spectroscopy for Tomography and Image-Guided Surgery*, 2nd MED-X International conferences, Dec 2024, Shanghai.
 - *Non-Invasive Raman Optical Imaging on Small Animal Models*, Instrumental Website Online Webinar, May 2024.
 - *Deep Raman Spectroscopy for Non-invasive In Vivo Optical Imaging*, NELM conference, April 2024, Hangzhou, China.
@@ -103,6 +100,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
 - BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, From 2022
 - BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, From 2022
+
 
 
 
