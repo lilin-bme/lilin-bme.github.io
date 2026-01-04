@@ -94,19 +94,17 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## TEAM
 - Dr. Li LIN, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
-- Shi-yan FANG (方世言), PhD student, from 2022
-- Ze-hou SU (苏泽厚), PhD student, from 2023
-- Rong-rong GUO (郭蓉蓉) Master student, from 2023
-- Hao-qiang XIE (谢浩强), PhD student, from 2024
-- Li FAN (樊丽), PhD student, from 2024
-- Yutong Zhou, PhD student, from 2025
+- Shi-yan FANG, PhD student, from 2022
+- Ze-hou SU, PhD student, from 2023
+- Rong-rong GUO, Master student, from 2023
+- Hao-qiang XIE, PhD student, from 2024
+- Li FAN, PhD student, from 2024
 - Ping SUN, PhD student, from 2025
+- Yutong Zhou, PhD student, from 2025
 - Han SHEN, Master student, from 2024
 - Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
-- Yang LUO, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - Jia-yin SONG, undergraduate student, Shanghai Jiao Tong University, from 2023
-- 
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
