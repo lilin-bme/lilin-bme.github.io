@@ -52,7 +52,8 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-- Mar 01, 2025: Mega review contributed by over 40 authors in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, gets on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
+- Jun 01, 2025: Multiplexing SERS lateral flow assay study published on *Biosens and Bioelectron*.[link](https://www.sciencedirect.com/science/article/pii/S0956566325002519?via%3Dihub)
+- Mar 01, 2025: Mega review contributed by over 40 experts in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, is on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
 - Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
 - Jan 16, 2025: We explored the single-injection composite tracer combining Raman tags and methylene blue dye for intraoperative precise localization of sentinel lymph nodes. Published on *ACS Applied Materials & Interfaces*.[link](https://pubs.acs.org/doi/10.1021/acsami.4c20139)
 - Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
