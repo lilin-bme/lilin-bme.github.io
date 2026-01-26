@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1039/D5NR04403K
+  title: A flexible plasmonic SERS hydrogel patch for metabolite sensing on bio-interfaces
+  authors:
+  - Yide Yang
+  - Zehou Su
+  - Xuanting Liu
+  - Jiaying Song
+  - Chunchun Li
+  - Yikai Xu
+  - Jian Ye
+  - Linley Li Lin
+  publisher: Nanoscale
+  date: '2026-01-01'
+  link: https://doi.org/hbmcxk
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/sciadv.adx5246
   title: Oral delivery of aptamer-decorated SICTERS Raman probes for colonoscopy-guided
     resection and photothermal immunization of microtumors
