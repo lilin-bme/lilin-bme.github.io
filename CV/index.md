@@ -66,7 +66,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - A method for locating the depth of lesions in heterogeneous tissues, China Patent 2023
 - A method for measuring differences in effective attenuation coefficients of photons at different wavelengths in biological tissues, China Patent 2023
 - A method based on transmitted Raman spectroscopy and two-step scanning for the localization of Raman imaging contrast agents, China Patent 2023
-- A deep detection system, method, and application based on a large-spot spatially-offset Raman spectroscopy probe, China Patent 2024
+
 
 ### SERVICE
 - Early Career Editorial Board, *ACS Applied Materials & Interfaces* (2025-2027)<br>
@@ -100,6 +100,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - GE7002, Ethics and Academic Integrity of Medicine and Engineering(医工交叉的学术伦理与规范), Fall semester, From 2023
 - BME7006, Academic Integrity and Research Ethics (English Class)(学术伦理与科研规范-全英文班), Fall semester, From 2022
 - BME8201, Spectroscopic Nanomaterials in Biomedical Application(纳米光学材料的生物医学应用), Spring semester, From 2022
+
 
 
 
