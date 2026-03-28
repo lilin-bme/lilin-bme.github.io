@@ -52,6 +52,8 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
+- Marc 28, 2026: Congrats to Rongrong for graduation with the master degree!!
+- Jan 16, 2026: We developed flexible plasmonic SERS hydrogel patchs for metabolite sensing on bio-interfaces, published on *Nanoscale*.[link](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04403k)
 - Jun 01, 2025: Multiplexing SERS lateral flow assay study published on *Biosens and Bioelectron*.[link](https://www.sciencedirect.com/science/article/pii/S0956566325002519?via%3Dihub)
 - Mar 01, 2025: Mega review contributed by over 40 experts in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, is on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
 - Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
@@ -75,7 +77,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
 - Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
-- Aug 03, 2023: Paper on "Quantitative Assessments of Spectroscopic Tissue Penetration" accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
+- Aug 03, 2023: "Quantitative Assessments of Spectroscopic Tissue Penetration" paper accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20(SERS))
 - June 08, 2023: Dr. Lin delivered an invited talk at the PhotoniX Conference.
 - May 30, 2023: Dr. Lin delivered an online webinar talk as invited by the Instrument Website.
 - May 25, 2023: Haoqiang Xie was awarded the national undergraduate innovation research program. 
@@ -96,7 +98,6 @@ We are a multidisciplinary and compact team. Our group members are from various 
 - Dr. Li LIN, PI, See CV [[Link](http://linlab-sjtu.com/CV)]
 - Shi-yan FANG, PhD student, from 2022
 - Ze-hou SU, PhD student, from 2023
-- Rong-rong GUO, Master student, from 2023
 - Hao-qiang XIE, PhD student, from 2024
 - Li FAN, PhD student, from 2024
 - Ping SUN, PhD student, from 2025
@@ -108,6 +109,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website [[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
+- Rong-rong GUO, Master student, 2023 - 2026. Work at Biomedicine company.  
 - Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
 - Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
 - Yi-de YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
