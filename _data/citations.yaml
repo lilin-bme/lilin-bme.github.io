@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acssensors.5c03331
+  title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
+    Fluid Metabolites and Extracellular Vesicles
+  authors:
+  - Yang Cheng
+  - Xinyuan Bi
+  - Bo Liu
+  - Zhou Chen
+  - Linley Li Lin
+  - Yuling Wang
+  - Jiahua Pan
+  - Jian Ye
+  publisher: ACS Sensors
+  date: '2026-01-28'
+  link: https://doi.org/hbncmf
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1039/D5NR04403K
   title: A flexible plasmonic SERS hydrogel patch for metabolite sensing on bio-interfaces
   authors:
@@ -280,6 +298,21 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/smll.202402235
+  title: "NIR\u2010II Surface\u2010Enhanced Raman Scattering Nanoprobes in Biomedicine:\
+    \ Current Impact and Future Directions"
+  authors: Binge Deng, Yuqing Zhang, Guangyu Qiu, Jin Li, <strong>Linley Li Lin*</strong>,
+    Jian Ye*
+  publisher: Small
+  date: '2024-06-07'
+  link: https://doi.org/gtxzwj
+  orcid: 0000-0002-8079-5768
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/review.JPG
+  tags:
+  - NIR-II
+  - SERS
 - id: doi:10.1016/j.saa.2024.125062
   title: Raman spectroscopy analysis combined with computed tomography imaging to
     identify microsatellite instability in gastric cancers
@@ -325,21 +358,6 @@
   - GERTs
   - Sentinel lymph node detection
   - Non-human primates
-- id: doi:10.1002/smll.202402235
-  title: "NIR\u2010II Surface\u2010Enhanced Raman Scattering Nanoprobes in Biomedicine:\
-    \ Current Impact and Future Directions"
-  authors: Binge Deng, Yuqing Zhang, Guangyu Qiu, Jin Li, <strong>Linley Li Lin*</strong>,
-    Jian Ye*
-  publisher: Small
-  date: '2024-06-07'
-  link: https://doi.org/gtxzwj
-  orcid: 0000-0002-8079-5768
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Papers/review.JPG
-  tags:
-  - NIR-II
-  - SERS
 - id: doi:10.1016/j.xcrm.2024.101579
   title: SERSomes for metabolic phenotyping and prostate cancer diagnosis
   authors:
