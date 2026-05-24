@@ -52,16 +52,19 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
-- Marc 28, 2026: Congrats to Rongrong for graduation with the master degree!!
-- Jan 16, 2026: We developed flexible plasmonic SERS hydrogel patchs for metabolite sensing on bio-interfaces, published on *Nanoscale*.[link](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04403k)
+- May 24, 2026: We are organizing the 1st Biomedical Raman International Summer School (BRISS). Welcome to join us! [link](https://bme.sjtu.edu.cn/Web/Show/4246)
+- Mar 28, 2026: Congrats to Rongrong for graduation with the master degree!!
+- Jan 16, 2026: Dr. Lin was selected as 2026 Nanoscale Emerging Investigators.
+- Jan 16, 2026: We developed flexible plasmonic SERS hydrogel patchs for metabolite sensing on bio-interfaces. Published on *Nanoscale*. [link](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04403k)
+- Nov 13, 2025: Dr. Lin delivered a talk on 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS13), entitled as 'in vivo surgical navigation using large-spot Raman spectroscopy in preclinical animals'.
 - Jun 01, 2025: Multiplexing SERS lateral flow assay study published on *Biosens and Bioelectron*.[link](https://www.sciencedirect.com/science/article/pii/S0956566325002519?via%3Dihub)
 - Mar 01, 2025: Mega review contributed by over 40 experts in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, is on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
-- Jan 27, 2025: Dr. Lin was promoted to Associate Professor position at SJTU.
+- Jan 27, 2025: Dr. Lin was promoted to the Associate Professor at SJTU.
 - Jan 16, 2025: We explored the single-injection composite tracer combining Raman tags and methylene blue dye for intraoperative precise localization of sentinel lymph nodes. Published on *ACS Applied Materials & Interfaces*.[link](https://pubs.acs.org/doi/10.1021/acsami.4c20139)
 - Jan 13, 2025: Dr. Lin was selected as an Early Career Board Member of *ACS Applied Materials & Interfaces*.
 - Nov 15, 2024: We investigated how freezing affects the tissue optical properties by using transmission Raman spectroscopy. Published on *ACS Nano*. [link](https://doi.org/10.1021/acsnano.4c12469)
-- Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all!
-- Oct 1, 2024: Our research on rapid diagnosis of GI tumors using a Raman fiber-optic probe published as a Paper in Forefront on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
+- Oct 13, 2024: Our team won the Gold Medal in China International College Students Innovation Competition. Congrats to all! [link](https://www.bilibili.com/video/BV1oy411i7E6/)
+- Oct 1, 2024: Our work on rapid diagnosis of GI tumors using a Raman fiber-optic probe published as a Forefront Paper on *Analytical and Bioanalytical Chemistry*. [link](https://link.springer.com/article/10.1007/s00216-024-05545-w)
 - Aug 31, 2024: Our research on EDRS-based gastric cancer diagnosis published on *Spectrochimica Part A*. [link](https://www.sciencedirect.com/science/article/pii/S1386142524012289)
 - July 23, 2024: Our team won the Champion in Shanghai International College Students Innovation Competition with the project "Transmission Raman Spectroscopy for Non-Invasive Lymph Node Identification and Localization". Congrats to all!
 - July 01, 2024: Paper on NIR-II Raman nanotags for Sentinel lymph node identification published on *Biomaterials*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0142961224000723)
