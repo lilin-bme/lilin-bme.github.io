@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1142/S1793545826400080
+  title: Deep learning-assisted reconstruction of Raman speckle images transmitted
+    through biological tissues
+  authors:
+  - Haoqiang Xie
+  - Erjia Wang
+  - Zhouzhou Bao
+  - Zhou Chen
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Journal of Innovative Optical Health Sciences
+  date: '2026-04-23'
+  link: https://doi.org/hbzkk6
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acssensors.5c03331
   title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
     Fluid Metabolites and Extracellular Vesicles
@@ -659,8 +675,8 @@
   - SERS
   - detection depth assessment
 - id: doi:10.1515/nanoph-2021-0116
-  title: Probing electron transport in plasmonic molecular junctions with two-photon
-    luminescence spectroscopy
+  title: "Probing electron transport in plasmonic molecular junctions with two\u2010\
+    photon luminescence spectroscopy"
   authors:
   - Qiang Zhang
   - Danjun Liu
@@ -669,7 +685,7 @@
   - Li Lin
   - Jian Ye
   - Yang Huang
-  - Shao-Ding Liu
+  - "Shao\u2010Ding Liu"
   - Chi Wah Leung
   - Dangyuan Lei
   publisher: Nanophotonics
