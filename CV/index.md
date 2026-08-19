@@ -36,6 +36,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
+- 2026 Nanoscale Emerging Investigators
 - 2025 SJTU Youth Post Expert (交大青年岗位能手）
 - 2023 Wiley (China) Open Science Excellent Author
 - 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
