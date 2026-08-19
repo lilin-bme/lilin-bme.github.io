@@ -33,7 +33,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - Associate Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2025-now
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-2024
 - Visiting postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
-- Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
+- Postdoctoral Fellow (Shanghai Super-postdoc fellowship), School of Biomedical Engineering, Shanghai Jiao Tong University, (Advisor: Prof. Jian Ye), 2018-2021
   
 ### HONORS AND AWARDS                                                                  
 - 2026 Nanoscale Emerging Investigators
