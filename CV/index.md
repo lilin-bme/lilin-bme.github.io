@@ -32,7 +32,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 ### PROFESSIONAL EMPLOYMENT 
 - Associate Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2025-now
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-2024
-- Visiting scholar and postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
+- Visiting postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow, School of Biomedical Engineering, Shanghai Jiao Tong University, 2018-2021
   
 ### HONORS AND AWARDS                                                                  
@@ -44,9 +44,7 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 - 2021 Best Paper Award Nomination, IEEE 3M-Nano Conference
 - 2021 Best Cover Article Award, JIOHS journal
 - 2019 Best Paper Award, The 9th International Multidisciplinary Conference on Optofluidics
-- 2018 Shanghai Excellent Graduates
-- 2017 Academic Rising Star in Shanghai Jiao Tong University (Top 10 students per year)
-- 2017 Best Poster Award, 2017 International Conference on SERS <br>
+
 ##### Advisor Awards
 - 2024 China International College Students Innovation Competition, Gold Medal (Student: Zongyu WU, Haoqiang XIE, Yang LUO, Han GU,互联网+国际大学生创新创业竞赛全国金奖)
 - 2024 Shanghai International College Students Innovation Competition, Champion (Student: Zongyu WU, Haoqiang XIE, Yang LUO, Han GU, 互联网+国际大学生创新创业竞赛上海赛冠军)
