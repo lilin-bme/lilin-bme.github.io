@@ -52,6 +52,7 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
+- May 24, 2026: We have successfully organized the 1st Biomedical Raman International Summer School (BRISS)! [link1](https://mp.weixin.qq.com/s/n5n2gR8gMlpe8Dkst91Lxg),[link2](https://www.instrument.com.cn/netshow/SH100344/news_959763.htm)
 - June 30, 2026: Congrats to Shiyan for graduation with the PhD degree!!
 - May 24, 2026: We are organizing the 1st Biomedical Raman International Summer School (BRISS). Welcome to join us! [link](https://bme.sjtu.edu.cn/Web/Show/4246)
 - Mar 28, 2026: Congrats to Rongrong for graduation with the master degree!!
