@@ -16,6 +16,39 @@
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1021/acsnano.6c05667
+  title: Predominance of the Noncell-Mediated Migration Mechanism for Large Nanoparticles
+    into Sentinel Lymph Nodes
+  authors:
+  - Zongyu Wu
+  - Rongrong Guo
+  - Yutong Zhou
+  - Xinyuan Bi
+  - Linley Li Lin
+  - Jian Ye
+  publisher: ACS Nano
+  date: '2026-06-15'
+  link: https://doi.org/hb8cb5
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.analchem.5c07804
+  title: Deep Learning-Based Restoration of Distorted Transmission Raman Spectra through
+    Biological Tissue
+  authors:
+  - Haoqiang Xie
+  - Zhou Chen
+  - Yutong Zhou
+  - Zehou Su
+  - Zongyu Wu
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Analytical Chemistry
+  date: '2026-06-08'
+  link: https://doi.org/hb7pss
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acssensors.5c03331
   title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
     Fluid Metabolites and Extracellular Vesicles
@@ -48,6 +81,23 @@
   publisher: Nanoscale
   date: '2026-01-01'
   link: https://doi.org/hbmcxk
+  orcid: 0000-0002-8079-5768
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D6CC01952H
+  title: "Multiplexed digital colloid-enhanced Raman spectroscopy for metabolite detection\n\
+    \                    <i>via</i>\n                    selective molecular affinity"
+  authors:
+  - Shuang Ni
+  - Zhewen Luo
+  - Xinyuan Bi
+  - Haoran Chen
+  - Zehou Su
+  - Linley Li Lin
+  - Jian Ye
+  publisher: Chemical Communications
+  date: '2026-01-01'
+  link: https://doi.org/hb6vwh
   orcid: 0000-0002-8079-5768
   plugin: orcid.py
   file: orcid.yaml
