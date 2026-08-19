@@ -52,9 +52,10 @@ We are a multidisciplinary and compact team. Our group members are from various 
 
 ## Recent News
 
+- June 30, 2026: Congrats to Shiyan for graduation with the PhD degree!!
 - May 24, 2026: We are organizing the 1st Biomedical Raman International Summer School (BRISS). Welcome to join us! [link](https://bme.sjtu.edu.cn/Web/Show/4246)
 - Mar 28, 2026: Congrats to Rongrong for graduation with the master degree!!
-- Jan 16, 2026: Dr. Lin was selected as 2026 Nanoscale Emerging Investigators.
+- Jan 16, 2026: Dr. Lin was selected as 2026 Nanoscale Emerging Investigator.
 - Jan 16, 2026: We developed flexible plasmonic SERS hydrogel patchs for metabolite sensing on bio-interfaces. Published on *Nanoscale*. [link](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04403k)
 - Nov 13, 2025: Dr. Lin delivered a talk on 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS13), entitled as 'in vivo surgical navigation using large-spot Raman spectroscopy in preclinical animals'.
 - Jun 01, 2025: Multiplexing SERS lateral flow assay study published on *Biosens and Bioelectron*.[link](https://www.sciencedirect.com/science/article/pii/S0956566325002519?via%3Dihub)
