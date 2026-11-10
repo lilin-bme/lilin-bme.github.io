@@ -17,6 +17,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/2026-Journal of Innovative Optical Health Sciences.jpg
+  tags:
+  - Transmission Raman spectroscopy
+  - Spectral reconstruction
 - id: doi:10.1021/acsnano.6c05667
   title: Predominance of the Noncell-Mediated Migration Mechanism for Large Nanoparticles
     into Sentinel Lymph Nodes
@@ -34,6 +37,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/2026-ACS Nano.jpg
+  tags:
+  - GERTs
+  - Sentinel lymph node
 - id: doi:10.1021/acs.analchem.5c07804
   title: Deep Learning-Based Restoration of Distorted Transmission Raman Spectra through
     Biological Tissue
@@ -52,6 +58,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Papers/2026-Analytical Chemistry.jpg
+  tags:
+  - Transmission Raman spectroscopy
+  - Spectral reconstruction
 - id: doi:10.1021/acssensors.5c03331
   title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
     Fluid Metabolites and Extracellular Vesicles
