@@ -14,7 +14,7 @@ Email: <linli92@sjtu.edu.cn>
 ORCID: 0000-0002-8079-5768 \[[link](https://orcid.org/0000-0002-8079-5768)]
 Google Scholar page \[[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ\&hl=zh-CN)]
 Researchgate page \[[link](https://www.researchgate.net/profile/Li-Lin-71)]
-More links: School of Biomedical Engineering, SJTU \[[Website](bme.sjtu.edu.cn)]
+More links: School of Biomedical Engineering, SJTU \[[Website](https://bme.sjtu.edu.cn)]
 
 {% endcapture %}
 
@@ -36,14 +36,13 @@ Dr. Linley Li Lin is currently an associate professor at Shanghai Jiao Tong Univ
 
 - Associate Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2025-now
 - Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University, 2021-2024
-- Visiting&#x20;
 - Visiting Postdoctoral Fellow, Department of Bioengineering, University of Illinois at Urbana-Champaign (Advisor: Prof. Shuming Nie), 2018-2020
 - Postdoctoral Fellow (Shanghai Super-postdoc fellowship), School of Biomedical Engineering, Shanghai Jiao Tong University, (Advisor: Prof. Jian Ye), 2018-2021
 
 ### HONORS AND AWARDS
 
 - 2026 Nanoscale Emerging Investigators
-- 2025 SJTU Youth Post Expert (交大青年岗位能手）
+- 2025 SJTU Youth Post Expert (交大青年岗位能手)
 - 2023 Wiley (China) Open Science Excellent Author
 - 2023 SJTU Teaching Award, Second-Tier (校级教学成果奖二等奖)
 - 2022 Shanghai Education Municipal Chen-Guang Young Scholar Program (上海市晨光学者)
@@ -70,7 +69,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 - Li Lin, Ruiyang Xue, Shuming Nie. "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", In: Reference Module in Materials Science and Materials Engineering, Elsevier, 2022, pp340-355. (<https://doi.org/10.1016/B978-0-12-822425-0.00111-1>)&#x20;
 - Li Lin, Jian Ye, “Spontaneous Raman and Surface-Enhanced Raman Scattering Bioimaging”, In: Wei X., Gu B. (eds) Optical imaging in Human Disease and Biological Research. Advances in Experimental Medicine and Biology, vol 3233. Springer, Singapore, 2021, pp177-195.
 
-##### Approved patents (to be updated)
+##### Approved patents
 
 - A method to quantify the reflective index of nanometer-thick molecular layers, China Patent 2016
 - The synthesis of a multi-layered core-shell SERS probe, China Patent 2015
@@ -86,7 +85,7 @@ Since 2024, the published name has been changed from 'Li Lin' to 'Linley Li Lin'
 
 ### GRANTS
 
-- National Science Foundation of China (NSFC), PI, 2027-2030, *Large-spot spatially offset Raman for intraoperative surgical guidane and the three-dimensional lesion reconstruction*
+- National Science Foundation of China (NSFC), PI, 2027-2030, *Large-spot spatially offset Raman for intraoperative surgical guidance and the three-dimensional lesion reconstruction*
 - National Key Research and Development Program of China, 2M, sub-project PI, 2024-2027.
 - Shanghai Jiao Tong University Medicine-Engineering Program, co-PI, 2024-2026, *AI-assisted diagnosis and delineation of esophageal cancer lesion using the portable Raman system*
 - National Science Foundation of China (NSFC), PI, 2024-2027, *Deep Raman techniques for the non-invasive photosafe detection and depth estimation of in vivo lesions*
