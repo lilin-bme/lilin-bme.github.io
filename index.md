@@ -104,24 +104,27 @@ text=text
 ## TEAM
 
 - Dr. Li LIN, PI, See CV \[[Link](http://linlab-sjtu.com/CV)]
-- Shi-yan FANG, PhD student, from 2022
 - Ze-hou SU, PhD student, from 2023
 - Hao-qiang XIE, PhD student, from 2024
 - Li FAN, PhD student, from 2024
 - Ping SUN, PhD student, from 2025
-- Yutong Zhou, PhD student, from 2025
+- Yutong ZHOU, PhD student, from 2025
+- Baihui NIE, PhD, PhD student, from 2025
+- Yuhang ZHOU, , PhD student, from 2025
 - Han SHEN, Master student, from 2024
 - Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
 - Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
-- Jia-yin SONG, undergraduate student, Shanghai Jiao Tong University, from 2023
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website \[[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
 
+- Jia-yin SONG, Shanghai Jiao Tong University, Undergraduate student, 2024-2026. Currently at: Shanghai Tech University, PhD student.
+- Shi-yan FANG, PhD student, 2022-2026. Work as a University faculty.
 - Rong-rong GUO, Master student, 2023 - 2026. Work at Biomedicine company.
+- Yi-de YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
 - Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
 - Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
-- Yi-de YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
+- <br />
 
 {% include section.html %}
 
