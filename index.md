@@ -53,6 +53,7 @@ text=text
 
 ## Recent News
 
+- Sept 01, 2026: Undergraduate Xuanting LIU received NSFC funding (国自然青年学生项目) for his study on SERS detection of structurally similar metabolite molecules. Congrats!
 - Aug 25, 2026: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金
 - July 24, 2026: We have successfully organized the 1st Biomedical Raman International Summer School (BRISS)! [link1](https://mp.weixin.qq.com/s/n5n2gR8gMlpe8Dkst91Lxg),[link2](https://www.instrument.com.cn/netshow/SH100344/news_959763.htm)
 - June 30, 2026: Congrats to Shiyan for graduation with the PhD degree!!
@@ -60,7 +61,7 @@ text=text
 - Mar 28, 2026: Congrats to Rongrong for graduation with the master degree!!
 - Jan 16, 2026: Dr. Lin was selected as 2026 Nanoscale Emerging Investigator.
 - Jan 16, 2026: We developed flexible plasmonic SERS hydrogel patchs for metabolite sensing on bio-interfaces. Published on *Nanoscale*. [link](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04403k)
-- Nov 13, 2025: Dr. Lin delivered a talk on 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS13), entitled as 'in vivo surgical navigation using large-spot Raman spectroscopy in preclinical animals'.
+- Nov 13, 2025: Dr. Lin delivered a talk on 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS13).
 - Jun 01, 2025: Multiplexing SERS lateral flow assay study published on *Biosens and Bioelectron*.[link](https://www.sciencedirect.com/science/article/pii/S0956566325002519?via%3Dihub)
 - Mar 01, 2025: Mega review contributed by over 40 experts in the field of Raman spectroscopy across the world, entitled as *SERS for biomedical applications*, is on-line.[link](https://pubs.acs.org/doi/10.1021/acsami.4c17502)
 - Jan 27, 2025: Dr. Lin was promoted to the Associate Professor at SJTU.
@@ -82,7 +83,7 @@ text=text
 - Oct 08, 2023: Dr. Lin delivered an invited talk on *in vivo SETRS* at SciX Conference, as invited by Prof. Pavel Matousek.
 - Oct 05, 2023: Dr. Lin delivered a guest lecture for the UIUC BIOE class, as invited by Prof. Shuming Nie.
 - Sept 20, 2023: Transmission Raman Tomography paper accepted by *ACS Appl. Mater. Interfaces*. Congrats to Haoqiang!
-- Sept 08, 2023: Undergraduate Han GU received NSFC funding for her study on spatially offset Raman spectroscopy. Congrats!
+- Sept 08, 2023: Undergraduate Han GU received NSFC funding (国自然青年学生项目) for her study on tissue light diffusion during spatially offset Raman spectroscopy. Congrats!
 - Aug 25, 2023: Prof. Lin received NSFC general funding grants. Congrats! (祝贺团队获国自然面上基金)
 - Aug 03, 2023: "Quantitative Assessments of Spectroscopic Tissue Penetration" paper accepted by *MED-X*. [link](https://link.springer.com/article/10.1007/s44258-023-00010-2#:~:text=Here%20we%20report%20the%20use%20of%20surface-enhanced%20Raman%20scattering%20\(SERS\))
 - June 08, 2023: Dr. Lin delivered an invited talk at the PhotoniX Conference.
@@ -104,24 +105,24 @@ text=text
 ## TEAM
 
 - Dr. Li LIN, PI, See CV \[[Link](http://linlab-sjtu.com/CV)]
-- Ze-hou SU, PhD student, from 2023
-- Hao-qiang XIE, PhD student, from 2024
+- Zehou SU, PhD student, from 2023
+- Haoqiang XIE, PhD student, from 2024
 - Li FAN, PhD student, from 2024
 - Ping SUN, PhD student, from 2025
 - Yutong ZHOU, PhD student, from 2025
-- Baihui NIE, PhD, PhD student, from 2025
-- Yuhang ZHOU, , PhD student, from 2025
+- Baihui NIE, PhD, PhD student, from 2026
+- Yuhang ZHOU, PhD student, from 2026
 - Han SHEN, Master student, from 2024
-- Xin-yi LIU, Joint Master student with Xinhua Hospital, from 2024
-- Xuan-ting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
+- Xinyi LIU, Joint Master student with Xinhua Hospital, from 2024
+- Xuanting LIU, undergraduate student, Shanghai Jiao Tong University, from 2023
 - <strong>Our team is in close collaboration with YE LAB. More members can be found on the YE LAB website \[[Yelab@SJTU](http://www.yelab.sjtu.edu.cn/)]</strong>
 
 ## Alumni
 
-- Jia-yin SONG, Shanghai Jiao Tong University, Undergraduate student, 2024-2026. Currently at: Shanghai Tech University, PhD student.
-- Shi-yan FANG, PhD student, 2022-2026. Work as a University faculty.
-- Rong-rong GUO, Master student, 2023 - 2026. Work at Biomedicine company.
-- Yi-de YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
+- Jiayin SONG, Shanghai Jiao Tong University, Undergraduate student, 2024-2026. Currently at: Shanghai Tech University, PhD student.
+- Shiyan FANG, PhD student, 2022-2026. Work as a University faculty.
+- Rongrong GUO, Master student, 2023 - 2026. Work at Biomedicine company.
+- Yide YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
 - Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
 - Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
 - <br />
