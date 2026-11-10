@@ -17,7 +17,9 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: ubuntu-latest
+    # Pinned: Ruby 3.0 needs the Ubuntu 22.04 image; ubuntu-latest no longer
+    # provides a working Ruby 3.0 toolchain (bundler exits with code 5).
+    runs-on: ubuntu-22.04
 
     steps:
       # for debugging
