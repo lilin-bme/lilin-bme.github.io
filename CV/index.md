@@ -7,13 +7,13 @@ nav:
 
 {% capture text %}
 
-Associate Professor
-School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU)
-Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030
-Email: <linli92@sjtu.edu.cn>
-ORCID: 0000-0002-8079-5768 \[[link](https://orcid.org/0000-0002-8079-5768)]
-Google Scholar page \[[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ\&hl=zh-CN)]
-Researchgate page \[[link](https://www.researchgate.net/profile/Li-Lin-71)]
+Associate Professor<br>
+School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU)<br>
+Room 207 Med-X Institute, 1954 Huashan Rd, Xuhui, Shanghai 200030<br>
+Email: <linli92@sjtu.edu.cn><br>
+ORCID: 0000-0002-8079-5768 \[[link](https://orcid.org/0000-0002-8079-5768)]<br>
+Google Scholar page \[[link](https://scholar.google.com.hk/citations?user=Zc3cFgwAAAAJ\&hl=zh-CN)]<br>
+Researchgate page \[[link](https://www.researchgate.net/profile/Li-Lin-71)]<br>
 More links: School of Biomedical Engineering, SJTU \[[Website](https://bme.sjtu.edu.cn)]
 
 {% endcapture %}

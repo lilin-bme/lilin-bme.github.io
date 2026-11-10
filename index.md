@@ -125,7 +125,6 @@ text=text
 - Yide YANG, Shanghai Jiao Tong University, Undergraduate student, 2023-2025. Currently at: CAS, PhD candidate.
 - Haoqi HE, Shanghai Jiao Tong University, Master Student, 2020-2023. Currently at: Tsinghua University, PhD candidate.
 - Shu-Jia JIANG, Imperial College London, Undergraduate Summer Intern, 2023. Currently at: Imperial College London, student.
-- <br />
 
 {% include section.html %}
 
