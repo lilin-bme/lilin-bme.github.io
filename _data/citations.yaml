@@ -7,15 +7,16 @@
   - Haoqiang Xie
   - Erjia Wang
   - Zhouzhou Bao
-  - Zhou Chen
-  - Linley Li Lin
-  - Jian Ye
+  - Zhou Chen*
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
   publisher: Journal of Innovative Optical Health Sciences
   date: '2026-04-23'
   link: https://doi.org/hbzkk6
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2026-Journal of Innovative Optical Health Sciences.jpg
 - id: doi:10.1021/acsnano.6c05667
   title: Predominance of the Noncell-Mediated Migration Mechanism for Large Nanoparticles
     into Sentinel Lymph Nodes
@@ -24,14 +25,15 @@
   - Rongrong Guo
   - Yutong Zhou
   - Xinyuan Bi
-  - Linley Li Lin
-  - Jian Ye
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
   publisher: ACS Nano
   date: '2026-06-15'
   link: https://doi.org/hb8cb5
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2026-ACS Nano.jpg
 - id: doi:10.1021/acs.analchem.5c07804
   title: Deep Learning-Based Restoration of Distorted Transmission Raman Spectra through
     Biological Tissue
@@ -41,14 +43,15 @@
   - Yutong Zhou
   - Zehou Su
   - Zongyu Wu
-  - Linley Li Lin
-  - Jian Ye
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
   publisher: Analytical Chemistry
   date: '2026-06-08'
   link: https://doi.org/hb7pss
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2026-Analytical Chemistry.jpg
 - id: doi:10.1021/acssensors.5c03331
   title: Molecule-Level Interpretable SERS Diagnosis of Prostate Cancer via Prostatic
     Fluid Metabolites and Extracellular Vesicles
@@ -75,15 +78,16 @@
   - Xuanting Liu
   - Jiaying Song
   - Chunchun Li
-  - Yikai Xu
-  - Jian Ye
-  - Linley Li Lin
+  - Yikai Xu*
+  - Jian Ye*
+  - <strong>Linley Li Lin*</strong>
   publisher: Nanoscale
   date: '2026-01-01'
   link: https://doi.org/hbmcxk
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2026-Nanoscale.jpg
 - id: doi:10.1039/D6CC01952H
   title: "Multiplexed digital colloid-enhanced Raman spectroscopy for metabolite detection\n\
     \                    <i>via</i>\n                    selective molecular affinity"
@@ -93,14 +97,15 @@
   - Xinyuan Bi
   - Haoran Chen
   - Zehou Su
-  - Linley Li Lin
-  - Jian Ye
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
   publisher: Chemical Communications
   date: '2026-01-01'
   link: https://doi.org/hb6vwh
   orcid: 0000-0002-8079-5768
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Papers/2026-Chemical Communications.jpg
 - id: doi:10.1126/sciadv.adx5246
   title: Oral delivery of aptamer-decorated SICTERS Raman probes for colonoscopy-guided
     resection and photothermal immunization of microtumors
