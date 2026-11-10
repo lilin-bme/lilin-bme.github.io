@@ -14,6 +14,8 @@ nav:
 {% include section.html %}
 
 ## Highlighted
+{% include citation.html lookup="doi:10.1021/acsnano.6c05667" style="rich" %}
+{% include citation.html lookup="doi:10.1021/acs.analchem.5c07804" style="rich" %}
 {% include citation.html lookup="doi:10.1021/acsami.4c17502" style="rich" %}
 {% include citation.html lookup="doi:10.1007/s44258-023-00010-2" style="rich" %}
 {% include citation.html lookup="doi:10.1002/smtd.202201334" style="rich" %}
