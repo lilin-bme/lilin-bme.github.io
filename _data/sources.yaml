@@ -1,3 +1,57 @@
+- id: doi:10.1021/acsnano.6c05667
+  image: images/Papers/2026-ACS Nano.jpg
+  authors:
+  - Zongyu Wu
+  - Rongrong Guo
+  - Yutong Zhou
+  - Xinyuan Bi
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+
+- id: doi:10.1021/acs.analchem.5c07804
+  image: images/Papers/2026-Analytical Chemistry.jpg
+  authors:
+  - Haoqiang Xie
+  - Zhou Chen
+  - Yutong Zhou
+  - Zehou Su
+  - Zongyu Wu
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+
+- id: doi:10.1142/S1793545826400080
+  image: images/Papers/2026-Journal of Innovative Optical Health Sciences.jpg
+  authors:
+  - Haoqiang Xie
+  - Erjia Wang
+  - Zhouzhou Bao
+  - Zhou Chen*
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+
+- id: doi:10.1039/D6CC01952H
+  image: images/Papers/2026-Chemical Communications.jpg
+  authors:
+  - Shuang Ni
+  - Zhewen Luo
+  - Xinyuan Bi
+  - Haoran Chen
+  - Zehou Su
+  - <strong>Linley Li Lin*</strong>
+  - Jian Ye*
+
+- id: doi:10.1039/D5NR04403K
+  image: images/Papers/2026-Nanoscale.jpg
+  authors:
+  - Yide Yang
+  - Zehou Su
+  - Xuanting Liu
+  - Jiaying Song
+  - Chunchun Li
+  - Yikai Xu*
+  - Jian Ye*
+  - <strong>Linley Li Lin*</strong>
+
 - id: doi:10.1016/j.bios.2025.117377
   image: images/Papers/2025BB.jpg
   authors: 
